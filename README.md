@@ -1,29 +1,25 @@
 # Crusaderreich
 
-Crusaderreich adapts Kaiserreich into a monarchist German century after the Central Powers' victory. The present build uses CK3's original Old World map. It contains a 1936 bookmark and initial rulers and territory; events and decisions are deferred.
+Crusaderreich adapts Kaiserreich into a 1936 German century shaped by monarchies. It uses CK3's original Old World map. The scenario contains the named dynastic rulers supplied for this project, plus additional European states and temporary map representatives where a CK3 character is required to hold territory. Events and decisions come later.
 
 ## Install and test
 
-Copy this repository's `Crusaderreich` directory and `Crusaderreich.mod` file into your CK3 user `mod` directory, enable it in the launcher, and look for **The German Century** bookmark. The game installation is never modified. Start as a listed ruler, check their top title and counties, let one day pass, then inspect CK3's `error.log` for script errors. The launcher descriptor's supported-version line may need updating to your installed CK3 version.
+Copy `Crusaderreich` and `Crusaderreich.mod` into the CK3 user `mod` directory. Enable the mod in a launcher playset, select **The German Century**, and start a **new** 1936 game. Existing saves retain their old world state. The game installation is never modified.
 
-This build has **not been launched in CK3** in the cloud environment. The supplied archive was read as source data only; the machine does not have the game executable. CK3 may reject the 1936 date or require additional title, government, religion, or map-history work. Do not treat the bookmark's presence in files as proof that the game loads it.
+Inspect Germany, France, Austria, Poland, Ukraine, Russia, Italy, Iberia, Scandinavia and the Balkans in the realm map. Open the dynasty panel for Wilhelm II and confirm **Hohenzollern**, rather than the fallback name “Fletcher.” Check CK3's `error.log` after starting and advancing one day. The user supplied a screenshot confirming that the 1936 start loaded in an earlier build; these newer map and dynasty changes still need an in-game check. The launcher descriptor's supported-version line may need updating to the installed CK3 version.
 
-## Files
+## Scenario data
 
-- `data/nations.csv` and `data/characters.csv` record the user-defined dynastic settlement.
-- `data/title_assignments.csv` maps CK3 titles to nations. This is an approximation, not final Kaiserreich borders.
-- `data/county_map.csv` is generated from the supplied CK3 landed-title hierarchy.
-- `Crusaderreich/history/characters/crusaderreich_1936.txt` defines the named rulers and a non-playable Swiss council proxy.
-- `Crusaderreich/history/titles/crusaderreich_1936.txt` assigns dated holders and resets inherited lieges on 1936.1.1. Only nations with a defined holder appear in the generated game history.
-- `Crusaderreich/common/bookmarks` provides a selectable 1936 start.
-- `Crusaderreich/common/dynasties` uses localization keys for surnames; given names are defined separately in character history. The localization file supplies dynasty names and bookmark names.
+- `data/nations.csv` and `data/characters.csv` record monarchs, governments, and explicitly marked temporary representatives. The user-defined rulers take precedence over Kaiserreich's base politics.
+- `data/title_assignments.csv` maps CK3 titles to scenario states. Broad empire regions fill geography; specific titles override them at disputed borders.
+- `data/county_map.csv` maps 1,348 CK3 counties to states. All counties in the supplied CK3 **European** geographical region now have an assignment. This is coverage, not proof that every border is exact.
+- `data/complete_titles.csv` lists duchies and kingdoms whose counties all belong to one scenario state; those titles receive the matching holder in the generated 1936 history.
+- `Crusaderreich/history` defines dated characters and title holders. `Crusaderreich/common/landed_titles` adds crowns needed for Corsica, Flanders-Wallonia, and the divided Italian states. `Crusaderreich/common/dynasties` uses localized dynasty names and prefixes so surnames render correctly.
 
-Some nations in the roster still lack a named ruler or map territory. The map is **not yet a complete or exact Kaiserreich map**; unassigned Old World counties retain vanilla history. The current assignments correct identified border errors but still need a comprehensive county pass. Unknown birth dates are currently set to `1885.1.1` in generated game files as a temporary age placeholder; the source roster leaves those dates blank. Corsica has selected North African holdings; its full French African territory and several borders still need manual county work. No American territory is planned. The supplied CK3 title tree confirms Japan is on the original map.
+Some states outside Europe and some small border counties still need a visual review in CK3. Temporary council characters represent governments that CK3's medieval ruler model cannot express directly; they are excluded from the featured bookmark rulers. Unresearched birth dates use `1885.1.1` only as a marked game-data placeholder, while the source roster leaves them blank. Governments and religions are adapted through CK3's available mechanics.
 
-Run `python3 tools/validate.py` for data and reference checks. To update the map from CK3's landed-title files, run `python3 tools/build_map.py /path/to/game/common/landed_titles`, then `python3 tools/generate_scenario.py`. Both generators write only inside this mod repository.
+Run `python3 tools/validate.py` for data consistency. To rebuild the map from CK3's landed-title files, run `python3 tools/build_map.py /path/to/game/common/landed_titles`, then `python3 tools/generate_scenario.py`. Both generators write only inside the mod repository.
 
-## References and limits
+## References
 
-The CK3 title and bookmark formats were checked against the game-data archive supplied by the user and the public [CK3 modding wiki mirror](https://github.com/jesec/ck3-modding-wiki), especially its dynasty, bookmark, and title-history pages. Baseline 1936 ownership was checked against [Kaiserreich’s public starting-state files](https://github.com/Kaiserreich/Kaiserreich-4) at commit `699a5d0f49236e5033fa619f02a2078e93b84f5c`. Crusaderreich’s user-defined monarchies override Kaiserreich’s politics. The reference files are not copied into the mod.
-
-In-game testing remains required. A user reported that the earlier bookmark did not appear and that dynasties displayed as “Fletcher.” The bookmark government requirement and dynasty localization have been corrected in source, but those corrections have not yet been verified in CK3.
+The 1936 European layout was compared with the [Kaiserreich map supplied by the user](https://i.redd.it/qd9pz84qxji41.png) and [Kaiserreich's public starting-state files](https://github.com/Kaiserreich/Kaiserreich-4) at commit `699a5d0f49236e5033fa619f02a2078e93b84f5c`. CK3 file formats were checked against the user's game-data archive and the public [CK3 modding wiki mirror](https://github.com/jesec/ck3-modding-wiki). Those reference files are not copied into the mod.

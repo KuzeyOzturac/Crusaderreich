@@ -1,8 +1,8 @@
 # Generated Crusaderreich 1936 rulers.
 9000001 = {
-    name = "Wilhelm"
+    name = "Wilhelm II"
     culture = "german"
-    dynasty = 9900004
+    dynasty = 9900011
     rite = "roman_rite"
     1859.1.27 = { birth = yes }
 }
@@ -10,23 +10,38 @@
 9000017 = {
     name = "Jean"
     culture = "french"
-    dynasty = 9900006
+    dynasty = 9900016
     rite = "roman_rite"
     1874.9.4 = { birth = yes }
 }
 
 9000018 = {
-    name = "George"
+    name = "George V"
     culture = "english"
-    dynasty = 9900010
+    dynasty = 9900023
     rite = "roman_rite"
     1865.6.3 = { birth = yes }
 }
 
+9000050 = {
+    name = "Italian Republican Council"
+    culture = "italian"
+    rite = "roman_rite"
+    1885.1.1 = { birth = yes }
+}
+
+9000052 = {
+    name = "Ferdinando III"
+    culture = "italian"
+    dynasty = 9900005
+    rite = "roman_rite"
+    1885.1.1 = { birth = yes }
+}
+
 9000009 = {
-    name = "Karl"
+    name = "Karl I"
     culture = "german"
-    dynasty = 9900002
+    dynasty = 9900009
     rite = "roman_rite"
     1887.8.17 = { birth = yes }
 }
@@ -34,7 +49,7 @@
 9000021 = {
     name = "Joseph August"
     culture = "hungarian"
-    dynasty = 9900002
+    dynasty = 9900009
     rite = "roman_rite"
     1872.8.9 = { birth = yes }
 }
@@ -42,7 +57,7 @@
 9000025 = {
     name = "August Wilhelm"
     culture = "german"
-    dynasty = 9900004
+    dynasty = 9900011
     rite = "roman_rite"
     1885.1.1 = { birth = yes }
 }
@@ -50,23 +65,39 @@
 9000022 = {
     name = "Wilhelm Franz"
     culture = "russian"
-    dynasty = 9900002
+    dynasty = 9900009
     rite = "roman_rite"
     1885.1.1 = { birth = yes }
 }
 
 9000030 = {
-    name = "Vladimir"
+    name = "Vladimir Kirillovich"
     culture = "russian"
-    dynasty = 9900007
+    dynasty = 9900018
     rite = "roman_rite"
     1917.8.30 = { birth = yes }
+}
+
+9000055 = {
+    name = "Abdülmecid II"
+    culture = "turkish"
+    dynasty = 9900017
+    rite = "ashari"
+    1868.5.29 = { birth = yes }
+}
+
+9000056 = {
+    name = "Hirohito"
+    culture = "japanese"
+    dynasty = 9900024
+    rite = "shinto"
+    1901.4.29 = { birth = yes }
 }
 
 9000019 = {
     name = "Louis"
     culture = "french"
-    dynasty = 9900001
+    dynasty = 9900003
     rite = "roman_rite"
     1914.1.23 = { birth = yes }
 }
@@ -74,7 +105,7 @@
 9000020 = {
     name = "Karl Albrecht"
     culture = "german"
-    dynasty = 9900002
+    dynasty = 9900009
     rite = "roman_rite"
     1885.1.1 = { birth = yes }
 }
@@ -82,7 +113,7 @@
 9000023 = {
     name = "Leopold Salvator"
     culture = "croatian"
-    dynasty = 9900002
+    dynasty = 9900009
     rite = "roman_rite"
     1885.1.1 = { birth = yes }
 }
@@ -90,7 +121,7 @@
 9000024 = {
     name = "Wilhelm"
     culture = "german"
-    dynasty = 9900009
+    dynasty = 9900022
     rite = "roman_rite"
     1885.1.1 = { birth = yes }
 }
@@ -98,7 +129,7 @@
 9000026 = {
     name = "Adalbert"
     culture = "german"
-    dynasty = 9900004
+    dynasty = 9900011
     rite = "roman_rite"
     1885.1.1 = { birth = yes }
 }
@@ -106,7 +137,7 @@
 9000027 = {
     name = "Oskar"
     culture = "german"
-    dynasty = 9900004
+    dynasty = 9900011
     rite = "roman_rite"
     1885.1.1 = { birth = yes }
 }
@@ -114,7 +145,7 @@
 9000028 = {
     name = "Karl Gero"
     culture = "german"
-    dynasty = 9900008
+    dynasty = 9900021
     rite = "roman_rite"
     1885.1.1 = { birth = yes }
 }
@@ -122,7 +153,7 @@
 9000029 = {
     name = "Friedrich Karl"
     culture = "german"
-    dynasty = 9900003
+    dynasty = 9900010
     rite = "roman_rite"
     1885.1.1 = { birth = yes }
 }
@@ -130,7 +161,14 @@
 9000031 = {
     name = "Adolf Friedrich"
     culture = "german"
-    dynasty = 9900005
+    dynasty = 9900014
+    rite = "roman_rite"
+    1885.1.1 = { birth = yes }
+}
+
+9000051 = {
+    name = "Syndicalist National Council"
+    culture = "italian"
     rite = "roman_rite"
     1885.1.1 = { birth = yes }
 }
@@ -140,4 +178,158 @@
     culture = "swabian"
     rite = "roman_rite"
     1885.1.1 = { birth = yes }
+}
+
+9000053 = {
+    name = "Pius XI"
+    culture = "italian"
+    rite = "roman_rite"
+    1857.5.31 = { birth = yes }
+}
+
+9000054 = {
+    name = "Victor Emmanuel III"
+    culture = "italian"
+    dynasty = 9900019
+    rite = "roman_rite"
+    1869.11.11 = { birth = yes }
+}
+
+9000033 = {
+    name = "Icelandic Council"
+    culture = "icelandic"
+    rite = "roman_rite"
+    1885.1.1 = { birth = yes }
+}
+
+9000034 = {
+    name = "Michael"
+    culture = "irish"
+    dynasty = 9900007
+    rite = "roman_rite"
+    1890.10.16 = { birth = yes }
+}
+
+9000035 = {
+    name = "Christian X"
+    culture = "danish"
+    dynasty = 9900008
+    rite = "roman_rite"
+    1870.9.26 = { birth = yes }
+}
+
+9000036 = {
+    name = "Haakon VII"
+    culture = "norwegian"
+    dynasty = 9900008
+    rite = "roman_rite"
+    1872.8.3 = { birth = yes }
+}
+
+9000037 = {
+    name = "Gustaf V"
+    culture = "swedish"
+    dynasty = 9900002
+    rite = "roman_rite"
+    1858.6.16 = { birth = yes }
+}
+
+9000038 = {
+    name = "Bohemian Regency"
+    culture = "czech"
+    rite = "roman_rite"
+    1885.1.1 = { birth = yes }
+}
+
+9000039 = {
+    name = "Carol II"
+    culture = "romanian"
+    dynasty = 9900012
+    rite = "byzantine_rite"
+    1893.10.15 = { birth = yes }
+}
+
+9000040 = {
+    name = "Peter II"
+    culture = "serbian"
+    dynasty = 9900013
+    rite = "byzantine_rite"
+    1923.9.6 = { birth = yes }
+}
+
+9000041 = {
+    name = "Boris III"
+    culture = "bulgarian"
+    dynasty = 9900020
+    rite = "byzantine_rite"
+    1894.1.30 = { birth = yes }
+}
+
+9000042 = {
+    name = "George II"
+    culture = "greek"
+    dynasty = 9900008
+    rite = "byzantine_rite"
+    1890.7.19 = { birth = yes }
+}
+
+9000043 = {
+    name = "Alfonso XIII"
+    culture = "castilian"
+    dynasty = 9900004
+    rite = "roman_rite"
+    1886.5.17 = { birth = yes }
+}
+
+9000044 = {
+    name = "Duarte II"
+    culture = "portuguese"
+    dynasty = 9900006
+    rite = "roman_rite"
+    1907.9.23 = { birth = yes }
+}
+
+9000045 = {
+    name = "Don-Kuban Council"
+    culture = "russian"
+    rite = "byzantine_rite"
+    1885.1.1 = { birth = yes }
+}
+
+9000046 = {
+    name = "Georgian Council"
+    culture = "georgian"
+    rite = "byzantine_rite"
+    1885.1.1 = { birth = yes }
+}
+
+9000047 = {
+    name = "Armenian Council"
+    culture = "armenian"
+    rite = "byzantine_rite"
+    1885.1.1 = { birth = yes }
+}
+
+9000048 = {
+    name = "Azerbaijani Council"
+    culture = "azerbaijani"
+    rite = "ashari"
+    1885.1.1 = { birth = yes }
+}
+
+9000049 = {
+    name = "Mohammed V"
+    culture = "maghrebi"
+    dynasty = 9900001
+    rite = "ashari"
+    1909.8.10 = { birth = yes }
+}
+
+9000057 = {
+    name = "Wilhelmina"
+    culture = "dutch"
+    dynasty = 9900015
+    female = yes
+    rite = "roman_rite"
+    1880.8.31 = { birth = yes }
 }

@@ -1,4 +1,8 @@
 ck3_title,nation,note
+e_spain,SPA,Baseline realm; more specific title assignments override
+e_britannia,ENG,Baseline realm; more specific title assignments override
+e_france,FRA,Baseline realm; more specific title assignments override
+e_germany,GER,Baseline realm; more specific title assignments override
 k_saxony,GER,German core approximation
 k_bavaria,GER,German core approximation
 k_east_francia,GER,German core approximation
@@ -56,7 +60,7 @@ d_krain,AUS,Austrian Carniola
 d_provence,FRA,Kaiserreich French Provence
 d_dauphine,FRA,Kaiserreich French Lyonnais
 d_upper_burgundy,FRA,Kaiserreich French Franche-Comte
-c_savoie,FRA,Kaiserreich French Savoy
+c_savoie,SWI,Kaiserreich Swiss Upper Savoy (1936 map)
 d_steyermark,AUS,Kaiserreich Austrian Styria
 k_switzerland,SWI,Titular Swiss crown used as republic map title
 d_currezia,SWI,Swiss Grisons St Gallen Zurich
@@ -76,3 +80,75 @@ d_spoleto,SRI,Kaiserreich Socialist Republic Umbria
 c_viterbo,SRI,Kaiserreich Socialist Republic Viterbo
 d_latium,PAP,Kaiserreich Papal Latium
 d_sardinia,SRD,Kaiserreich Sardinia
+d_iceland,ICE,Scenario region inferred from supplied 1936 map
+k_ireland,IRE,Scenario region inferred from supplied 1936 map
+k_denmark,DEN,Scenario region inferred from supplied 1936 map
+k_norway,NOR,Scenario region inferred from supplied 1936 map
+k_sweden,SWE,Scenario region inferred from supplied 1936 map
+k_bohemia,BOH,Scenario region inferred from supplied 1936 map
+k_dacia,ROM,Scenario region inferred from supplied 1936 map
+k_moldavia,ROM,Scenario region inferred from supplied 1936 map
+k_serbia,SER,Scenario region inferred from supplied 1936 map
+k_bulgaria,BUL,Scenario region inferred from supplied 1936 map
+k_hellas,GRE,Scenario region inferred from supplied 1936 map
+k_epirus,GRE,Scenario region inferred from supplied 1936 map
+k_thessalonika,GRE,Scenario region inferred from supplied 1936 map
+k_krete,GRE,Scenario region inferred from supplied 1936 map
+k_andalusia,SPA,Scenario region inferred from supplied 1936 map
+k_badajoz,SPA,Scenario region inferred from supplied 1936 map
+k_valencia,SPA,Scenario region inferred from supplied 1936 map
+k_castille,SPA,Scenario region inferred from supplied 1936 map
+k_aragon,SPA,Scenario region inferred from supplied 1936 map
+k_navarra,SPA,Scenario region inferred from supplied 1936 map
+k_asturias,SPA,Scenario region inferred from supplied 1936 map
+k_leon,SPA,Scenario region inferred from supplied 1936 map
+k_spanish_galicia,SPA,Scenario region inferred from supplied 1936 map
+k_portugal,POR,Scenario region inferred from supplied 1936 map
+k_caucasus,DKU,Scenario region inferred from supplied 1936 map
+k_georgia,GEO,Scenario region inferred from supplied 1936 map
+k_armenia,ARM,Scenario region inferred from supplied 1936 map
+d_shirvan,AZE,Scenario region inferred from supplied 1936 map
+d_marrakesh,MOR,Scenario region inferred from supplied 1936 map
+d_sous,MOR,Scenario region inferred from supplied 1936 map
+d_tafilalt,MOR,Scenario region inferred from supplied 1936 map
+d_fes,MOR,Scenario region inferred from supplied 1936 map
+d_rif,MOR,Scenario region inferred from supplied 1936 map
+k_rum,OTT,Scenario region inferred from supplied 1936 map
+k_karaman,OTT,Scenario region inferred from supplied 1936 map
+k_trebizond,OTT,Scenario region inferred from supplied 1936 map
+k_cyprus,OTT,Scenario region inferred from supplied 1936 map
+e_russia,RUS,1936 map region; verify border counties in game
+d_yedisan,UKR,1936 map region; verify border counties in game
+d_kizilyedisan,UKR,1936 map region; verify border counties in game
+d_levedia,UKR,1936 map region; verify border counties in game
+d_red_levedia,UKR,1936 map region; verify border counties in game
+d_don_valley,DKU,1936 map region; verify border counties in game
+d_tana,DKU,1936 map region; verify border counties in game
+k_frisia,NED,1936 map region; verify border counties in game
+k_nikaea,OTT,1936 map region; verify border counties in game
+k_pontus,OTT,1936 map region; verify border counties in game
+k_mesopotamia,OTT,1936 map region; verify border counties in game
+k_syria,OTT,1936 map region; verify border counties in game
+k_jerusalem,OTT,1936 map region; verify border counties in game
+k_arabia,OTT,1936 map region; verify border counties in game
+c_byzantion,OTT,1936 map region; verify border counties in game
+d_beja,POR,Portuguese territory within CK3 Badajoz title
+d_algarve,POR,Portuguese territory within CK3 Badajoz title
+d_meissen,GER,Fill unassigned CK3 European county; inspect 1936 border in game
+d_lausitz,GER,Fill unassigned CK3 European county; inspect 1936 border in game
+d_aarjetje,SWE,Fill unassigned CK3 European county; inspect 1936 border in game
+d_vuovdisamieana,SWE,Fill unassigned CK3 European county; inspect 1936 border in game
+d_duortnoseatnu,NOR,Fill unassigned CK3 European county; inspect 1936 border in game
+c_biton,NOR,Fill unassigned CK3 European county; inspect 1936 border in game
+c_karasjohka,NOR,Fill unassigned CK3 European county; inspect 1936 border in game
+d_giemajohka,FIN,Fill unassigned CK3 European county; inspect 1936 border in game
+c_kittila,FIN,Fill unassigned CK3 European county; inspect 1936 border in game
+c_torne,FIN,Fill unassigned CK3 European county; inspect 1936 border in game
+c_rounala,FIN,Fill unassigned CK3 European county; inspect 1936 border in game
+d_guoldat,RUS,Fill unassigned CK3 European county; inspect 1936 border in game
+d_cherven_cities,GAL,Fill unassigned CK3 European county; inspect 1936 border in game
+d_venice,ITA,Fill unassigned CK3 European county; inspect 1936 border in game
+d_istria,AUS,Fill unassigned CK3 European county; inspect 1936 border in game
+c_aosta,SRI,Kaiserreich Socialist Republic Aosta Valley
+c_canavese,SRI,Piedmont east of Aosta
+e_siberia,RUS,"Kaiserreich Russian Siberia, outside European crop"

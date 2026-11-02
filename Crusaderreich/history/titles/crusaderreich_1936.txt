@@ -1,7 +1,28 @@
 # Generated 1936 title holders for scenario-assigned titles.
+c_aachen = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+c_aalborg = {
+    1936.1.1 = {
+        holder = 9000035
+        liege = 0
+    }
+}
+
 c_aargau = {
     1936.1.1 = {
         holder = 9000032
+        liege = 0
+    }
+}
+
+c_aarhus = {
+    1936.1.1 = {
+        holder = 9000035
         liege = 0
     }
 }
@@ -13,6 +34,90 @@ c_abauj = {
     }
 }
 
+c_abkhazia = {
+    1936.1.1 = {
+        holder = 9000046
+        liege = 0
+    }
+}
+
+c_ablastha = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_abruzzi = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+c_abydos = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_acampse = {
+    1936.1.1 = {
+        holder = 9000046
+        liege = 0
+    }
+}
+
+c_achaia = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_acre = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_adrianopolis = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+c_aeolis = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_aetolia = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_agadir = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+c_agdeside = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
 c_agenais = {
     1936.1.1 = {
         holder = 9000017
@@ -20,9 +125,100 @@ c_agenais = {
     }
 }
 
+c_agrigento = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
+c_ailech = {
+    1936.1.1 = {
+        holder = 9000034
+        liege = 0
+    }
+}
+
+c_aintab = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_ajaccio = {
     1936.1.1 = {
         holder = 9000019
+        liege = 0
+    }
+}
+
+c_akhadid = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_aki = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_akkel = {
+    1936.1.1 = {
+        holder = 9000029
+        liege = 0
+    }
+}
+
+c_al-arid = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_al-hasa = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_al_aqabah = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_al_jawf = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_aland = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_alarcon = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_albarracin = {
+    1936.1.1 = {
+        holder = 9000043
         liege = 0
     }
 }
@@ -41,9 +237,58 @@ c_albret = {
     }
 }
 
+c_alcacer_do_sal = {
+    1936.1.1 = {
+        holder = 9000044
+        liege = 0
+    }
+}
+
+c_alcaniz = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_alcaraz = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_alencon = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_aleppo = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_alexandretta = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_aley = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_algeciras = {
+    1936.1.1 = {
+        holder = 9000043
         liege = 0
     }
 }
@@ -55,9 +300,30 @@ c_algier = {
     }
 }
 
+c_alicante = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_allenstein = {
     1936.1.1 = {
         holder = 9000028
+        liege = 0
+    }
+}
+
+c_almader = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_almeria = {
+    1936.1.1 = {
+        holder = 9000043
         liege = 0
     }
 }
@@ -69,9 +335,23 @@ c_alpsee = {
     }
 }
 
+c_alto_aragon = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_aluksne = {
     1936.1.1 = {
         holder = 9000028
+        liege = 0
+    }
+}
+
+c_amaya = {
+    1936.1.1 = {
+        holder = 9000043
         liege = 0
     }
 }
@@ -90,9 +370,37 @@ c_amstetten = {
     }
 }
 
+c_anbar = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_ancona = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+c_andujar = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_angerburg = {
     1936.1.1 = {
         holder = 9000028
+        liege = 0
+    }
+}
+
+c_angermanland = {
+    1936.1.1 = {
+        holder = 9000037
         liege = 0
     }
 }
@@ -125,6 +433,13 @@ c_anjou = {
     }
 }
 
+c_anket = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
 c_annandale = {
     1936.1.1 = {
         holder = 9000018
@@ -135,6 +450,13 @@ c_annandale = {
 c_ansbach = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_antiocheia = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -153,6 +475,41 @@ c_antwerpen = {
     }
 }
 
+c_aosta = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+c_apahunik = {
+    1936.1.1 = {
+        holder = 9000047
+        liege = 0
+    }
+}
+
+c_apulia = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
+c_aqiq = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_aquileia = {
+    1936.1.1 = {
+        holder = 9000050
+        liege = 0
+    }
+}
+
 c_arad = {
     1936.1.1 = {
         holder = 9000021
@@ -160,9 +517,30 @@ c_arad = {
     }
 }
 
+c_aran = {
+    1936.1.1 = {
+        holder = 9000048
+        liege = 0
+    }
+}
+
 c_arbanon = {
     1936.1.1 = {
         holder = 9000024
+        liege = 0
+    }
+}
+
+c_arborea = {
+    1936.1.1 = {
+        holder = 9000054
+        liege = 0
+    }
+}
+
+c_arezzo = {
+    1936.1.1 = {
+        holder = 9000051
         liege = 0
     }
 }
@@ -181,9 +559,79 @@ c_armagnac = {
     }
 }
 
+c_arnhem = {
+    1936.1.1 = {
+        holder = 9000057
+        liege = 0
+    }
+}
+
+c_arnsberg = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+c_asfi = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+c_asir = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_astorga = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_astrakhan = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
+c_asturias_de_oviedo = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_asturias_de_santillana = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_athlone = {
+    1936.1.1 = {
+        holder = 9000034
+        liege = 0
+    }
+}
+
 c_atholl = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_attica = {
+    1936.1.1 = {
+        holder = 9000042
         liege = 0
     }
 }
@@ -198,6 +646,13 @@ c_augsburg = {
 c_aunis = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_austisland = {
+    1936.1.1 = {
+        holder = 9000033
         liege = 0
     }
 }
@@ -223,6 +678,27 @@ c_avalois = {
     }
 }
 
+c_aveiro = {
+    1936.1.1 = {
+        holder = 9000044
+        liege = 0
+    }
+}
+
+c_avila = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_aviovara = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
 c_avlonas = {
     1936.1.1 = {
         holder = 9000024
@@ -237,9 +713,58 @@ c_avranches = {
     }
 }
 
+c_awa = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_awaji = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
 c_ayrshire = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_aytos = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+c_az-dhahira = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_azov = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
+c_azysia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_baalbek = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -258,6 +783,20 @@ c_bacs = {
     }
 }
 
+c_badajoz = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_badaraya = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_baden = {
     1936.1.1 = {
         holder = 9000001
@@ -265,7 +804,42 @@ c_baden = {
     }
 }
 
+c_baghdad = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_bagrewand = {
+    1936.1.1 = {
+        holder = 9000047
+        liege = 0
+    }
+}
+
+c_bakhmut = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
+c_balqa = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_bamberg = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+c_bar = {
     1936.1.1 = {
         holder = 9000001
         liege = 0
@@ -286,6 +860,41 @@ c_barcasag = {
     }
 }
 
+c_barcelona = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_bardak = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_bari = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
+c_barlad = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+c_barnaul = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
 c_bars = {
     1936.1.1 = {
         holder = 9000021
@@ -300,9 +909,30 @@ c_bartenstein = {
     }
 }
 
+c_basra = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_bastia = {
     1936.1.1 = {
         holder = 9000019
+        liege = 0
+    }
+}
+
+c_batiha = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_batina = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -335,6 +965,20 @@ c_bedford = {
     }
 }
 
+c_beirut = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_beja = {
+    1936.1.1 = {
+        holder = 9000044
+        liege = 0
+    }
+}
+
 c_bejaia = {
     1936.1.1 = {
         holder = 9000019
@@ -349,6 +993,13 @@ c_bekes = {
     }
 }
 
+c_beksima = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
 c_bellac = {
     1936.1.1 = {
         holder = 9000017
@@ -356,9 +1007,44 @@ c_bellac = {
     }
 }
 
+c_belogorje = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
 c_beloozero = {
     1936.1.1 = {
         holder = 9000030
+        liege = 0
+    }
+}
+
+c_belz = {
+    1936.1.1 = {
+        holder = 9000020
+        liege = 0
+    }
+}
+
+c_benavente = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_benevento = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
+c_beograd = {
+    1936.1.1 = {
+        holder = 9000040
         liege = 0
     }
 }
@@ -391,6 +1077,13 @@ c_berestye = {
     }
 }
 
+c_bergh = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
 c_berkshire = {
     1936.1.1 = {
         holder = 9000018
@@ -412,6 +1105,13 @@ c_bern = {
     }
 }
 
+c_beroe = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
 c_berry = {
     1936.1.1 = {
         holder = 9000017
@@ -422,6 +1122,13 @@ c_berry = {
 c_besancon = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_besinada = {
+    1936.1.1 = {
+        holder = 9000045
         liege = 0
     }
 }
@@ -468,9 +1175,65 @@ c_bihar = {
     }
 }
 
+c_biia = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_bingo = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_bisha = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_bitchu = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_bithynia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_biton = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+c_bizen = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
 c_blankenburg = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_blekinge = {
+    1936.1.1 = {
+        holder = 9000035
         liege = 0
     }
 }
@@ -489,6 +1252,27 @@ c_bodrog = {
     }
 }
 
+c_boeotia = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_boleslav = {
+    1936.1.1 = {
+        holder = 9000038
+        liege = 0
+    }
+}
+
+c_bologna = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
 c_bordeaux = {
     1936.1.1 = {
         holder = 9000017
@@ -496,9 +1280,23 @@ c_bordeaux = {
     }
 }
 
+c_bornholm = {
+    1936.1.1 = {
+        holder = 9000035
+        liege = 0
+    }
+}
+
 c_borsod = {
     1936.1.1 = {
         holder = 9000021
+        liege = 0
+    }
+}
+
+c_bothin = {
+    1936.1.1 = {
+        holder = 9000036
         liege = 0
     }
 }
@@ -531,9 +1329,30 @@ c_brabant = {
     }
 }
 
+c_braganza = {
+    1936.1.1 = {
+        holder = 9000044
+        liege = 0
+    }
+}
+
+c_braila = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
 c_brandenburg = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_branicevo = {
+    1936.1.1 = {
+        holder = 9000041
         liege = 0
     }
 }
@@ -552,6 +1371,13 @@ c_brecknockshire = {
     }
 }
 
+c_breifne = {
+    1936.1.1 = {
+        holder = 9000034
+        liege = 0
+    }
+}
+
 c_breisgau = {
     1936.1.1 = {
         holder = 9000001
@@ -562,6 +1388,20 @@ c_breisgau = {
 c_bremen = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_brene = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+c_brescia = {
+    1936.1.1 = {
+        holder = 9000050
         liege = 0
     }
 }
@@ -587,9 +1427,23 @@ c_brie_francaise = {
     }
 }
 
+c_briey = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
 c_brixen = {
     1936.1.1 = {
         holder = 9000009
+        liege = 0
+    }
+}
+
+c_brno = {
+    1936.1.1 = {
+        holder = 9000038
         liege = 0
     }
 }
@@ -604,6 +1458,13 @@ c_brugge = {
 c_brunswick = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_brysis = {
+    1936.1.1 = {
+        holder = 9000042
         liege = 0
     }
 }
@@ -629,9 +1490,93 @@ c_buckinghamshire = {
     }
 }
 
+c_bucuresti = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+c_bungo = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_burgas = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
 c_burgau = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_burgos = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_buthrotum = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_buzau = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+c_buzen = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_byzantion = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_cabardinia = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
+c_cabra = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_caceres = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_cadiz = {
+    1936.1.1 = {
+        holder = 9000043
         liege = 0
     }
 }
@@ -643,9 +1588,51 @@ c_caernarfonshire = {
     }
 }
 
+c_cagliari = {
+    1936.1.1 = {
+        holder = 9000054
+        liege = 0
+    }
+}
+
 c_caithness = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_calafat = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+c_calarasi = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+c_calatayud = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_calatrava = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_camarda = {
+    1936.1.1 = {
+        holder = 9000052
         liege = 0
     }
 }
@@ -671,6 +1658,34 @@ c_cammin = {
     }
 }
 
+c_campulung = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+c_canavese = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+c_cappadocia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_capua = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
 c_carcassonne = {
     1936.1.1 = {
         holder = 9000017
@@ -681,6 +1696,13 @@ c_carcassonne = {
 c_cardiganshire = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_caria = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -699,9 +1721,72 @@ c_carrick = {
     }
 }
 
+c_casentino = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+c_caslav = {
+    1936.1.1 = {
+        holder = 9000038
+        liege = 0
+    }
+}
+
+c_castellon = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_castelo_branco = {
+    1936.1.1 = {
+        holder = 9000044
+        liege = 0
+    }
+}
+
+c_cephalonia = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_cerasus = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_cetatea_alba = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
 c_cetina = {
     1936.1.1 = {
         holder = 9000023
+        liege = 0
+    }
+}
+
+c_ceuta = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+c_chalkidike = {
+    1936.1.1 = {
+        holder = 9000042
         liege = 0
     }
 }
@@ -720,9 +1805,37 @@ c_chalons = {
     }
 }
 
+c_chandax = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_chania = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_charsianon = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_chartres = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_cherkassy = {
+    1936.1.1 = {
+        holder = 9000022
         liege = 0
     }
 }
@@ -741,9 +1854,65 @@ c_cherso = {
     }
 }
 
+c_cherven = {
+    1936.1.1 = {
+        holder = 9000020
+        liege = 0
+    }
+}
+
 c_cheshire = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_chich = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_chikugo = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_chikuzen = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_chilia = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+c_chios = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_choklema = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_chonae = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -755,9 +1924,23 @@ c_chornobyl = {
     }
 }
 
+c_chulym = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
 c_cieszyn = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_cilicia = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -776,9 +1959,23 @@ c_clermont_sur_allier = {
     }
 }
 
+c_cleves = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
 c_coburg = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_coimbra = {
+    1936.1.1 = {
+        holder = 9000044
         liege = 0
     }
 }
@@ -790,9 +1987,51 @@ c_colmar = {
     }
 }
 
+c_cologne = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+c_colonea = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_comminges = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_como = {
+    1936.1.1 = {
+        holder = 9000050
+        liege = 0
+    }
+}
+
+c_connacht = {
+    1936.1.1 = {
+        holder = 9000034
+        liege = 0
+    }
+}
+
+c_constanta = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+c_cordoba = {
+    1936.1.1 = {
+        holder = 9000043
         liege = 0
     }
 }
@@ -811,9 +2050,44 @@ c_cornwall = {
     }
 }
 
+c_coruna = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_cosenza = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
+c_cottbus = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
 c_coulommiers = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_craiova = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+c_cremona = {
+    1936.1.1 = {
+        holder = 9000050
         liege = 0
     }
 }
@@ -832,6 +2106,20 @@ c_csongrad = {
     }
 }
 
+c_cuellar = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_cuenca = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_cumberland = {
     1936.1.1 = {
         holder = 9000018
@@ -839,9 +2127,44 @@ c_cumberland = {
     }
 }
 
+c_cuneo = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
 c_czerska = {
     1936.1.1 = {
         holder = 9000025
+        liege = 0
+    }
+}
+
+c_dal = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_dalabergslagen = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_dalarna = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_damascus = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -867,6 +2190,13 @@ c_debar = {
     }
 }
 
+c_demetrias = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
 c_denbighshire = {
     1936.1.1 = {
         holder = 9000018
@@ -874,9 +2204,30 @@ c_denbighshire = {
     }
 }
 
+c_denia = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_derbent = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
 c_derby = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_desmond = {
+    1936.1.1 = {
+        holder = 9000034
         liege = 0
     }
 }
@@ -895,6 +2246,13 @@ c_devon = {
     }
 }
 
+c_dhafra = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_dijon = {
     1936.1.1 = {
         holder = 9000017
@@ -909,6 +2267,13 @@ c_ditmarschen = {
     }
 }
 
+c_dnipro = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
 c_dobrzynska = {
     1936.1.1 = {
         holder = 9000025
@@ -916,9 +2281,23 @@ c_dobrzynska = {
     }
 }
 
+c_dokkum = {
+    1936.1.1 = {
+        holder = 9000057
+        liege = 0
+    }
+}
+
 c_dole = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_dolgujar = {
+    1936.1.1 = {
+        holder = 9000030
         liege = 0
     }
 }
@@ -944,6 +2323,13 @@ c_dorohychyn = {
     }
 }
 
+c_dorostorum = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
 c_dorpat = {
     1936.1.1 = {
         holder = 9000031
@@ -958,6 +2344,41 @@ c_dorset = {
     }
 }
 
+c_dortmund = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+c_doudleby = {
+    1936.1.1 = {
+        holder = 9000038
+        liege = 0
+    }
+}
+
+c_draa = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+c_dresden = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+c_dublin = {
+    1936.1.1 = {
+        holder = 9000034
+        liege = 0
+    }
+}
+
 c_dubrovytsia = {
     1936.1.1 = {
         holder = 9000022
@@ -965,9 +2386,23 @@ c_dubrovytsia = {
     }
 }
 
+c_duklja = {
+    1936.1.1 = {
+        holder = 9000040
+        liege = 0
+    }
+}
+
 c_dunbar = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_duqm = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -986,9 +2421,23 @@ c_durne = {
     }
 }
 
+c_dvin = {
+    1936.1.1 = {
+        holder = 9000047
+        liege = 0
+    }
+}
+
 c_dyrrachion = {
     1936.1.1 = {
         holder = 9000024
+        liege = 0
+    }
+}
+
+c_east_kiilt = {
+    1936.1.1 = {
+        holder = 9000030
         liege = 0
     }
 }
@@ -1000,9 +2449,51 @@ c_east_riding = {
     }
 }
 
+c_echigo = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_echizen = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_edessa = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_eichstadt = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_elvas = {
+    1936.1.1 = {
+        holder = 9000044
+        liege = 0
+    }
+}
+
+c_ennis = {
+    1936.1.1 = {
+        holder = 9000034
+        liege = 0
+    }
+}
+
+c_epeiros = {
+    1936.1.1 = {
+        holder = 9000042
         liege = 0
     }
 }
@@ -1035,9 +2526,30 @@ c_esztergom = {
     }
 }
 
+c_etchu = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
 c_eu = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_euboea = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_euchaita = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -1049,6 +2561,27 @@ c_evreux = {
     }
 }
 
+c_eystridalir = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+c_faereyar = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+c_falaj = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_falkenstein = {
     1936.1.1 = {
         holder = 9000001
@@ -1056,9 +2589,51 @@ c_falkenstein = {
     }
 }
 
+c_famagusta = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_faro = {
+    1936.1.1 = {
+        holder = 9000044
+        liege = 0
+    }
+}
+
+c_fazaz = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
 c_feher = {
     1936.1.1 = {
         holder = 9000021
+        liege = 0
+    }
+}
+
+c_fermo = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+c_ferrara = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+c_fes = {
+    1936.1.1 = {
+        holder = 9000049
         liege = 0
     }
 }
@@ -1077,9 +2652,37 @@ c_finland = {
     }
 }
 
+c_finnveden = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_firdafylki = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+c_firenze = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
 c_fogaras = {
     1936.1.1 = {
         holder = 9000021
+        liege = 0
+    }
+}
+
+c_foggia = {
+    1936.1.1 = {
+        holder = 9000052
         liege = 0
     }
 }
@@ -1105,6 +2708,13 @@ c_forez = {
     }
 }
 
+c_fraga = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_frankfurt = {
     1936.1.1 = {
         holder = 9000001
@@ -1122,6 +2732,20 @@ c_freistadt = {
 c_french_leon = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_frisia = {
+    1936.1.1 = {
+        holder = 9000057
+        liege = 0
+    }
+}
+
+c_friuli = {
+    1936.1.1 = {
+        holder = 9000050
         liege = 0
     }
 }
@@ -1147,6 +2771,13 @@ c_furstenberg = {
     }
 }
 
+c_fyn = {
+    1936.1.1 = {
+        holder = 9000035
+        liege = 0
+    }
+}
+
 c_gacka = {
     1936.1.1 = {
         holder = 9000023
@@ -1154,9 +2785,51 @@ c_gacka = {
     }
 }
 
+c_galati = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+c_galatia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_galatia_salutaris = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_galloway = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_gallura = {
+    1936.1.1 = {
+        holder = 9000054
+        liege = 0
+    }
+}
+
+c_gastrikland = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_gauldala = {
+    1936.1.1 = {
+        holder = 9000036
         liege = 0
     }
 }
@@ -1182,9 +2855,44 @@ c_geneva = {
     }
 }
 
+c_genoa = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
 c_gevaudan = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_gharb = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+c_ghazza = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_girona = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_giurgiu = {
+    1936.1.1 = {
+        holder = 9000039
         liege = 0
     }
 }
@@ -1224,6 +2932,27 @@ c_gnieznienska = {
     }
 }
 
+c_golden_hills = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
+c_gorlitz = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+c_gorz = {
+    1936.1.1 = {
+        holder = 9000050
+        liege = 0
+    }
+}
+
 c_gostyninska = {
     1936.1.1 = {
         holder = 9000025
@@ -1241,6 +2970,13 @@ c_gottingen = {
 c_gowrie = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_granada = {
+    1936.1.1 = {
+        holder = 9000043
         liege = 0
     }
 }
@@ -1273,6 +3009,13 @@ c_grodno = {
     }
 }
 
+c_groningen = {
+    1936.1.1 = {
+        holder = 9000057
+        liege = 0
+    }
+}
+
 c_grunberg = {
     1936.1.1 = {
         holder = 9000001
@@ -1287,6 +3030,20 @@ c_grunningen = {
     }
 }
 
+c_gudbrandsdalir = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+c_guelders = {
+    1936.1.1 = {
+        holder = 9000057
+        liege = 0
+    }
+}
+
 c_guines = {
     1936.1.1 = {
         holder = 9000026
@@ -1294,9 +3051,44 @@ c_guines = {
     }
 }
 
+c_guria = {
+    1936.1.1 = {
+        holder = 9000046
+        liege = 0
+    }
+}
+
+c_gutland = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
 c_gyor = {
     1936.1.1 = {
         holder = 9000021
+        liege = 0
+    }
+}
+
+c_hadrianeia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_hadrianopolis = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_hail = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -1315,6 +3107,13 @@ c_halberstadt = {
     }
 }
 
+c_halland = {
+    1936.1.1 = {
+        holder = 9000035
+        liege = 0
+    }
+}
+
 c_hallstatt = {
     1936.1.1 = {
         holder = 9000001
@@ -1322,9 +3121,23 @@ c_hallstatt = {
     }
 }
 
+c_halsingland = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
 c_halych = {
     1936.1.1 = {
         holder = 9000020
+        liege = 0
+    }
+}
+
+c_hama = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -1350,6 +3163,34 @@ c_hannover = {
     }
 }
 
+c_harima = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_harjadalen = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+c_harrat_rahat = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_hauran = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_havelberg = {
     1936.1.1 = {
         holder = 9000001
@@ -1357,9 +3198,44 @@ c_havelberg = {
     }
 }
 
+c_hayk = {
+    1936.1.1 = {
+        holder = 9000047
+        liege = 0
+    }
+}
+
+c_hedmork = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+c_helenopontus = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_helgum = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
 c_hereford = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_hereti = {
+    1936.1.1 = {
+        holder = 9000046
         liege = 0
     }
 }
@@ -1378,9 +3254,37 @@ c_hewes = {
     }
 }
 
+c_hida = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_higo = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
 c_hildesheim = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_hitachi = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_hizen = {
+    1936.1.1 = {
+        holder = 9000056
         liege = 0
     }
 }
@@ -1413,9 +3317,44 @@ c_hohenlohe = {
     }
 }
 
+c_hoki = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_holland = {
+    1936.1.1 = {
+        holder = 9000057
+        liege = 0
+    }
+}
+
+c_homs = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_honorias = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_hont = {
     1936.1.1 = {
         holder = 9000021
+        liege = 0
+    }
+}
+
+c_hordalandi = {
+    1936.1.1 = {
+        holder = 9000036
         liege = 0
     }
 }
@@ -1427,9 +3366,30 @@ c_hotin = {
     }
 }
 
+c_hradec = {
+    1936.1.1 = {
+        holder = 9000038
+        liege = 0
+    }
+}
+
 c_hradyzk = {
     1936.1.1 = {
         holder = 9000022
+        liege = 0
+    }
+}
+
+c_huesca = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_hulwan = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -1455,9 +3415,58 @@ c_hunyan = {
     }
 }
 
+c_hvosno = {
+    1936.1.1 = {
+        holder = 9000040
+        liege = 0
+    }
+}
+
+c_hyuga = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_iasi = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+c_ifni = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+c_igaran = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
 c_ile_de_france = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_inaba = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_inari = {
+    1936.1.1 = {
+        holder = 9000029
         liege = 0
     }
 }
@@ -1490,6 +3499,55 @@ c_inverness = {
     }
 }
 
+c_ionia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_ipuskoa = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_irbid = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_isauria = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_ise = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_ishim = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_iskaf = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_isle_of_man = {
     1936.1.1 = {
         holder = 9000018
@@ -1511,9 +3569,65 @@ c_issoudun = {
     }
 }
 
+c_iviza = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_iwami = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_iyo = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_izu = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_izumo = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_jaffa = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_jahkamakke = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
 c_jaligny = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_jamtfir = {
+    1936.1.1 = {
+        holder = 9000036
         liege = 0
     }
 }
@@ -1525,6 +3639,90 @@ c_jersika = {
     }
 }
 
+c_jerusalem = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_jihlava = {
+    1936.1.1 = {
+        holder = 9000038
+        liege = 0
+    }
+}
+
+c_jilat = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_jovvkuj = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_julevadno = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_julfar = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_juterbog = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+c_juwair = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_kachu = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_kaga = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_kai = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_kainsk = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
 c_kainuu = {
     1936.1.1 = {
         holder = 9000029
@@ -1532,9 +3730,23 @@ c_kainuu = {
     }
 }
 
+c_kaisereia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_kaiserslautern = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_kakheti = {
+    1936.1.1 = {
+        holder = 9000046
         liege = 0
     }
 }
@@ -1549,6 +3761,13 @@ c_kakisalmi = {
 c_kaliska = {
     1936.1.1 = {
         holder = 9000025
+        liege = 0
+    }
+}
+
+c_kalliopolis = {
+    1936.1.1 = {
+        holder = 9000042
         liege = 0
     }
 }
@@ -1574,6 +3793,27 @@ c_karachev = {
     }
 }
 
+c_karasjohka = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+c_karbala = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_kargopol = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
 c_karnten = {
     1936.1.1 = {
         holder = 9000009
@@ -1581,9 +3821,58 @@ c_karnten = {
     }
 }
 
+c_kartauzh = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_kartli = {
+    1936.1.1 = {
+        holder = 9000046
+        liege = 0
+    }
+}
+
 c_kassel = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_kawachi = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_kazanskaya = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
+c_kazanskoye = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_kazusa = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_kazym = {
+    1936.1.1 = {
+        holder = 9000030
         liege = 0
     }
 }
@@ -1598,6 +3887,13 @@ c_kempten = {
 c_kent = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_kerak = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -1623,9 +3919,128 @@ c_keve = {
     }
 }
 
+c_kevrola = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_khachen = {
+    1936.1.1 = {
+        holder = 9000047
+        liege = 0
+    }
+}
+
+c_kharam-vosh = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_khaybar = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_kherson = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
+c_kholmogory = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_khortytsia = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
+c_khumar = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
 c_kiev = {
     1936.1.1 = {
         holder = 9000022
+        liege = 0
+    }
+}
+
+c_kii = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_kiia = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_kinda = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_kintus = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_kirillov = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_kirkuk = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_kitka = {
+    1936.1.1 = {
+        holder = 9000029
+        liege = 0
+    }
+}
+
+c_kittila = {
+    1936.1.1 = {
+        holder = 9000029
+        liege = 0
+    }
+}
+
+c_klarjeti = {
+    1936.1.1 = {
+        holder = 9000046
         liege = 0
     }
 }
@@ -1658,6 +4073,27 @@ c_knittelfeld = {
     }
 }
 
+c_koblenz = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+c_koda = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_kojuk = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
 c_kokenois = {
     1936.1.1 = {
         holder = 9000028
@@ -1679,9 +4115,30 @@ c_kolon = {
     }
 }
 
+c_kolyvan = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
 c_komarom = {
     1936.1.1 = {
         holder = 9000021
+        liege = 0
+    }
+}
+
+c_konda_ob = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_kondoma = {
+    1936.1.1 = {
+        holder = 9000030
         liege = 0
     }
 }
@@ -1700,6 +4157,20 @@ c_kontupohja = {
     }
 }
 
+c_korgon = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_korinthos = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
 c_korosten = {
     1936.1.1 = {
         holder = 9000022
@@ -1714,9 +4185,30 @@ c_korsun = {
     }
 }
 
+c_koshuki = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_koutajoki = {
+    1936.1.1 = {
+        holder = 9000029
+        liege = 0
+    }
+}
+
 c_kozelsk = {
     1936.1.1 = {
         holder = 9000022
+        liege = 0
+    }
+}
+
+c_kozuke = {
+    1936.1.1 = {
+        holder = 9000056
         liege = 0
     }
 }
@@ -1731,6 +4223,13 @@ c_krajna = {
 c_krakowska = {
     1936.1.1 = {
         holder = 9000020
+        liege = 0
+    }
+}
+
+c_kran = {
+    1936.1.1 = {
+        holder = 9000041
         liege = 0
     }
 }
@@ -1756,6 +4255,20 @@ c_krems = {
     }
 }
 
+c_kuchuk = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_kufa = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_kujawy = {
     1936.1.1 = {
         holder = 9000025
@@ -1763,9 +4276,37 @@ c_kujawy = {
     }
 }
 
+c_kulunda = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
 c_kursk = {
     1936.1.1 = {
         holder = 9000022
+        liege = 0
+    }
+}
+
+c_kuzeytorg = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
+c_kyin = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_kyzistra = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -1784,6 +4325,27 @@ c_labourd = {
     }
 }
 
+c_laconia = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_ladyzyn = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
+c_laia = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
 c_lanarkshire = {
     1936.1.1 = {
         holder = 9000018
@@ -1798,6 +4360,13 @@ c_lancashire = {
     }
 }
 
+c_lanciano = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
 c_landsberg = {
     1936.1.1 = {
         holder = 9000001
@@ -1808,6 +4377,20 @@ c_landsberg = {
 c_langres = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_lapusna = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+c_lecce = {
+    1936.1.1 = {
+        holder = 9000052
         liege = 0
     }
 }
@@ -1833,9 +4416,30 @@ c_leicestershire = {
     }
 }
 
+c_leinster = {
+    1936.1.1 = {
+        holder = 9000034
+        liege = 0
+    }
+}
+
 c_lennox = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_leon = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_lesbos = {
+    1936.1.1 = {
+        holder = 9000042
         liege = 0
     }
 }
@@ -1924,9 +4528,23 @@ c_lipto = {
     }
 }
 
+c_lisboa = {
+    1936.1.1 = {
+        holder = 9000044
+        liege = 0
+    }
+}
+
 c_lisieux = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_litomerice = {
+    1936.1.1 = {
+        holder = 9000038
         liege = 0
     }
 }
@@ -1945,9 +4563,37 @@ c_ljubljana = {
     }
 }
 
+c_lleida = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_lobdaburg = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_logudoro = {
+    1936.1.1 = {
+        holder = 9000054
+        liege = 0
+    }
+}
+
+c_lolland_falster = {
+    1936.1.1 = {
+        holder = 9000035
+        liege = 0
+    }
+}
+
+c_lombardia = {
+    1936.1.1 = {
+        holder = 9000050
         liege = 0
     }
 }
@@ -1959,9 +4605,37 @@ c_lomzynska = {
     }
 }
 
+c_lori = {
+    1936.1.1 = {
+        holder = 9000046
+        liege = 0
+    }
+}
+
 c_lothian = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_lower_dniepr = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
+c_lower_galatia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_lozova = {
+    1936.1.1 = {
+        holder = 9000022
         liege = 0
     }
 }
@@ -1987,6 +4661,13 @@ c_lubusz = {
     }
 }
 
+c_lucca = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
 c_luki = {
     1936.1.1 = {
         holder = 9000030
@@ -2004,6 +4685,13 @@ c_lukoml = {
 c_luneburg = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_luni = {
+    1936.1.1 = {
+        holder = 9000051
         liege = 0
     }
 }
@@ -2029,9 +4717,65 @@ c_lviv = {
     }
 }
 
+c_lycandus = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_lycaonia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_lycia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_lydia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_lyon = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_lyubim = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_maab = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_maan = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_maastricht = {
+    1936.1.1 = {
+        holder = 9000001
         liege = 0
     }
 }
@@ -2043,9 +4787,30 @@ c_macon = {
     }
 }
 
+c_macva = {
+    1936.1.1 = {
+        holder = 9000040
+        liege = 0
+    }
+}
+
+c_madrid = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_magdeburg = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_maghas = {
+    1936.1.1 = {
+        holder = 9000045
         liege = 0
     }
 }
@@ -2071,6 +4836,20 @@ c_mainz = {
     }
 }
 
+c_malaga = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_malagon = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_malbork = {
     1936.1.1 = {
         holder = 9000001
@@ -2085,9 +4864,30 @@ c_maldwyn = {
     }
 }
 
+c_mallorca = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_malta = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
 c_mansfeld = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_mantua = {
+    1936.1.1 = {
+        holder = 9000051
         liege = 0
     }
 }
@@ -2099,7 +4899,21 @@ c_manturovo = {
     }
 }
 
+c_marash = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_marburg = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+c_mark = {
     1936.1.1 = {
         holder = 9000001
         liege = 0
@@ -2113,9 +4927,23 @@ c_marmaros = {
     }
 }
 
+c_marrakesh = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
 c_marsan = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_mayo = {
+    1936.1.1 = {
+        holder = 9000034
         liege = 0
     }
 }
@@ -2134,9 +4962,37 @@ c_meaux = {
     }
 }
 
+c_mecca = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_mecklenburg = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_medellin = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_medelpad = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_medina = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -2148,9 +5004,51 @@ c_medjerda = {
     }
 }
 
+c_meissen = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+c_meknes = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+c_melilla = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+c_melitene = {
+    1936.1.1 = {
+        holder = 9000047
+        liege = 0
+    }
+}
+
 c_memel = {
     1936.1.1 = {
         holder = 9000028
+        liege = 0
+    }
+}
+
+c_menorca = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_merida = {
+    1936.1.1 = {
+        holder = 9000043
         liege = 0
     }
 }
@@ -2169,6 +5067,34 @@ c_mersenburg = {
     }
 }
 
+c_mesembria = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+c_mesopotamia = {
+    1936.1.1 = {
+        holder = 9000047
+        liege = 0
+    }
+}
+
+c_messenia = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_messina = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
 c_messukyla = {
     1936.1.1 = {
         holder = 9000029
@@ -2179,6 +5105,13 @@ c_messukyla = {
 c_metz = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_metzovo = {
+    1936.1.1 = {
+        holder = 9000042
         liege = 0
     }
 }
@@ -2197,6 +5130,13 @@ c_middlesex = {
     }
 }
 
+c_mikawa = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
 c_miliez = {
     1936.1.1 = {
         holder = 9000001
@@ -2211,9 +5151,30 @@ c_millau = {
     }
 }
 
+c_millerovo = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
+c_mimasaka = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
 c_minden = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_mino = {
+    1936.1.1 = {
+        holder = 9000056
         liege = 0
     }
 }
@@ -2225,9 +5186,30 @@ c_minsk = {
     }
 }
 
+c_modena = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
 c_modrus = {
     1936.1.1 = {
         holder = 9000023
+        liege = 0
+    }
+}
+
+c_molina = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_monferrato = {
+    1936.1.1 = {
+        holder = 9000051
         liege = 0
     }
 }
@@ -2253,9 +5235,30 @@ c_montargis = {
     }
 }
 
+c_monterrei = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_montpellier = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_mora = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_morarna = {
+    1936.1.1 = {
+        holder = 9000036
         liege = 0
     }
 }
@@ -2267,6 +5270,13 @@ c_moray = {
     }
 }
 
+c_more = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
 c_moskva = {
     1936.1.1 = {
         holder = 9000030
@@ -2274,9 +5284,37 @@ c_moskva = {
     }
 }
 
+c_mosynopolis = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_moura = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_mozhaysk = {
     1936.1.1 = {
         holder = 9000027
+        liege = 0
+    }
+}
+
+c_mugan = {
+    1936.1.1 = {
+        holder = 9000048
+        liege = 0
+    }
+}
+
+c_muluya = {
+    1936.1.1 = {
+        holder = 9000049
         liege = 0
     }
 }
@@ -2295,6 +5333,13 @@ c_munster = {
     }
 }
 
+c_murcia = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_murom = {
     1936.1.1 = {
         holder = 9000030
@@ -2309,9 +5354,58 @@ c_murzzuschlag = {
     }
 }
 
+c_musashi = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_muscat = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_mustasaari = {
     1936.1.1 = {
         holder = 9000029
+        liege = 0
+    }
+}
+
+c_mysia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_nagato = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_naissus = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+c_najera = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_namdalfylki = {
+    1936.1.1 = {
+        holder = 9000036
         liege = 0
     }
 }
@@ -2337,6 +5431,27 @@ c_nantes = {
     }
 }
 
+c_napoli = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
+c_narim = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_narke = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
 c_narva = {
     1936.1.1 = {
         holder = 9000031
@@ -2358,9 +5473,72 @@ c_natangia = {
     }
 }
 
+c_naumberg = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+c_naumburg = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+c_navarra = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_naxos = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
 c_neamnt = {
     1936.1.1 = {
         holder = 9000020
+        liege = 0
+    }
+}
+
+c_nedenes = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+c_nedersticht = {
+    1936.1.1 = {
+        holder = 9000057
+        liege = 0
+    }
+}
+
+c_negev = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_neopatras = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_neramkary = {
+    1936.1.1 = {
+        holder = 9000030
         liege = 0
     }
 }
@@ -2393,6 +5571,41 @@ c_nice = {
     }
 }
 
+c_nicopolis = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_nicosia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_niebla = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_nikaea = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_nikopolis = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
 c_nizhny_novgorod = {
     1936.1.1 = {
         holder = 9000030
@@ -2400,9 +5613,37 @@ c_nizhny_novgorod = {
     }
 }
 
+c_nizwa = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_njudung = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
 c_nordlingen = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_nordmark = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_nordrland = {
+    1936.1.1 = {
+        holder = 9000033
         liege = 0
     }
 }
@@ -2435,9 +5676,30 @@ c_northumberland = {
     }
 }
 
+c_norwegian_more = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+c_noto = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
 c_nottinghamshire = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_novara = {
+    1936.1.1 = {
+        holder = 9000051
         liege = 0
     }
 }
@@ -2498,9 +5760,51 @@ c_nysa = {
     }
 }
 
+c_ob = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_odessa = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
+c_odishi = {
+    1936.1.1 = {
+        holder = 9000046
+        liege = 0
+    }
+}
+
 c_odoyev = {
     1936.1.1 = {
         holder = 9000022
+        liege = 0
+    }
+}
+
+c_ohrid = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+c_oki = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_oland = {
+    1936.1.1 = {
+        holder = 9000037
         liege = 0
     }
 }
@@ -2519,9 +5823,65 @@ c_oldenburg = {
     }
 }
 
+c_oleshye = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
+c_olmedo = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_olomouc = {
+    1936.1.1 = {
+        holder = 9000038
+        liege = 0
+    }
+}
+
+c_omi = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_omsk = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
 c_onega = {
     1936.1.1 = {
         holder = 9000029
+        liege = 0
+    }
+}
+
+c_onega_BJA = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_onsthia = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_opava = {
+    1936.1.1 = {
+        holder = 9000038
         liege = 0
     }
 }
@@ -2547,6 +5907,34 @@ c_orava = {
     }
 }
 
+c_orbetello = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+c_orhei = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+c_oriel = {
+    1936.1.1 = {
+        holder = 9000034
+        liege = 0
+    }
+}
+
+c_orkney = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
 c_orlamunde = {
     1936.1.1 = {
         holder = 9000001
@@ -2561,9 +5949,23 @@ c_orleans = {
     }
 }
 
+c_ormond = {
+    1936.1.1 = {
+        holder = 9000034
+        liege = 0
+    }
+}
+
 c_orsha = {
     1936.1.1 = {
         holder = 9000027
+        liege = 0
+    }
+}
+
+c_orvieto = {
+    1936.1.1 = {
+        holder = 9000051
         liege = 0
     }
 }
@@ -2582,9 +5984,44 @@ c_osnabruck = {
     }
 }
 
+c_ossory = {
+    1936.1.1 = {
+        holder = 9000034
+        liege = 0
+    }
+}
+
+c_ostergotland = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_osterland = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
 c_osterode = {
     1936.1.1 = {
         holder = 9000028
+        liege = 0
+    }
+}
+
+c_ostfriesland = {
+    1936.1.1 = {
+        holder = 9000057
+        liege = 0
+    }
+}
+
+c_osumi = {
+    1936.1.1 = {
+        holder = 9000056
         liege = 0
     }
 }
@@ -2603,6 +6040,20 @@ c_outer_hebrides = {
     }
 }
 
+c_oversticht = {
+    1936.1.1 = {
+        holder = 9000057
+        liege = 0
+    }
+}
+
+c_owari = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
 c_oxfordshire = {
     1936.1.1 = {
         holder = 9000018
@@ -2610,9 +6061,23 @@ c_oxfordshire = {
     }
 }
 
+c_pacatiana = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_paderborn = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_padua = {
+    1936.1.1 = {
+        holder = 9000050
         liege = 0
     }
 }
@@ -2631,6 +6096,48 @@ c_palanga = {
     }
 }
 
+c_palermo = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
+c_pallas = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_palmyra = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_pamphylia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_paphlagonia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_parma = {
+    1936.1.1 = {
+        holder = 9000050
+        liege = 0
+    }
+}
+
 c_parsberg = {
     1936.1.1 = {
         holder = 9000001
@@ -2645,9 +6152,37 @@ c_passau = {
     }
 }
 
+c_pavia = {
+    1936.1.1 = {
+        holder = 9000050
+        liege = 0
+    }
+}
+
+c_pavlodar = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_peaccam = {
+    1936.1.1 = {
+        holder = 9000029
+        liege = 0
+    }
+}
+
 c_pedersore = {
     1936.1.1 = {
         holder = 9000029
+        liege = 0
+    }
+}
+
+c_pelym = {
+    1936.1.1 = {
+        holder = 9000030
         liege = 0
     }
 }
@@ -2673,6 +6208,13 @@ c_perekop = {
     }
 }
 
+c_peremyshl = {
+    1936.1.1 = {
+        holder = 9000020
+        liege = 0
+    }
+}
+
 c_peresopnytsia = {
     1936.1.1 = {
         holder = 9000022
@@ -2690,6 +6232,34 @@ c_pereyaslavl = {
 c_perigord = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_petropavolsk = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_philippopolis = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+c_philomelium = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_phrygia = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -2715,9 +6285,44 @@ c_pinsk = {
     }
 }
 
+c_pirin = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+c_pisa = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+c_pisidia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_pite = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
 c_pitten = {
     1936.1.1 = {
         holder = 9000009
+        liege = 0
+    }
+}
+
+c_plasencia = {
+    1936.1.1 = {
+        holder = 9000043
         liege = 0
     }
 }
@@ -2736,9 +6341,30 @@ c_plyos = {
     }
 }
 
+c_plzen = {
+    1936.1.1 = {
+        holder = 9000038
+        liege = 0
+    }
+}
+
+c_podrinje = {
+    1936.1.1 = {
+        holder = 9000040
+        liege = 0
+    }
+}
+
 c_poitiers = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_polesine = {
+    1936.1.1 = {
+        holder = 9000050
         liege = 0
     }
 }
@@ -2750,9 +6376,51 @@ c_polotsk = {
     }
 }
 
+c_polovragi = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+c_pomoravlje = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+c_pomorje = {
+    1936.1.1 = {
+        holder = 9000040
+        liege = 0
+    }
+}
+
+c_pompeiopolis = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_porto = {
+    1936.1.1 = {
+        holder = 9000044
+        liege = 0
+    }
+}
+
 c_poszony = {
     1936.1.1 = {
         holder = 9000021
+        liege = 0
+    }
+}
+
+c_povenets = {
+    1936.1.1 = {
+        holder = 9000030
         liege = 0
     }
 }
@@ -2771,6 +6439,20 @@ c_poznanska = {
     }
 }
 
+c_praha = {
+    1936.1.1 = {
+        holder = 9000038
+        liege = 0
+    }
+}
+
+c_pravia = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_prenzlau = {
     1936.1.1 = {
         holder = 9000001
@@ -2778,9 +6460,23 @@ c_prenzlau = {
     }
 }
 
+c_prerov = {
+    1936.1.1 = {
+        holder = 9000038
+        liege = 0
+    }
+}
+
 c_provence = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_prusa = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -2806,6 +6502,27 @@ c_pskov = {
     }
 }
 
+c_pudozh = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_puigcerda = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_pula = {
+    1936.1.1 = {
+        holder = 9000009
+        liege = 0
+    }
+}
+
 c_puttlingen = {
     1936.1.1 = {
         holder = 9000017
@@ -2816,6 +6533,41 @@ c_puttlingen = {
 c_putyvl = {
     1936.1.1 = {
         holder = 9000022
+        liege = 0
+    }
+}
+
+c_qadisiya = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_qaryatan = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_qasim = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_qatif = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_qinnasrin = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -2848,6 +6600,13 @@ c_rama = {
     }
 }
 
+c_raniriki = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
 c_raseiniai = {
     1936.1.1 = {
         holder = 9000028
@@ -2855,9 +6614,23 @@ c_raseiniai = {
     }
 }
 
+c_rashka = {
+    1936.1.1 = {
+        holder = 9000040
+        liege = 0
+    }
+}
+
 c_ratibor = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_ravenna = {
+    1936.1.1 = {
+        holder = 9000051
         liege = 0
     }
 }
@@ -2872,6 +6645,13 @@ c_ravensburg = {
 c_regensburg = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_reggio_calabria = {
+    1936.1.1 = {
+        holder = 9000052
         liege = 0
     }
 }
@@ -2904,6 +6684,48 @@ c_reval = {
     }
 }
 
+c_rhodopes = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+c_rhodos = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_ribe = {
+    1936.1.1 = {
+        holder = 9000035
+        liege = 0
+    }
+}
+
+c_ringkobing = {
+    1936.1.1 = {
+        holder = 9000035
+        liege = 0
+    }
+}
+
+c_rogalandi = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+c_roma = {
+    1936.1.1 = {
+        holder = 9000053
+        liege = 0
+    }
+}
+
 c_romen = {
     1936.1.1 = {
         holder = 9000022
@@ -2921,6 +6743,20 @@ c_roslavl = {
 c_ross = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_rossano = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
+c_rossello = {
+    1936.1.1 = {
+        holder = 9000043
         liege = 0
     }
 }
@@ -2953,6 +6789,13 @@ c_rouergue = {
     }
 }
 
+c_rounala = {
+    1936.1.1 = {
+        holder = 9000029
+        liege = 0
+    }
+}
+
 c_rugen = {
     1936.1.1 = {
         holder = 9000001
@@ -2970,6 +6813,13 @@ c_ruppin = {
 c_rusa = {
     1936.1.1 = {
         holder = 9000030
+        liege = 0
+    }
+}
+
+c_rusafa = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -3002,9 +6852,37 @@ c_sacz = {
     }
 }
 
+c_safata = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_sagami = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
 c_saintonge = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_salamanca = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_salerno = {
+    1936.1.1 = {
+        holder = 9000052
         liege = 0
     }
 }
@@ -3019,6 +6897,48 @@ c_salinis = {
 c_salzburg = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_samander = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
+c_samar = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
+c_samarra = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_samiran = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
+c_samman = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_samosata = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -3051,6 +6971,20 @@ c_sankt_polten = {
     }
 }
 
+c_santiago = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_sanuki = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
 c_saris = {
     1936.1.1 = {
         holder = 9000021
@@ -3058,9 +6992,37 @@ c_saris = {
     }
 }
 
+c_sarkel = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
+c_sartlan = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_sarysyn = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
 c_satakunta = {
     1936.1.1 = {
         holder = 9000029
+        liege = 0
+    }
+}
+
+c_satala = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -3079,6 +7041,13 @@ c_satif = {
     }
 }
 
+c_satsuma = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
 c_saumur = {
     1936.1.1 = {
         holder = 9000017
@@ -3088,7 +7057,14 @@ c_saumur = {
 
 c_savoie = {
     1936.1.1 = {
-        holder = 9000017
+        holder = 9000032
+        liege = 0
+    }
+}
+
+c_sayn = {
+    1936.1.1 = {
+        holder = 9000001
         liege = 0
     }
 }
@@ -3121,9 +7097,30 @@ c_schweibus = {
     }
 }
 
+c_sebasteia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_sebezh = {
     1936.1.1 = {
         holder = 9000030
+        liege = 0
+    }
+}
+
+c_seleucia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_selge = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -3142,9 +7139,114 @@ c_sens = {
     }
 }
 
+c_serres = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_settsu = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_sevede = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_severin = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+c_sevilla = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_sevsk = {
     1936.1.1 = {
         holder = 9000022
+        liege = 0
+    }
+}
+
+c_shaki = {
+    1936.1.1 = {
+        holder = 9000048
+        liege = 0
+    }
+}
+
+c_shaqiq = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_sharaf = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_shayzar = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_shenkursk = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_shetland = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+c_shimosa = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_shimotsuke = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_shinano = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_shirvan = {
+    1936.1.1 = {
+        holder = 9000048
         liege = 0
     }
 }
@@ -3163,6 +7265,20 @@ c_siauliai = {
     }
 }
 
+c_sibir = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_siena = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
 c_sieradzka = {
     1936.1.1 = {
         holder = 9000025
@@ -3170,9 +7286,100 @@ c_sieradzka = {
     }
 }
 
+c_siggevara = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+c_sijilmasa = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+c_silves = {
+    1936.1.1 = {
+        holder = 9000044
+        liege = 0
+    }
+}
+
+c_sinope = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_sir_faesyfed = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_siracusa = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
+c_sirhan = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_sjaelland = {
+    1936.1.1 = {
+        holder = 9000035
+        liege = 0
+    }
+}
+
+c_sjeltie = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_skane = {
+    1936.1.1 = {
+        holder = 9000035
+        liege = 0
+    }
+}
+
+c_skara = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_skolt = {
+    1936.1.1 = {
+        holder = 9000029
+        liege = 0
+    }
+}
+
+c_skopje = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+c_slesvig = {
+    1936.1.1 = {
+        holder = 9000035
         liege = 0
     }
 }
@@ -3198,6 +7405,34 @@ c_smolensk = {
     }
 }
 
+c_sobrarbe = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_sochur = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_sodermannaland = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_sogn = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
 c_soldin = {
     1936.1.1 = {
         holder = 9000001
@@ -3208,6 +7443,13 @@ c_soldin = {
 c_soli = {
     1936.1.1 = {
         holder = 9000023
+        liege = 0
+    }
+}
+
+c_sombio = {
+    1936.1.1 = {
+        holder = 9000029
         liege = 0
     }
 }
@@ -3233,9 +7475,44 @@ c_sopron = {
     }
 }
 
+c_soria = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_soroca = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+c_sorok = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
 c_sortavala = {
     1936.1.1 = {
         holder = 9000029
+        liege = 0
+    }
+}
+
+c_sosva = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_sous = {
+    1936.1.1 = {
+        holder = 9000049
         liege = 0
     }
 }
@@ -3254,9 +7531,30 @@ c_spis = {
     }
 }
 
+c_spoleto = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+c_spreewald = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
 c_sprottau = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_sredets = {
+    1936.1.1 = {
+        holder = 9000041
         liege = 0
     }
 }
@@ -3303,6 +7601,13 @@ c_stezycka = {
     }
 }
 
+c_stoenesti = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
 c_strassburg = {
     1936.1.1 = {
         holder = 9000001
@@ -3317,9 +7622,37 @@ c_strathearn = {
     }
 }
 
+c_strumica = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+c_subay = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_suceava = {
     1936.1.1 = {
         holder = 9000020
+        liege = 0
+    }
+}
+
+c_sudurland = {
+    1936.1.1 = {
+        holder = 9000033
+        liege = 0
+    }
+}
+
+c_suenik = {
+    1936.1.1 = {
+        holder = 9000047
         liege = 0
     }
 }
@@ -3331,6 +7664,20 @@ c_suffolk = {
     }
 }
 
+c_sukhna = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_sumadija = {
+    1936.1.1 = {
+        holder = 9000040
+        liege = 0
+    }
+}
+
 c_sundgau = {
     1936.1.1 = {
         holder = 9000001
@@ -3338,9 +7685,44 @@ c_sundgau = {
     }
 }
 
+c_suo = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_suondavara = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+c_suriya = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_surrah = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_surrey = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_suruga = {
+    1936.1.1 = {
+        holder = 9000056
         liege = 0
     }
 }
@@ -3362,6 +7744,20 @@ c_sutherland = {
 c_suzdal = {
     1936.1.1 = {
         holder = 9000030
+        liege = 0
+    }
+}
+
+c_svaneti = {
+    1936.1.1 = {
+        holder = 9000046
+        liege = 0
+    }
+}
+
+c_syrrusafa = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -3408,9 +7804,79 @@ c_szerem = {
     }
 }
 
+c_tabary = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_tabla_butii = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+c_tabuk = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_tadla = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+c_taif = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_tajima = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_takrit = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_talava = {
     1936.1.1 = {
         holder = 9000028
+        liege = 0
+    }
+}
+
+c_tall_hamid = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_tamasna = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+c_tana = {
+    1936.1.1 = {
+        holder = 9000045
         liege = 0
     }
 }
@@ -3422,9 +7888,86 @@ c_tanas = {
     }
 }
 
+c_tanba = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_tangiers = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+c_tango = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_tao = {
+    1936.1.1 = {
+        holder = 9000046
+        liege = 0
+    }
+}
+
+c_tara = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_targu_jiu = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
 c_tarnowska = {
     1936.1.1 = {
         holder = 9000025
+        liege = 0
+    }
+}
+
+c_tarragona = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_tarsos = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_tartas_SIB = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_taskyl = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_tavan_bogd = {
+    1936.1.1 = {
+        holder = 9000030
         liege = 0
     }
 }
@@ -3436,9 +7979,37 @@ c_tavasts = {
     }
 }
 
+c_tayma = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_taza = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+c_tbilisi = {
+    1936.1.1 = {
+        holder = 9000046
+        liege = 0
+    }
+}
+
 c_tecklenburg = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+c_telemark = {
+    1936.1.1 = {
+        holder = 9000036
         liege = 0
     }
 }
@@ -3450,9 +8021,37 @@ c_temes = {
     }
 }
 
+c_ter = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_teramo = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
 c_terebovl = {
     1936.1.1 = {
         holder = 9000020
+        liege = 0
+    }
+}
+
+c_terektai = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_teruel = {
+    1936.1.1 = {
+        holder = 9000043
         liege = 0
     }
 }
@@ -3464,9 +8063,51 @@ c_teviotdale = {
     }
 }
 
+c_thalabiya = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_theodosiopolis = {
+    1936.1.1 = {
+        holder = 9000047
+        liege = 0
+    }
+}
+
+c_thessalia = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_thessaliotis = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+c_thessalonika = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
 c_thiers = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_thomond = {
+    1936.1.1 = {
+        holder = 9000034
         liege = 0
     }
 }
@@ -3478,9 +8119,58 @@ c_thouars = {
     }
 }
 
+c_thyatira = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_tib = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_tiberias = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_tigheci = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+c_tihama = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_tikhvin = {
     1936.1.1 = {
         holder = 9000030
+        liege = 0
+    }
+}
+
+c_tinmallal = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+c_tivoli = {
+    1936.1.1 = {
+        holder = 9000053
         liege = 0
     }
 }
@@ -3492,9 +8182,37 @@ c_tlemcen = {
     }
 }
 
+c_tmutarakan = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
+c_tobol = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_toledo = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_tolna = {
     1936.1.1 = {
         holder = 9000021
+        liege = 0
+    }
+}
+
+c_tomsk = {
+    1936.1.1 = {
+        holder = 9000030
         liege = 0
     }
 }
@@ -3513,6 +8231,20 @@ c_torda = {
     }
 }
 
+c_torema = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_torne = {
+    1936.1.1 = {
+        holder = 9000029
+        liege = 0
+    }
+}
+
 c_toropets = {
     1936.1.1 = {
         holder = 9000027
@@ -3520,9 +8252,44 @@ c_toropets = {
     }
 }
 
+c_tortoli = {
+    1936.1.1 = {
+        holder = 9000054
+        liege = 0
+    }
+}
+
+c_tortona = {
+    1936.1.1 = {
+        holder = 9000050
+        liege = 0
+    }
+}
+
 c_torun = {
     1936.1.1 = {
         holder = 9000028
+        liege = 0
+    }
+}
+
+c_tosa = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_totma = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_totomi = {
+    1936.1.1 = {
+        holder = 9000056
         liege = 0
     }
 }
@@ -3548,9 +8315,44 @@ c_trakai = {
     }
 }
 
+c_trandheim = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+c_travunia = {
+    1936.1.1 = {
+        holder = 9000040
+        liege = 0
+    }
+}
+
+c_trebizond = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_trenscen = {
     1936.1.1 = {
         holder = 9000021
+        liege = 0
+    }
+}
+
+c_trent = {
+    1936.1.1 = {
+        holder = 9000050
+        liege = 0
+    }
+}
+
+c_treviso = {
+    1936.1.1 = {
+        holder = 9000050
         liege = 0
     }
 }
@@ -3562,9 +8364,51 @@ c_trier = {
     }
 }
 
+c_tripoli = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_troyes = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_tselym_dalyn = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_tsushima = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_tudela = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_tudgha = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+c_tui = {
+    1936.1.1 = {
+        holder = 9000043
         liege = 0
     }
 }
@@ -3583,9 +8427,30 @@ c_tunis = {
     }
 }
 
+c_turin = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+c_turnovo = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
 c_turov = {
     1936.1.1 = {
         holder = 9000022
+        liege = 0
+    }
+}
+
+c_turuberan = {
+    1936.1.1 = {
+        holder = 9000047
         liege = 0
     }
 }
@@ -3597,6 +8462,34 @@ c_tver = {
     }
 }
 
+c_tyumen = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_ubins = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_ubmejeiednuo = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_ubulla = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_ulm = {
     1936.1.1 = {
         holder = 9000001
@@ -3604,9 +8497,58 @@ c_ulm = {
     }
 }
 
+c_ulster = {
+    1936.1.1 = {
+        holder = 9000034
+        liege = 0
+    }
+}
+
+c_uman = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
+c_umiai = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
 c_ungvar = {
     1936.1.1 = {
         holder = 9000021
+        liege = 0
+    }
+}
+
+c_upland = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_uqayr = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_urbino = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+c_urgell = {
+    1936.1.1 = {
+        holder = 9000043
         liege = 0
     }
 }
@@ -3632,6 +8574,20 @@ c_usora = {
     }
 }
 
+c_ustyug = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_uwal = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_vaihingen = {
     1936.1.1 = {
         holder = 9000001
@@ -3646,6 +8602,13 @@ c_valdai = {
     }
 }
 
+c_valencia = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_valentinois = {
     1936.1.1 = {
         holder = 9000017
@@ -3653,9 +8616,23 @@ c_valentinois = {
     }
 }
 
+c_valladolid = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_valois = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_vanand = {
+    1936.1.1 = {
+        holder = 9000047
         liege = 0
     }
 }
@@ -3674,9 +8651,65 @@ c_vannes = {
     }
 }
 
+c_varend = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_varmland = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
 c_vas = {
     1936.1.1 = {
         holder = 9000021
+        liege = 0
+    }
+}
+
+c_vaspurakan = {
+    1936.1.1 = {
+        holder = 9000047
+        liege = 0
+    }
+}
+
+c_vastergotland = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_vastmanland = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+c_vastvag = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+c_vasyugan = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_vaucouleurs = {
+    1936.1.1 = {
+        holder = 9000001
         liege = 0
     }
 }
@@ -3695,6 +8728,20 @@ c_velay = {
     }
 }
 
+c_velbazhd = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+c_velsk = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
 c_venaissin = {
     1936.1.1 = {
         holder = 9000017
@@ -3709,9 +8756,51 @@ c_vendome = {
     }
 }
 
+c_veneto = {
+    1936.1.1 = {
+        holder = 9000050
+        liege = 0
+    }
+}
+
+c_venezia = {
+    1936.1.1 = {
+        holder = 9000050
+        liege = 0
+    }
+}
+
+c_veria = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
 c_vermandois = {
     1936.1.1 = {
         holder = 9000017
+        liege = 0
+    }
+}
+
+c_verona = {
+    1936.1.1 = {
+        holder = 9000050
+        liege = 0
+    }
+}
+
+c_vestfold = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+c_vestisland = {
+    1936.1.1 = {
+        holder = 9000033
         liege = 0
     }
 }
@@ -3726,6 +8815,20 @@ c_veszprem = {
 c_vhrbosna = {
     1936.1.1 = {
         holder = 9000023
+        liege = 0
+    }
+}
+
+c_viborg = {
+    1936.1.1 = {
+        holder = 9000035
+        liege = 0
+    }
+}
+
+c_vidin = {
+    1936.1.1 = {
+        holder = 9000041
         liege = 0
     }
 }
@@ -3772,6 +8875,20 @@ c_villach = {
     }
 }
 
+c_vingulmork = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+c_viscaya = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_visegrad = {
     1936.1.1 = {
         holder = 9000021
@@ -3779,9 +8896,23 @@ c_visegrad = {
     }
 }
 
+c_viseu = {
+    1936.1.1 = {
+        holder = 9000044
+        liege = 0
+    }
+}
+
 c_vitebsk = {
     1936.1.1 = {
         holder = 9000027
+        liege = 0
+    }
+}
+
+c_viterbo = {
+    1936.1.1 = {
+        holder = 9000051
         liege = 0
     }
 }
@@ -3814,6 +8945,13 @@ c_vodica = {
     }
 }
 
+c_vogtland = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
 c_voin = {
     1936.1.1 = {
         holder = 9000022
@@ -3831,6 +8969,27 @@ c_volkovysk = {
 c_volodymyr = {
     1936.1.1 = {
         holder = 9000022
+        liege = 0
+    }
+}
+
+c_vologda = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+c_vorbasse = {
+    1936.1.1 = {
+        holder = 9000035
+        liege = 0
+    }
+}
+
+c_vratsa = {
+    1936.1.1 = {
+        holder = 9000041
         liege = 0
     }
 }
@@ -3863,6 +9022,13 @@ c_wajda = {
     }
 }
 
+c_wajh = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_waldeck = {
     1936.1.1 = {
         holder = 9000001
@@ -3870,9 +9036,23 @@ c_waldeck = {
     }
 }
 
+c_waqisa = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_warwickshire = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_wasit = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -3887,6 +9067,13 @@ c_werle = {
 c_west_riding = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+c_westfriesland = {
+    1936.1.1 = {
+        holder = 9000057
         liege = 0
     }
 }
@@ -3926,7 +9113,21 @@ c_wiltshire = {
     }
 }
 
+c_wittenberg = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
 c_wolgast = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+c_wolkenstein = {
     1936.1.1 = {
         holder = 9000001
         liege = 0
@@ -3982,6 +9183,41 @@ c_wurzburg = {
     }
 }
 
+c_yabrin = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_yamama = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+c_yamashiro = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_yamato = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+c_yanbu = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 c_yaroslavl = {
     1936.1.1 = {
         holder = 9000030
@@ -3992,6 +9228,13 @@ c_yaroslavl = {
 c_yatvyagi = {
     1936.1.1 = {
         holder = 9000028
+        liege = 0
+    }
+}
+
+c_yenisei = {
+    1936.1.1 = {
+        holder = 9000030
         liege = 0
     }
 }
@@ -4038,6 +9281,20 @@ c_zakroczymska = {
     }
 }
 
+c_zamora = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+c_zaragoza = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 c_zarand = {
     1936.1.1 = {
         holder = 9000021
@@ -4052,9 +9309,30 @@ c_zaslavl = {
     }
 }
 
+c_zatec = {
+    1936.1.1 = {
+        holder = 9000038
+        liege = 0
+    }
+}
+
 c_zavrsje = {
     1936.1.1 = {
         holder = 9000023
+        liege = 0
+    }
+}
+
+c_zeeland = {
+    1936.1.1 = {
+        holder = 9000057
+        liege = 0
+    }
+}
+
+c_zela = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -4080,9 +9358,44 @@ c_zemplen = {
     }
 }
 
+c_zherkovo = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
 c_zhytomyr = {
     1936.1.1 = {
         holder = 9000022
+        liege = 0
+    }
+}
+
+c_zichia = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
+c_ziz = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+c_zlatibor = {
+    1936.1.1 = {
+        holder = 9000040
+        liege = 0
+    }
+}
+
+c_znojmo = {
+    1936.1.1 = {
+        holder = 9000038
         liege = 0
     }
 }
@@ -4108,9 +9421,100 @@ c_zurich = {
     }
 }
 
+c_zutphen = {
+    1936.1.1 = {
+        holder = 9000057
+        liege = 0
+    }
+}
+
 c_zvyahel = {
     1936.1.1 = {
         holder = 9000022
+        liege = 0
+    }
+}
+
+d_aarjetje = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+d_abkhazia = {
+    1936.1.1 = {
+        holder = 9000046
+        liege = 0
+    }
+}
+
+d_achaia = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+d_aegean_islands = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+d_agder = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+d_al-hasa = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_ala_tau = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_alania = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
+d_albany = {
+    1936.1.1 = {
+        holder = 9000018
+        liege = 0
+    }
+}
+
+d_aleppo = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_aley = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_algarve = {
+    1936.1.1 = {
+        holder = 9000044
         liege = 0
     }
 }
@@ -4129,9 +9533,275 @@ d_alsace = {
     }
 }
 
+d_altaishan = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_amman = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_anatolia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_ancona = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+d_angria = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_anhalt = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_anjou = {
+    1936.1.1 = {
+        holder = 9000017
+        liege = 0
+    }
+}
+
+d_antioch = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_apulia = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
+d_aquitaine = {
+    1936.1.1 = {
+        holder = 9000017
+        liege = 0
+    }
+}
+
+d_aragon = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+d_armagnac = {
+    1936.1.1 = {
+        holder = 9000017
+        liege = 0
+    }
+}
+
+d_armeniac = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_asir = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_asturias = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+d_athens = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+d_augsburg = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_auvergne = {
+    1936.1.1 = {
+        holder = 9000017
+        liege = 0
+    }
+}
+
+d_azov = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
+d_bacs = {
+    1936.1.1 = {
+        holder = 9000021
+        liege = 0
+    }
+}
+
+d_badajoz = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+d_baghdad = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_bahrain = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_bar = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_baraba_steppe = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_barcelona = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+d_basra = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_bavaria = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_bedford = {
+    1936.1.1 = {
+        holder = 9000018
+        liege = 0
+    }
+}
+
+d_beja = {
+    1936.1.1 = {
+        holder = 9000044
+        liege = 0
+    }
+}
+
 d_bejaia = {
     1936.1.1 = {
         holder = 9000019
+        liege = 0
+    }
+}
+
+d_benevento = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
+d_bergslagen = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+d_berry = {
+    1936.1.1 = {
+        holder = 9000017
+        liege = 0
+    }
+}
+
+d_biarmia = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_bihar = {
+    1936.1.1 = {
+        holder = 9000021
+        liege = 0
+    }
+}
+
+d_bohemia = {
+    1936.1.1 = {
+        holder = 9000038
+        liege = 0
+    }
+}
+
+d_bosna = {
+    1936.1.1 = {
+        holder = 9000023
+        liege = 0
+    }
+}
+
+d_bourbon = {
+    1936.1.1 = {
+        holder = 9000017
         liege = 0
     }
 }
@@ -4143,9 +9813,79 @@ d_brabant = {
     }
 }
 
+d_brittany = {
+    1936.1.1 = {
+        holder = 9000017
+        liege = 0
+    }
+}
+
+d_bucellaria = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_bugeac = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
 d_bukovina = {
     1936.1.1 = {
         holder = 9000020
+        liege = 0
+    }
+}
+
+d_bulgaria = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+d_burgundy = {
+    1936.1.1 = {
+        holder = 9000017
+        liege = 0
+    }
+}
+
+d_calabria = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
+d_cantabria = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+d_canterbury = {
+    1936.1.1 = {
+        holder = 9000018
+        liege = 0
+    }
+}
+
+d_cappadocia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_capua = {
+    1936.1.1 = {
+        holder = 9000052
         liege = 0
     }
 }
@@ -4157,9 +9897,121 @@ d_carinthia = {
     }
 }
 
+d_castilla = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+d_cephalonia = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+d_chaldia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_champagne = {
+    1936.1.1 = {
+        holder = 9000017
+        liege = 0
+    }
+}
+
+d_charsianon = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_chernigov = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
+d_cherven_cities = {
+    1936.1.1 = {
+        holder = 9000020
+        liege = 0
+    }
+}
+
+d_chudia = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_cibyrrhaeot = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_cilicia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_ciscaucasia = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
+d_coimbra = {
+    1936.1.1 = {
+        holder = 9000044
+        liege = 0
+    }
+}
+
+d_connacht = {
+    1936.1.1 = {
+        holder = 9000034
+        liege = 0
+    }
+}
+
+d_cordoba = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+d_cornwall = {
+    1936.1.1 = {
+        holder = 9000018
+        liege = 0
+    }
+}
+
 d_corsica = {
     1936.1.1 = {
         holder = 9000019
+        liege = 0
+    }
+}
+
+d_courland = {
+    1936.1.1 = {
+        holder = 9000028
         liege = 0
     }
 }
@@ -4171,9 +10023,44 @@ d_crimea = {
     }
 }
 
+d_croatia = {
+    1936.1.1 = {
+        holder = 9000023
+        liege = 0
+    }
+}
+
 d_currezia = {
     1936.1.1 = {
         holder = 9000032
+        liege = 0
+    }
+}
+
+d_cyprus = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_dalir = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+d_dalmatia = {
+    1936.1.1 = {
+        holder = 9000023
+        liege = 0
+    }
+}
+
+d_damascus = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -4185,9 +10072,121 @@ d_dauphine = {
     }
 }
 
+d_deheubarth = {
+    1936.1.1 = {
+        holder = 9000018
+        liege = 0
+    }
+}
+
+d_dobrudja = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+d_don_valley = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
+d_duklja = {
+    1936.1.1 = {
+        holder = 9000040
+        liege = 0
+    }
+}
+
+d_duortnoseatnu = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
 d_dyrrachion = {
     1936.1.1 = {
         holder = 9000024
+        liege = 0
+    }
+}
+
+d_east_bando = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+d_east_franconia = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_east_sanindo = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+d_east_sanyodo = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+d_edessa = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_emilia = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+d_ephese = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_epirus = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+d_esthonia = {
+    1936.1.1 = {
+        holder = 9000031
+        liege = 0
+    }
+}
+
+d_fes = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+d_finland = {
+    1936.1.1 = {
+        holder = 9000029
         liege = 0
     }
 }
@@ -4199,9 +10198,283 @@ d_flanders = {
     }
 }
 
+d_frisia = {
+    1936.1.1 = {
+        holder = 9000057
+        liege = 0
+    }
+}
+
+d_friuli = {
+    1936.1.1 = {
+        holder = 9000050
+        liege = 0
+    }
+}
+
+d_galicia = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+d_galloway = {
+    1936.1.1 = {
+        holder = 9000018
+        liege = 0
+    }
+}
+
+d_gascogne = {
+    1936.1.1 = {
+        holder = 9000017
+        liege = 0
+    }
+}
+
+d_gelre = {
+    1936.1.1 = {
+        holder = 9000057
+        liege = 0
+    }
+}
+
+d_genoa = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+d_georgia = {
+    1936.1.1 = {
+        holder = 9000046
+        liege = 0
+    }
+}
+
+d_giemajohka = {
+    1936.1.1 = {
+        holder = 9000029
+        liege = 0
+    }
+}
+
+d_gloucester = {
+    1936.1.1 = {
+        holder = 9000018
+        liege = 0
+    }
+}
+
+d_gotland = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+d_granada = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+d_greater_armenia = {
+    1936.1.1 = {
+        holder = 9000047
+        liege = 0
+    }
+}
+
+d_grodno = {
+    1936.1.1 = {
+        holder = 9000027
+        liege = 0
+    }
+}
+
+d_guoldat = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_gwynedd = {
+    1936.1.1 = {
+        holder = 9000018
+        liege = 0
+    }
+}
+
+d_gyor = {
+    1936.1.1 = {
+        holder = 9000021
+        liege = 0
+    }
+}
+
+d_halogaland = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
 d_halych = {
     1936.1.1 = {
         holder = 9000020
+        liege = 0
+    }
+}
+
+d_hereford = {
+    1936.1.1 = {
+        holder = 9000018
+        liege = 0
+    }
+}
+
+d_hesse = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_hokurikudo = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+d_holland = {
+    1936.1.1 = {
+        holder = 9000057
+        liege = 0
+    }
+}
+
+d_holstein = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_homs = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_iceland = {
+    1936.1.1 = {
+        holder = 9000033
+        liege = 0
+        government = republic_government
+    }
+}
+
+d_ishim = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_istria = {
+    1936.1.1 = {
+        holder = 9000009
+        liege = 0
+    }
+}
+
+d_jamtland = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+d_jawf = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_julich = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_jylland = {
+    1936.1.1 = {
+        holder = 9000035
+        liege = 0
+    }
+}
+
+d_karachev = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
+d_karelia = {
+    1936.1.1 = {
+        holder = 9000029
+        liege = 0
+    }
+}
+
+d_kazym = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_khazaria = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
+d_kiev = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
+d_kinai = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+d_kizilyedisan = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
+d_konda = {
+    1936.1.1 = {
+        holder = 9000030
         liege = 0
     }
 }
@@ -4213,9 +10486,156 @@ d_krain = {
     }
 }
 
+d_krete = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+d_kufa = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_kulyndy_steppe = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_kuyavia = {
+    1936.1.1 = {
+        holder = 9000025
+        liege = 0
+    }
+}
+
+d_lancaster = {
+    1936.1.1 = {
+        holder = 9000018
+        liege = 0
+    }
+}
+
+d_languedoc = {
+    1936.1.1 = {
+        holder = 9000017
+        liege = 0
+    }
+}
+
+d_lanikaz = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_latgalians = {
+    1936.1.1 = {
+        holder = 9000028
+        liege = 0
+    }
+}
+
+d_latium = {
+    1936.1.1 = {
+        holder = 9000053
+        liege = 0
+    }
+}
+
+d_lausitz = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_lebanon = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_leinster = {
+    1936.1.1 = {
+        holder = 9000034
+        liege = 0
+    }
+}
+
+d_leon = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+d_levedia = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
+d_lithuanians = {
+    1936.1.1 = {
+        holder = 9000028
+        liege = 0
+    }
+}
+
+d_livonia = {
+    1936.1.1 = {
+        holder = 9000031
+        liege = 0
+    }
+}
+
+d_lombardia = {
+    1936.1.1 = {
+        holder = 9000050
+        liege = 0
+    }
+}
+
+d_lothian = {
+    1936.1.1 = {
+        holder = 9000018
+        liege = 0
+    }
+}
+
+d_lower_bosna = {
+    1936.1.1 = {
+        holder = 9000023
+        liege = 0
+    }
+}
+
+d_lower_lorraine = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
 d_lower_silesia = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+d_luki = {
+    1936.1.1 = {
+        holder = 9000030
         liege = 0
     }
 }
@@ -4227,9 +10647,422 @@ d_luxembourg = {
     }
 }
 
+d_macva = {
+    1936.1.1 = {
+        holder = 9000040
+        liege = 0
+    }
+}
+
+d_mallorca = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+d_marrakesh = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+d_masuria = {
+    1936.1.1 = {
+        holder = 9000028
+        liege = 0
+    }
+}
+
+d_mazovia = {
+    1936.1.1 = {
+        holder = 9000025
+        liege = 0
+    }
+}
+
+d_meath = {
+    1936.1.1 = {
+        holder = 9000034
+        liege = 0
+    }
+}
+
+d_mecca = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_medina = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_meissen = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_mesopotamia = {
+    1936.1.1 = {
+        holder = 9000047
+        liege = 0
+    }
+}
+
+d_minsk = {
+    1936.1.1 = {
+        holder = 9000027
+        liege = 0
+    }
+}
+
+d_moldova = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+d_moravia = {
+    1936.1.1 = {
+        holder = 9000038
+        liege = 0
+    }
+}
+
+d_moray = {
+    1936.1.1 = {
+        holder = 9000018
+        liege = 0
+    }
+}
+
+d_munster = {
+    1936.1.1 = {
+        holder = 9000034
+        liege = 0
+    }
+}
+
+d_muntenia = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+d_murcia = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+d_najd = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_nankaido = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+d_navarra = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+d_nizhny_novgorod = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_nordgau = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_nordmark = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_norfolk = {
+    1936.1.1 = {
+        holder = 9000018
+        liege = 0
+    }
+}
+
+d_normandy = {
+    1936.1.1 = {
+        holder = 9000017
+        liege = 0
+    }
+}
+
+d_norrland = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+d_north_saikaido = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+d_northern_isles = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+d_northumberland = {
+    1936.1.1 = {
+        holder = 9000018
+        liege = 0
+    }
+}
+
+d_novgorod = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_novosil = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
+d_nyitra = {
+    1936.1.1 = {
+        holder = 9000021
+        liege = 0
+    }
+}
+
+d_oltenia = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+d_oman = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_opolye = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_opsikion = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_optimatoi = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_orleans = {
+    1936.1.1 = {
+        holder = 9000017
+        liege = 0
+    }
+}
+
+d_ostergotland = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
 d_osterreich = {
     1936.1.1 = {
         holder = 9000009
+        liege = 0
+    }
+}
+
+d_ostfalen = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_ostmark = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_ostyaki = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_oultrejourdain = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_palestine = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_palmyra = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_paphlagonia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_pelym = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_pereyaslavl = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
+d_philippopolis = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+d_piedmonte = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+d_pinsk = {
+    1936.1.1 = {
+        holder = 9000027
+        liege = 0
+    }
+}
+
+d_pisa = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+d_pohjanmaa = {
+    1936.1.1 = {
+        holder = 9000029
+        liege = 0
+    }
+}
+
+d_poitou = {
+    1936.1.1 = {
+        holder = 9000017
+        liege = 0
+    }
+}
+
+d_polotsk = {
+    1936.1.1 = {
+        holder = 9000027
+        liege = 0
+    }
+}
+
+d_pomerelia = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_pommerania = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_porto = {
+    1936.1.1 = {
+        holder = 9000044
+        liege = 0
+    }
+}
+
+d_powys = {
+    1936.1.1 = {
+        holder = 9000018
         liege = 0
     }
 }
@@ -4248,9 +11081,318 @@ d_prussia = {
     }
 }
 
+d_ragusa = {
+    1936.1.1 = {
+        holder = 9000023
+        liege = 0
+    }
+}
+
+d_rashka = {
+    1936.1.1 = {
+        holder = 9000040
+        liege = 0
+    }
+}
+
+d_red_levedia = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
+d_rif = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+d_romagna = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+d_ryazan = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_salair = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_salerno = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
+d_salzburg = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_samarra = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_samogitia = {
+    1936.1.1 = {
+        holder = 9000028
+        liege = 0
+    }
+}
+
+d_sardinia = {
+    1936.1.1 = {
+        holder = 9000054
+        liege = 0
+    }
+}
+
+d_savo = {
+    1936.1.1 = {
+        holder = 9000029
+        liege = 0
+    }
+}
+
+d_sebasteia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_sevilla = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+d_shammar = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_shirvan = {
+    1936.1.1 = {
+        holder = 9000048
+        liege = 0
+        government = republic_government
+    }
+}
+
+d_sibir = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_sicily = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
+d_sjaelland = {
+    1936.1.1 = {
+        holder = 9000035
+        liege = 0
+    }
+}
+
+d_skane = {
+    1936.1.1 = {
+        holder = 9000035
+        liege = 0
+    }
+}
+
+d_slavonia = {
+    1936.1.1 = {
+        holder = 9000023
+        liege = 0
+    }
+}
+
+d_slesvig = {
+    1936.1.1 = {
+        holder = 9000035
+        liege = 0
+    }
+}
+
+d_smaland = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+d_smolensk = {
+    1936.1.1 = {
+        holder = 9000027
+        liege = 0
+    }
+}
+
+d_somerset = {
+    1936.1.1 = {
+        holder = 9000018
+        liege = 0
+    }
+}
+
+d_somogy = {
+    1936.1.1 = {
+        holder = 9000021
+        liege = 0
+    }
+}
+
+d_sous = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+d_south_saikaido = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+d_spoleto = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
 d_steyermark = {
     1936.1.1 = {
         holder = 9000009
+        liege = 0
+    }
+}
+
+d_strymon = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+d_svealand = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+d_swabia = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_syrmia = {
+    1936.1.1 = {
+        holder = 9000021
+        liege = 0
+    }
+}
+
+d_tafilalt = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+d_tana = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+    }
+}
+
+d_tao-klarjeti = {
+    1936.1.1 = {
+        holder = 9000046
+        liege = 0
+    }
+}
+
+d_tara = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_temes = {
+    1936.1.1 = {
+        holder = 9000021
+        liege = 0
+    }
+}
+
+d_the_isles = {
+    1936.1.1 = {
+        holder = 9000018
+        liege = 0
+    }
+}
+
+d_thessalonika = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+d_thessaly = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+d_thracesia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_thuringia = {
+    1936.1.1 = {
+        holder = 9000001
         liege = 0
     }
 }
@@ -4262,9 +11404,72 @@ d_tlemcen = {
     }
 }
 
+d_tokaido = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+d_toledo = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+d_tosando = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+d_toscana = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+    }
+}
+
+d_toulouse = {
+    1936.1.1 = {
+        holder = 9000017
+        liege = 0
+    }
+}
+
+d_trandalog = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+d_transcarpathia = {
+    1936.1.1 = {
+        holder = 9000021
+        liege = 0
+    }
+}
+
 d_transjurania = {
     1936.1.1 = {
         holder = 9000032
+        liege = 0
+    }
+}
+
+d_transylvania = {
+    1936.1.1 = {
+        holder = 9000021
+        liege = 0
+    }
+}
+
+d_transylvanian_alps = {
+    1936.1.1 = {
+        holder = 9000039
         liege = 0
     }
 }
@@ -4276,9 +11481,37 @@ d_tunis = {
     }
 }
 
+d_turnovo = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+d_turov = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
 d_tyrol = {
     1936.1.1 = {
         holder = 9000009
+        liege = 0
+    }
+}
+
+d_ulster = {
+    1936.1.1 = {
+        holder = 9000034
+        liege = 0
+    }
+}
+
+d_ungvar = {
+    1936.1.1 = {
+        holder = 9000021
         liege = 0
     }
 }
@@ -4304,9 +11537,226 @@ d_upper_silesia = {
     }
 }
 
+d_urdunn = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_usora = {
+    1936.1.1 = {
+        holder = 9000023
+        liege = 0
+    }
+}
+
+d_ustyug = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_utrecht = {
+    1936.1.1 = {
+        holder = 9000057
+        liege = 0
+    }
+}
+
+d_valencia = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+d_valois = {
+    1936.1.1 = {
+        holder = 9000017
+        liege = 0
+    }
+}
+
+d_vaspurakan = {
+    1936.1.1 = {
+        holder = 9000047
+        liege = 0
+    }
+}
+
+d_vastergotland = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+d_vasyugan_mire = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_venice = {
+    1936.1.1 = {
+        holder = 9000050
+        liege = 0
+    }
+}
+
+d_vepsia = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_verona = {
+    1936.1.1 = {
+        holder = 9000050
+        liege = 0
+    }
+}
+
+d_vestlandi = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+d_vidin = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+d_viken = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
+d_viscaya = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+d_visegrad = {
+    1936.1.1 = {
+        holder = 9000021
+        liege = 0
+    }
+}
+
 d_volhynia = {
     1936.1.1 = {
         holder = 9000022
+        liege = 0
+    }
+}
+
+d_vologda = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+d_vuovdisamieana = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
+d_wasit = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_west_bando = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+d_west_franconia = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_west_sanindo = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+d_west_sanyodo = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+d_western_isles = {
+    1936.1.1 = {
+        holder = 9000018
+        liege = 0
+    }
+}
+
+d_westfalen = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+d_wielkopolska = {
+    1936.1.1 = {
+        holder = 9000025
+        liege = 0
+    }
+}
+
+d_yamama = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+d_yedisan = {
+    1936.1.1 = {
+        holder = 9000022
+        liege = 0
+    }
+}
+
+d_york = {
+    1936.1.1 = {
+        holder = 9000018
+        liege = 0
+    }
+}
+
+e_carpathia = {
+    1936.1.1 = {
+        holder = 9000009
         liege = 0
     }
 }
@@ -4325,9 +11775,30 @@ e_russia = {
     }
 }
 
+e_siberia = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
 k_albania = {
     1936.1.1 = {
         holder = 9000024
+        liege = 0
+    }
+}
+
+k_anatolia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+k_andalusia = {
+    1936.1.1 = {
+        holder = 9000043
         liege = 0
     }
 }
@@ -4339,6 +11810,35 @@ k_aquitaine = {
     }
 }
 
+k_arabia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+k_aragon = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+k_armenia = {
+    1936.1.1 = {
+        holder = 9000047
+        liege = 0
+        government = republic_government
+    }
+}
+
+k_asturias = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 k_austria = {
     1936.1.1 = {
         holder = 9000009
@@ -4346,9 +11846,37 @@ k_austria = {
     }
 }
 
+k_azuma = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+k_badajoz = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
 k_bavaria = {
     1936.1.1 = {
         holder = 9000001
+        liege = 0
+    }
+}
+
+k_bjarmaland = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+k_bohemia = {
+    1936.1.1 = {
+        holder = 9000038
         liege = 0
     }
 }
@@ -4367,9 +11895,90 @@ k_brittany = {
     }
 }
 
+k_bulgaria = {
+    1936.1.1 = {
+        holder = 9000041
+        liege = 0
+    }
+}
+
+k_castille = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+k_caucasus = {
+    1936.1.1 = {
+        holder = 9000045
+        liege = 0
+        government = republic_government
+    }
+}
+
+k_cr_corsica = {
+    1936.1.1 = {
+        holder = 9000019
+        liege = 0
+    }
+}
+
+k_cr_flanders_wallonia = {
+    1936.1.1 = {
+        holder = 9000026
+        liege = 0
+    }
+}
+
+k_cr_italian_republic = {
+    1936.1.1 = {
+        holder = 9000050
+        liege = 0
+        government = republic_government
+    }
+}
+
+k_cr_papal_state = {
+    1936.1.1 = {
+        holder = 9000053
+        liege = 0
+        government = theocracy_government
+    }
+}
+
+k_cr_socialist_italy = {
+    1936.1.1 = {
+        holder = 9000051
+        liege = 0
+        government = republic_government
+    }
+}
+
 k_croatia = {
     1936.1.1 = {
         holder = 9000023
+        liege = 0
+    }
+}
+
+k_cyprus = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+k_dacia = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+k_denmark = {
+    1936.1.1 = {
+        holder = 9000035
         liege = 0
     }
 }
@@ -4384,6 +11993,13 @@ k_east_francia = {
 k_england = {
     1936.1.1 = {
         holder = 9000018
+        liege = 0
+    }
+}
+
+k_epirus = {
+    1936.1.1 = {
+        holder = 9000042
         liege = 0
     }
 }
@@ -4409,9 +12025,74 @@ k_france = {
     }
 }
 
+k_frisia = {
+    1936.1.1 = {
+        holder = 9000057
+        liege = 0
+    }
+}
+
+k_galicia-volhynia = {
+    1936.1.1 = {
+        holder = 9000020
+        liege = 0
+    }
+}
+
+k_georgia = {
+    1936.1.1 = {
+        holder = 9000046
+        liege = 0
+        government = republic_government
+    }
+}
+
+k_hellas = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
 k_hungary = {
     1936.1.1 = {
         holder = 9000021
+        liege = 0
+    }
+}
+
+k_ireland = {
+    1936.1.1 = {
+        holder = 9000034
+        liege = 0
+        government = republic_government
+    }
+}
+
+k_jerusalem = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+k_karaman = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+k_krete = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+k_leon = {
+    1936.1.1 = {
+        holder = 9000043
         liege = 0
     }
 }
@@ -4430,7 +12111,63 @@ k_livonia = {
     }
 }
 
+k_maghreb = {
+    1936.1.1 = {
+        holder = 9000049
+        liege = 0
+    }
+}
+
+k_mesopotamia = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+k_moldavia = {
+    1936.1.1 = {
+        holder = 9000039
+        liege = 0
+    }
+}
+
+k_naples = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
+k_navarra = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+k_nikaea = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+k_norway = {
+    1936.1.1 = {
+        holder = 9000036
+        liege = 0
+    }
+}
+
 k_novgorod = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+k_ob = {
     1936.1.1 = {
         holder = 9000030
         liege = 0
@@ -4440,6 +12177,13 @@ k_novgorod = {
 k_opolye = {
     1936.1.1 = {
         holder = 9000030
+        liege = 0
+    }
+}
+
+k_ottoman = {
+    1936.1.1 = {
+        holder = 9000055
         liege = 0
     }
 }
@@ -4458,9 +12202,37 @@ k_pomerania = {
     }
 }
 
+k_pontus = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+k_portugal = {
+    1936.1.1 = {
+        holder = 9000044
+        liege = 0
+    }
+}
+
+k_rum = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
 k_ruthenia = {
     1936.1.1 = {
         holder = 9000022
+        liege = 0
+    }
+}
+
+k_sardinia = {
+    1936.1.1 = {
+        holder = 9000054
         liege = 0
     }
 }
@@ -4479,11 +12251,95 @@ k_scotland = {
     }
 }
 
+k_serbia = {
+    1936.1.1 = {
+        holder = 9000040
+        liege = 0
+    }
+}
+
+k_sibir = {
+    1936.1.1 = {
+        holder = 9000030
+        liege = 0
+    }
+}
+
+k_sicily = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = 0
+    }
+}
+
+k_sorbia = {
+    1936.1.1 = {
+        holder = 9000001
+        liege = 0
+    }
+}
+
+k_spanish_galicia = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+k_sweden = {
+    1936.1.1 = {
+        holder = 9000037
+        liege = 0
+    }
+}
+
 k_switzerland = {
     1936.1.1 = {
         holder = 9000032
         liege = 0
         government = republic_government
+    }
+}
+
+k_syria = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+k_thessalonika = {
+    1936.1.1 = {
+        holder = 9000042
+        liege = 0
+    }
+}
+
+k_trebizond = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+    }
+}
+
+k_tsukushi = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+k_valencia = {
+    1936.1.1 = {
+        holder = 9000043
+        liege = 0
+    }
+}
+
+k_venice = {
+    1936.1.1 = {
+        holder = 9000050
+        liege = 0
     }
 }
 
@@ -4497,6 +12353,20 @@ k_wales = {
 k_white_rus = {
     1936.1.1 = {
         holder = 9000027
+        liege = 0
+    }
+}
+
+k_yamato = {
+    1936.1.1 = {
+        holder = 9000056
+        liege = 0
+    }
+}
+
+k_yugra = {
+    1936.1.1 = {
+        holder = 9000030
         liege = 0
     }
 }

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Derive county-level scenario planning assignments from a CK3 landed-title tree."""
 import csv
+from collections import Counter, defaultdict
 import re
 import sys
 from pathlib import Path
@@ -56,4 +57,24 @@ with (root / 'data' / 'county_map.csv').open('w', newline='') as file:
     writer = csv.DictWriter(file, fieldnames=['county', 'nation', 'source_title'], lineterminator='\n')
     writer.writeheader()
     writer.writerows(out)
+owner_by_county = {row['county']: row['nation'] for row in out}
+total_count = Counter()
+owner_count = defaultdict(Counter)
+for county in (title for title in parent if title.startswith('c_')):
+    current = parent.get(county)
+    while current:
+        if current.startswith(('d_', 'k_')):
+            total_count[current] += 1
+            if county in owner_by_county:
+                owner_count[current][owner_by_county[county]] += 1
+        current = parent.get(current)
+complete_titles = []
+for title, count in sorted(total_count.items()):
+    owners = owner_count[title]
+    if len(owners) == 1 and sum(owners.values()) == count:
+        complete_titles.append({'title': title, 'nation': next(iter(owners)), 'counties': count})
+with (root / 'data' / 'complete_titles.csv').open('w', newline='') as file:
+    writer = csv.DictWriter(file, fieldnames=['title', 'nation', 'counties'], lineterminator='\n')
+    writer.writeheader()
+    writer.writerows(complete_titles)
 print(f'Mapped {len(out)} counties from {len(assignments)} CK3 titles')

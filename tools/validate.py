@@ -23,12 +23,16 @@ bookmark = (root/'Crusaderreich/common/bookmarks/bookmarks/crusaderreich_1936.tx
 character_history = (root/'Crusaderreich/history/characters/crusaderreich_1936.txt').read_text()
 title_history = (root/'Crusaderreich/history/titles/crusaderreich_1936.txt').read_text()
 for row in nations:
-    if row['leader_id'] and row['ck3_region'] in {a['ck3_title'] for a in assignments} | {'e_germany','e_russia'}:
-        if row['tag'] != 'SWI':
+    if row['leader_id'] and row['ck3_region'] in {a['ck3_title'] for a in assignments} | {'e_germany','e_russia','e_carpathia', 'k_maghreb'}:
+        person = next(c for c in characters if c['id'] == row['leader_id'])
+        if person['role'] == 'head_of_state' and 'republic' not in row['government'].lower() and 'theocracy' not in row['government'].lower():
             assert f'history_id = {row["leader_id"]}' in bookmark
         assert f'{row["leader_id"]} = {{' in character_history
         assert f'{row["ck3_region"]} = {{' in title_history
-assert bookmark.count('character = {') == 17
+assert bookmark.count('character = {') == sum(
+    c['role'] == 'head_of_state' and 'republic' not in next(n['government'] for n in nations if n['tag'] == c['nation']).lower() and 'theocracy' not in next(n['government'] for n in nations if n['tag'] == c['nation']).lower()
+    for c in characters
+)
 print('1936 bookmark and ruler/title references validated')
 
 for block in bookmark.split("    character = {")[1:]:
@@ -43,6 +47,7 @@ for county, owner in {
     'c_ajaccio': 'COR', 'c_bern': 'SWI', 'c_zurich': 'SWI',
     'c_vienna': 'AUS', 'c_krakowska': 'GAL', 'c_lviv': 'GAL',
     'c_minsk': 'WHR', 'c_konigsberg': 'GER', 'c_roma': 'PAP',
+    'c_lisboa': 'POR', 'c_savoie': 'SWI', 'c_aosta': 'SRI',
 }.items():
     assert county_owner.get(county) == owner, f'{county} must belong to {owner}'
 dynasties = (root/'Crusaderreich/common/dynasties/crusaderreich_dynasties.txt').read_text()
@@ -52,5 +57,11 @@ for line in dynasties.splitlines():
     assert f'{key}:0 ' in localization, f'Missing dynasty localization: {key}'
 assert 'Fletcher' not in character_history + dynasties + localization
 assert 'name = "George V Windsor"' not in character_history
+custom_titles = (root/'Crusaderreich/common/landed_titles/crusaderreich_titles.txt').read_text()
+for row in nations:
+    if row['ck3_region'].startswith('k_cr_'):
+        assert f'{row["ck3_region"]} = {{' in custom_titles
+    if row['leader_id']:
+        assert f' {row["ck3_region"]}:0 "{row["name"]}"' in localization
 assert title_history.count('liege = 0') == title_history.count('1936.1.1 = {')
 print('Dynasty names, landed rulers, and 1936 independence validated')
