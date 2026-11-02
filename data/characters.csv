@@ -1,0 +1,18 @@
+id,name,birth,death,culture,religion,nation,role,confidence
+9000001,Wilhelm II,1859.1.27,,german,,GER,head_of_state,high
+9000009,Karl I,1887.8.17,,german,catholic,AUS,head_of_state,high
+9000017,Jean d’Orléans,1874.9.4,,,,FRA,head_of_state,user_defined
+9000018,George V Windsor,1865.6.3,,,,ENG,head_of_state,user_defined
+9000021,Joseph August,1872.8.9,,,,HUN,head_of_state,user_defined
+9000025,August Wilhelm von Hohenzollern,,,,,POL,head_of_state,user_defined
+9000022,Wilhelm Franz,,,,,UKR,head_of_state,user_defined
+9000030,Vladimir Kirillovich Romanov,1917.8.30,,,,RUS,head_of_state,user_defined
+9000019,"Louis, Prince Napoléon",1914.1.23,,,,COR,head_of_state,user_defined
+9000020,Karl Albrecht,,,,,GAL,head_of_state,user_defined
+9000023,Leopold Salvator,,,,,CRB,head_of_state,user_defined
+9000024,Wilhelm zu Wied,,,,,ALB,head_of_state,user_defined
+9000026,Adalbert von Hohenzollern,,,,,FLW,head_of_state,user_defined
+9000027,Oskar von Hohenzollern,,,,,WHR,head_of_state,user_defined
+9000028,Karl Gero von Urach,,,,,LIT,head_of_state,user_defined
+9000029,Friedrich Karl von Hesse-Kassel,,,,,FIN,head_of_state,user_defined
+9000031,Adolf Friedrich von Mecklenburg-Schwerin,,,,,UBD,head_of_state,user_defined

@@ -1,0 +1,36 @@
+ck3_title,nation,note
+k_saxony,GER,German core approximation
+k_bavaria,GER,German core approximation
+k_east_francia,GER,German core approximation
+k_france,FRA,French core approximation
+k_aquitaine,FRA,French core approximation
+k_england,ENG,British core approximation
+k_wales,ENG,British core approximation
+k_scotland,ENG,British core approximation
+k_austria,AUS,Austrian core approximation
+k_hungary,HUN,Hungarian core approximation
+k_poland,POL,Polish core approximation
+k_ruthenia,UKR,Ukrainian core approximation
+k_novgorod,RUS,Russian core approximation
+k_white_rus,RUS,Russian core approximation
+k_opolye,RUS,Russian core approximation
+k_italy,ITA,Italian northern core approximation
+k_naples,SIC,Southern Italian core approximation
+k_sicily,SIC,Southern Italian core approximation
+k_ottoman,OTT,Anatolian Ottoman approximation
+k_anatolia,OTT,Anatolian Ottoman approximation
+k_yamato,JAP,Japanese core approximation
+k_azuma,JAP,Japanese core approximation
+k_tsukushi,JAP,Japanese core approximation
+d_corsica,COR,Corsica only; French African holdings need county mapping
+k_galicia-volhynia,GAL,Galicia-Lodomeria approximation
+k_croatia,CRB,Croatian crown approximation
+k_bosnia,CRB,Bosnian crown approximation
+k_albania,ALB,Albanian core approximation
+d_flanders,FLW,Flemish core approximation
+d_brabant,FLW,Walloon and Brabant approximation
+k_white_rus,WHR,White Ruthenian core approximation
+k_lithuania,LIT,Lithuanian core approximation
+k_finland,FIN,Finnish core approximation
+k_esthonia,UBD,Baltic core approximation
+k_livonia,UBD,Baltic core approximation

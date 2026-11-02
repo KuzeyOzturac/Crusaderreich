@@ -1,0 +1,3186 @@
+# Generated 1936 title holders for scenario-assigned titles.
+c_abauj = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_agenais = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_ajaccio = {
+    1936.1.1 = {
+        holder = 9000019
+    }
+}
+
+c_albi = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_albret = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_alencon = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_allenstein = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_alpsee = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_aluksne = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_amiens = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_amstetten = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_angerburg = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_anglesey = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_angouleme = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_angus = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_anjou = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_annandale = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_ansbach = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_antwerpen = {
+    1936.1.1 = {
+        holder = 9000026
+    }
+}
+
+c_arad = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_argyll = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_armagnac = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_atholl = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_augsburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_aunis = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_auvergne = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_auxerre = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_avalois = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_avranches = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_ayrshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_babruysk = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_bacs = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_baden = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_bamberg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_baranya = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_barcasag = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_bars = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_bartenstein = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_bastia = {
+    1936.1.1 = {
+        holder = 9000019
+    }
+}
+
+c_bayeux = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_bearn = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_beaumont = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_bedford = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_bekes = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_bellac = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_beloozero = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_belz = {
+    1936.1.1 = {
+        holder = 9000020
+    }
+}
+
+c_berchtesgaden = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_bereg = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_berestye = {
+    1936.1.1 = {
+        holder = 9000020
+    }
+}
+
+c_berkshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_berry = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_beszterce = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_bethen = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_bezichi = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_beziers = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_bigorre = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_bihar = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_blankenburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_blois = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_bodrog = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_bordeaux = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_borsod = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_boulogne = {
+    1936.1.1 = {
+        holder = 9000026
+    }
+}
+
+c_bourbon = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_brabant = {
+    1936.1.1 = {
+        holder = 9000026
+    }
+}
+
+c_braslau = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_brecknockshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_breisgau = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_bremen = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_breslau = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_brie_francaise = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_brixen = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_brugge = {
+    1936.1.1 = {
+        holder = 9000026
+    }
+}
+
+c_brunswick = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_brzeg = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_buchan = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_buckinghamshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_burgau = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_caernarfonshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_caithness = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_cambray = {
+    1936.1.1 = {
+        holder = 9000026
+    }
+}
+
+c_cambridgeshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_carcassonne = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_cardiganshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_carmarthenshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_carrick = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_cetina = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_chalon = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_chalons = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_chartres = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_chernigov = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_cherso = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_cherven = {
+    1936.1.1 = {
+        holder = 9000020
+    }
+}
+
+c_cheshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_chornobyl = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_cieszyn = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_clermont = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_clermont_sur_allier = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_coburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_colmar = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_comminges = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_cornwall = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_coulommiers = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_csanad = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_csongrad = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_cumberland = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_czerska = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_dannenberg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_denbighshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_derby = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_dessau = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_devon = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_dijon = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_ditmarschen = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_dobrzynska = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_donjikraji = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_dorohychyn = {
+    1936.1.1 = {
+        holder = 9000020
+    }
+}
+
+c_dorpat = {
+    1936.1.1 = {
+        holder = 9000031
+    }
+}
+
+c_dorset = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_dubrovytsia = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_dunbar = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_durham = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_durne = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_east_riding = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_eichstadt = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_erbach = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_eschenlohe = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_essex = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_esztergom = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_eu = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_evreux = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_falkenstein = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_feher = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_fife = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_finland = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_fogaras = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_foix = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_frankfurt = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_freistadt = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_frontenhausen = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_fulda = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_furstenberg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_gacka = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_galloway = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_geisenhausen = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_gemer = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_gevaudan = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_glamorgan = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_gleichenstein = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_gloucestershire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_gnezdovo = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_gnieznienska = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_gostyninska = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_gottingen = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_gowrie = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_graz = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_grisons = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_grobin = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_grodno = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_grunberg = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_grunningen = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_guines = {
+    1936.1.1 = {
+        holder = 9000026
+    }
+}
+
+c_gyor = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_hainaut = {
+    1936.1.1 = {
+        holder = 9000026
+    }
+}
+
+c_halberstadt = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_hallstatt = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_halych = {
+    1936.1.1 = {
+        holder = 9000020
+    }
+}
+
+c_hamburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_hampton = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_hannover = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_hereford = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_hertfordshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_hewes = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_hildesheim = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_hohenau = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_hohenberg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_hohenburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_hohenlohe = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_hont = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_hradyzk = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_huntingdonshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_hunyad = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_ile_de_france = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_ingolstadt = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_inner_hebrides = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_innsbruck = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_inverness = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_isle_of_man = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_isle_of_wight = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_issoudun = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_jaligny = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_jersika = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_kainuu = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_kaiserslautern = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_kakisalmi = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_kaliska = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_kammersberg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_karachev = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_karnten = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_kassel = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_kempten = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_kent = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_kernave = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_keve = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_kiev = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_kletsk = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_klingenberg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_knin = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_knittelfeld = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_kokenois = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_kolon = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_komarom = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_konigsberg = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_kontupohja = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_korosten = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_korsun = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_kozelsk = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_krajna = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_krakowska = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_kranj = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_krasso = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_krems = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_kujawy = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_kursk = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_la_marche = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_labourd = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_lanarkshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_lancashire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_langres = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_leczycka = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_legnica = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_leicestershire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_lennox = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_leuchtenburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_liebnitz = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_lienz = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_lika = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_lille = {
+    1936.1.1 = {
+        holder = 9000026
+    }
+}
+
+c_limousin = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_lincolnshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_linlithgowshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_linz = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_lippe = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_lipto = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_lisieux = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_livs = {
+    1936.1.1 = {
+        holder = 9000031
+    }
+}
+
+c_ljubljana = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_lobdaburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_lomzynska = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_lothian = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_lubeck = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_lubelska = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_lubusz = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_luki = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_lukoml = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_luneburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_lusignan = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_lviv = {
+    1936.1.1 = {
+        holder = 9000020
+    }
+}
+
+c_macon = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_magdeburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_maine = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_mainz = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_malbork = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_maldwyn = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_mansfeld = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_manturovo = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_marburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_marmaros = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_marsan = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_mearns = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_meaux = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_memel = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_merioneth = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_mersenburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_messukyla = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_middlesex = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_miliez = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_millau = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_minden = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_minsk = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_modrus = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_monmouthshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_montaigu = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_montargis = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_montpellier = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_moray = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_moskva = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_mozhaysk = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_munchen = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_munster = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_murom = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_murzzuschlag = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_mustasaari = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_narva = {
+    1936.1.1 = {
+        holder = 9000031
+    }
+}
+
+c_nassau = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_natangia = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_nevers = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_nizhny_novgorod = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_nordlingen = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_norfolk = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_north_riding = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_northamptonshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_northumberland = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_nottinghamshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_novgorod = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_novgorod_seversky = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_novogrudok = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_novosil = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_nurnberg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_nyitra = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_nyland = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_nysa = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_odoyev = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_olavinlinna = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_oldenburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_onega = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_opole = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_orava = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_orlamunde = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_orleans = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_orsha = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_osel = {
+    1936.1.1 = {
+        holder = 9000031
+    }
+}
+
+c_osnabruck = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_osterode = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_oulu = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_outer_hebrides = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_oxfordshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_paderborn = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_pagania = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_palanga = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_parsberg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_passau = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_pedersore = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_pembrokeshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_peremyshl = {
+    1936.1.1 = {
+        holder = 9000020
+    }
+}
+
+c_peresopnytsia = {
+    1936.1.1 = {
+        holder = 9000020
+    }
+}
+
+c_pereyaslavl = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_perigord = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_pielinen = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_pinsk = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_pitten = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_plocka = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_plyos = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_poitiers = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_polotsk = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_poszony = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_pozega = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_poznanska = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_przemkow = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_pset = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_pskov = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_putyvl = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_quercy = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_radomska = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_ragusa = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_rama = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_raseiniai = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_ratibor = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_ravensburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_regensburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_reims = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_rethel = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_reval = {
+    1936.1.1 = {
+        holder = 9000031
+    }
+}
+
+c_romen = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_roslavl = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_ross = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_rothenburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_rouen = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_rouergue = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_rusa = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_ryazan = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_sable = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_sacz = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_saintonge = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_salinis = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_salzburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_sancerre = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_sandomierska = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_sankt_gallen = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_sankt_polten = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_saris = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_satakunta = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_saumur = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_scalovia = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_schaumberg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_schmalkalden = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_schweibus = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_sebezh = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_selpils = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_sens = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_sevsk = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_shropshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_siauliai = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_sieradzka = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_sir_faesyfed = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_slutsk = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_smolensk = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_soli = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_somerset = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_somogy = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_sopron = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_sortavala = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_speyer = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_spis = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_sprottau = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_stade = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_staffordshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_starodub = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_stendal = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_stezycka = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_strassburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_strathearn = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_suffolk = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_sundgau = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_surrey = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_sussex = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_sutherland = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_suzdal = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_sysma = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_szabolcs = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_szatmar = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_szekelyfold = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_szekesfehervar = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_szerem = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_talava = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_tarnowska = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_tavasts = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_tecklenburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_temes = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_terebovl = {
+    1936.1.1 = {
+        holder = 9000020
+    }
+}
+
+c_teviotdale = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_thiers = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_thouars = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_tikhvin = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_tolna = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_tonnerrois = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_torda = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_toropets = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_torun = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_toulouse = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_tourraine = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_trakai = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_trenscen = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_troyes = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_tula = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_turov = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_tver = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_ulm = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_ungvar = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_uses = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_ushytsia = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_usora = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_vaihingen = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_valdai = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_valois = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_vanemane = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_vas = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_vecchio = {
+    1936.1.1 = {
+        holder = 9000019
+    }
+}
+
+c_velay = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_vendome = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_vermandois = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+c_veszprem = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_vhrbosna = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_vidzeme = {
+    1936.1.1 = {
+        holder = 9000031
+    }
+}
+
+c_viena = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_vienna = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_viipuri = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+c_villach = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_visegrad = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_vitebsk = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_vladimir = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_vodi = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_vodica = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_voin = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_volkovysk = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_volodymyr = {
+    1936.1.1 = {
+        holder = 9000020
+    }
+}
+
+c_vrbas = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_vukovar = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_vyangi = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_waldeck = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_warwickshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_west_riding = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_westmorland = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_wiek = {
+    1936.1.1 = {
+        holder = 9000031
+    }
+}
+
+c_wielunska = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_wiltberg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_wiltshire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_wolpe = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_worcestershire = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+c_wormditt = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_worms = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_wschowska = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_wurttemberg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_wurzburg = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_yaroslavl = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+c_yatvyagi = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_yperen = {
+    1936.1.1 = {
+        holder = 9000026
+    }
+}
+
+c_zachlumia = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_zadar = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_zagorje = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_zagreb = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_zakroczymska = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+c_zarand = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_zaslavl = {
+    1936.1.1 = {
+        holder = 9000020
+    }
+}
+
+c_zavrsje = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_zelengora = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+c_zemigalians = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+c_zemplen = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_zhytomyr = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+c_zollern = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_zolyom = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+c_zurich = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+c_zvyahel = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+d_brabant = {
+    1936.1.1 = {
+        holder = 9000026
+    }
+}
+
+d_corsica = {
+    1936.1.1 = {
+        holder = 9000019
+    }
+}
+
+e_germany = {
+    1936.1.1 = {
+        holder = 9000001
+    }
+}
+
+e_russia = {
+    1936.1.1 = {
+        holder = 9000030
+    }
+}
+
+k_albania = {
+    1936.1.1 = {
+        holder = 9000024
+    }
+}
+
+k_austria = {
+    1936.1.1 = {
+        holder = 9000009
+    }
+}
+
+k_croatia = {
+    1936.1.1 = {
+        holder = 9000023
+    }
+}
+
+k_england = {
+    1936.1.1 = {
+        holder = 9000018
+    }
+}
+
+k_finland = {
+    1936.1.1 = {
+        holder = 9000029
+    }
+}
+
+k_france = {
+    1936.1.1 = {
+        holder = 9000017
+    }
+}
+
+k_galicia-volhynia = {
+    1936.1.1 = {
+        holder = 9000020
+    }
+}
+
+k_hungary = {
+    1936.1.1 = {
+        holder = 9000021
+    }
+}
+
+k_lithuania = {
+    1936.1.1 = {
+        holder = 9000028
+    }
+}
+
+k_livonia = {
+    1936.1.1 = {
+        holder = 9000031
+    }
+}
+
+k_poland = {
+    1936.1.1 = {
+        holder = 9000025
+    }
+}
+
+k_ruthenia = {
+    1936.1.1 = {
+        holder = 9000022
+    }
+}
+
+k_white_rus = {
+    1936.1.1 = {
+        holder = 9000027
+    }
+}

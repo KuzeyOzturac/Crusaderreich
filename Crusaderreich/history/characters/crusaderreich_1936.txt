@@ -1,0 +1,136 @@
+# Generated Crusaderreich 1936 rulers.
+9000001 = {
+    name = "Wilhelm II"
+    culture = "german"
+    dynasty = 9900004
+    rite = "roman_rite"
+    1859.1.27 = { birth = yes }
+}
+
+9000017 = {
+    name = "Jean d’Orléans"
+    culture = "french"
+    dynasty = 9900006
+    rite = "roman_rite"
+    1874.9.4 = { birth = yes }
+}
+
+9000018 = {
+    name = "George V Windsor"
+    culture = "english"
+    dynasty = 9900010
+    rite = "roman_rite"
+    1865.6.3 = { birth = yes }
+}
+
+9000009 = {
+    name = "Karl I"
+    culture = "german"
+    dynasty = 9900002
+    rite = "roman_rite"
+    1887.8.17 = { birth = yes }
+}
+
+9000021 = {
+    name = "Joseph August"
+    culture = "hungarian"
+    dynasty = 9900002
+    rite = "roman_rite"
+    1872.8.9 = { birth = yes }
+}
+
+9000025 = {
+    name = "August Wilhelm von Hohenzollern"
+    culture = "german"
+    dynasty = 9900004
+    rite = "roman_rite"
+    1885.1.1 = { birth = yes }
+}
+
+9000022 = {
+    name = "Wilhelm Franz"
+    culture = "russian"
+    dynasty = 9900002
+    rite = "roman_rite"
+    1885.1.1 = { birth = yes }
+}
+
+9000030 = {
+    name = "Vladimir Kirillovich Romanov"
+    culture = "russian"
+    dynasty = 9900007
+    rite = "roman_rite"
+    1917.8.30 = { birth = yes }
+}
+
+9000019 = {
+    name = "Louis, Prince Napoléon"
+    culture = "french"
+    dynasty = 9900001
+    rite = "roman_rite"
+    1914.1.23 = { birth = yes }
+}
+
+9000020 = {
+    name = "Karl Albrecht"
+    culture = "german"
+    dynasty = 9900002
+    rite = "roman_rite"
+    1885.1.1 = { birth = yes }
+}
+
+9000023 = {
+    name = "Leopold Salvator"
+    culture = "croatian"
+    dynasty = 9900002
+    rite = "roman_rite"
+    1885.1.1 = { birth = yes }
+}
+
+9000024 = {
+    name = "Wilhelm zu Wied"
+    culture = "german"
+    dynasty = 9900009
+    rite = "roman_rite"
+    1885.1.1 = { birth = yes }
+}
+
+9000026 = {
+    name = "Adalbert von Hohenzollern"
+    culture = "german"
+    dynasty = 9900004
+    rite = "roman_rite"
+    1885.1.1 = { birth = yes }
+}
+
+9000027 = {
+    name = "Oskar von Hohenzollern"
+    culture = "german"
+    dynasty = 9900004
+    rite = "roman_rite"
+    1885.1.1 = { birth = yes }
+}
+
+9000028 = {
+    name = "Karl Gero von Urach"
+    culture = "german"
+    dynasty = 9900008
+    rite = "roman_rite"
+    1885.1.1 = { birth = yes }
+}
+
+9000029 = {
+    name = "Friedrich Karl von Hesse-Kassel"
+    culture = "german"
+    dynasty = 9900003
+    rite = "roman_rite"
+    1885.1.1 = { birth = yes }
+}
+
+9000031 = {
+    name = "Adolf Friedrich von Mecklenburg-Schwerin"
+    culture = "german"
+    dynasty = 9900005
+    rite = "roman_rite"
+    1885.1.1 = { birth = yes }
+}

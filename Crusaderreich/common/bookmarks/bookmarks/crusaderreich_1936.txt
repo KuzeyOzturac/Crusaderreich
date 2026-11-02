@@ -1,0 +1,142 @@
+bm_crusaderreich_1936 = {
+    start_date = 1936.1.1
+    is_playable = yes
+    group = bm_group_crusaderreich_1936
+    weight = { value = 100 }
+    character = {
+        name = "cr_bookmark_ger"
+        history_id = 9000001
+        title = e_germany
+        birth = 1859.1.27
+        type = male
+        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+    }
+    character = {
+        name = "cr_bookmark_fra"
+        history_id = 9000017
+        title = k_france
+        birth = 1874.9.4
+        type = male
+        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+    }
+    character = {
+        name = "cr_bookmark_eng"
+        history_id = 9000018
+        title = k_england
+        birth = 1865.6.3
+        type = male
+        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+    }
+    character = {
+        name = "cr_bookmark_aus"
+        history_id = 9000009
+        title = k_austria
+        birth = 1887.8.17
+        type = male
+        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+    }
+    character = {
+        name = "cr_bookmark_hun"
+        history_id = 9000021
+        title = k_hungary
+        birth = 1872.8.9
+        type = male
+        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+    }
+    character = {
+        name = "cr_bookmark_pol"
+        history_id = 9000025
+        title = k_poland
+        birth = 1885.1.1
+        type = male
+        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+    }
+    character = {
+        name = "cr_bookmark_ukr"
+        history_id = 9000022
+        title = k_ruthenia
+        birth = 1885.1.1
+        type = male
+        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+    }
+    character = {
+        name = "cr_bookmark_rus"
+        history_id = 9000030
+        title = e_russia
+        birth = 1917.8.30
+        type = male
+        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+    }
+    character = {
+        name = "cr_bookmark_cor"
+        history_id = 9000019
+        title = d_corsica
+        birth = 1914.1.23
+        type = male
+        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+    }
+    character = {
+        name = "cr_bookmark_gal"
+        history_id = 9000020
+        title = k_galicia-volhynia
+        birth = 1885.1.1
+        type = male
+        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+    }
+    character = {
+        name = "cr_bookmark_crb"
+        history_id = 9000023
+        title = k_croatia
+        birth = 1885.1.1
+        type = male
+        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+    }
+    character = {
+        name = "cr_bookmark_alb"
+        history_id = 9000024
+        title = k_albania
+        birth = 1885.1.1
+        type = male
+        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+    }
+    character = {
+        name = "cr_bookmark_flw"
+        history_id = 9000026
+        title = d_brabant
+        birth = 1885.1.1
+        type = male
+        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+    }
+    character = {
+        name = "cr_bookmark_whr"
+        history_id = 9000027
+        title = k_white_rus
+        birth = 1885.1.1
+        type = male
+        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+    }
+    character = {
+        name = "cr_bookmark_lit"
+        history_id = 9000028
+        title = k_lithuania
+        birth = 1885.1.1
+        type = male
+        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+    }
+    character = {
+        name = "cr_bookmark_fin"
+        history_id = 9000029
+        title = k_finland
+        birth = 1885.1.1
+        type = male
+        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+    }
+    character = {
+        name = "cr_bookmark_ubd"
+        history_id = 9000031
+        title = k_livonia
+        birth = 1885.1.1
+        type = male
+        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+    }
+}

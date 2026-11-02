@@ -1,0 +1,10 @@
+9900001 = { name = "Bonaparte" culture = german }
+9900002 = { name = "Habsburg" culture = german }
+9900003 = { name = "Hesse-Kassel" culture = german }
+9900004 = { name = "Hohenzollern" culture = german }
+9900005 = { name = "Mecklenburg-Schwerin" culture = german }
+9900006 = { name = "Orléans" culture = german }
+9900007 = { name = "Romanov" culture = german }
+9900008 = { name = "Urach" culture = german }
+9900009 = { name = "Wied" culture = german }
+9900010 = { name = "Windsor" culture = german }
