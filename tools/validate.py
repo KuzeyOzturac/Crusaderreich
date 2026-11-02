@@ -27,3 +27,9 @@ for row in nations:
         assert f'{row["ck3_region"]} = {{' in title_history
 assert bookmark.count('character = {') == 17
 print('1936 bookmark and ruler/title references validated')
+
+for block in bookmark.split("    character = {")[1:]:
+    entry = block.split("    }", 1)[0]
+    for required in ("history_id =", "title =", "government =", "culture =", "religion =", "dynasty =", "dynasty_splendor_level =", "difficulty ="):
+        assert required in entry, f"Bookmark character missing {required}"
+print("Required bookmark character fields validated")
