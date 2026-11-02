@@ -1,6 +1,6 @@
 # Generated Crusaderreich 1936 rulers.
 9000001 = {
-    name = "Wilhelm II"
+    name = "Wilhelm"
     culture = "german"
     dynasty = 9900004
     rite = "roman_rite"
@@ -8,7 +8,7 @@
 }
 
 9000017 = {
-    name = "Jean d’Orléans"
+    name = "Jean"
     culture = "french"
     dynasty = 9900006
     rite = "roman_rite"
@@ -16,7 +16,7 @@
 }
 
 9000018 = {
-    name = "George V Windsor"
+    name = "George"
     culture = "english"
     dynasty = 9900010
     rite = "roman_rite"
@@ -24,7 +24,7 @@
 }
 
 9000009 = {
-    name = "Karl I"
+    name = "Karl"
     culture = "german"
     dynasty = 9900002
     rite = "roman_rite"
@@ -40,7 +40,7 @@
 }
 
 9000025 = {
-    name = "August Wilhelm von Hohenzollern"
+    name = "August Wilhelm"
     culture = "german"
     dynasty = 9900004
     rite = "roman_rite"
@@ -56,7 +56,7 @@
 }
 
 9000030 = {
-    name = "Vladimir Kirillovich Romanov"
+    name = "Vladimir"
     culture = "russian"
     dynasty = 9900007
     rite = "roman_rite"
@@ -64,7 +64,7 @@
 }
 
 9000019 = {
-    name = "Louis, Prince Napoléon"
+    name = "Louis"
     culture = "french"
     dynasty = 9900001
     rite = "roman_rite"
@@ -88,7 +88,7 @@
 }
 
 9000024 = {
-    name = "Wilhelm zu Wied"
+    name = "Wilhelm"
     culture = "german"
     dynasty = 9900009
     rite = "roman_rite"
@@ -96,7 +96,7 @@
 }
 
 9000026 = {
-    name = "Adalbert von Hohenzollern"
+    name = "Adalbert"
     culture = "german"
     dynasty = 9900004
     rite = "roman_rite"
@@ -104,7 +104,7 @@
 }
 
 9000027 = {
-    name = "Oskar von Hohenzollern"
+    name = "Oskar"
     culture = "german"
     dynasty = 9900004
     rite = "roman_rite"
@@ -112,7 +112,7 @@
 }
 
 9000028 = {
-    name = "Karl Gero von Urach"
+    name = "Karl Gero"
     culture = "german"
     dynasty = 9900008
     rite = "roman_rite"
@@ -120,7 +120,7 @@
 }
 
 9000029 = {
-    name = "Friedrich Karl von Hesse-Kassel"
+    name = "Friedrich Karl"
     culture = "german"
     dynasty = 9900003
     rite = "roman_rite"
@@ -128,9 +128,16 @@
 }
 
 9000031 = {
-    name = "Adolf Friedrich von Mecklenburg-Schwerin"
+    name = "Adolf Friedrich"
     culture = "german"
     dynasty = 9900005
+    rite = "roman_rite"
+    1885.1.1 = { birth = yes }
+}
+
+9000032 = {
+    name = "Federal Council"
+    culture = "swabian"
     rite = "roman_rite"
     1885.1.1 = { birth = yes }
 }

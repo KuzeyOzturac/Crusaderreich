@@ -2,7 +2,7 @@ tag,name,capital,government,leader_id,leader,ck3_region
 GER,German Empire,Berlin,constitutional monarchy,9000001,Wilhelm II,e_germany
 FRA,Kingdom of France,Paris,Orleanist monarchy,9000017,Jean d’Orléans,k_france
 ENG,Kingdom of Great Britain,London,monarchy,9000018,George V Windsor,k_england
-ITA,Italian Republic,Milan,republic,,,k_italy
+ITA,Italian Republic,Milan,republic,,,d_lombardia
 SIC,Kingdom of Two Sicilies,Naples,monarchy,,,k_sicily
 AUS,Austrian Empire,Vienna,Habsburg monarchy,9000009,Karl I,k_austria
 HUN,Kingdom of Hungary,Budapest,Habsburg monarchy,9000021,Joseph August,k_hungary
@@ -13,7 +13,7 @@ OTT,Ottoman Empire,Constantinople,monarchy,,,e_byzantium
 USA,United States,Washington,republic,,,outside_ck3_map
 JAP,Empire of Japan,Tokyo,constitutional monarchy,,,outside_ck3_map
 COR,Kingdom of Corsica,Ajaccio,Napoleonic monarchy,9000019,"Louis, Prince Napoléon",d_corsica
-GAL,Kingdom of Galicia-Lodomeria,Lviv,Habsburg monarchy,9000020,Karl Albrecht,k_galicia-volhynia
+GAL,Kingdom of Galicia-Lodomeria,Lviv,Habsburg monarchy,9000020,Karl Albrecht,d_halych
 CRB,Kingdom of Croatia and Bosnia,Zagreb,Habsburg monarchy,9000023,Leopold Salvator,k_croatia
 ALB,Principality of Albania,Tirana,monarchy,9000024,Wilhelm zu Wied,k_albania
 FLW,Kingdom of Flanders-Wallonia,Brussels,Hohenzollern monarchy,9000026,Adalbert von Hohenzollern,d_brabant
@@ -21,4 +21,7 @@ WHR,Kingdom of White Ruthenia,Minsk,Hohenzollern monarchy,9000027,Oskar von Hohe
 LIT,Kingdom of Lithuania,Vilnius,monarchy,9000028,Karl Gero von Urach,k_lithuania
 FIN,Kingdom of Finland,Helsinki,monarchy,9000029,Friedrich Karl von Hesse-Kassel,k_finland
 UBD,United Baltic Duchy,Riga,monarchy,9000031,Adolf Friedrich von Mecklenburg-Schwerin,k_livonia
-SRI,Socialist Republic of Italy,Turin,syndicalist republic,,,k_sardinia
+SRI,Socialist Republic of Italy,Turin,syndicalist republic,,,d_piedmonte
+SWI,Swiss Confederation,Bern,federal republic,9000032,Swiss Federal Council,k_switzerland
+PAP,Papal State,Rome,theocracy,,,d_latium
+SRD,Kingdom of Sardinia,Cagliari,monarchy,,,d_sardinia

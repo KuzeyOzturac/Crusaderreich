@@ -53,7 +53,7 @@ for county in sorted(title for title in parent if title.startswith('c_')):
         selected = min(matches, key=lambda row: distance[row['ck3_title']])
         out.append({'county': county, 'nation': selected['nation'], 'source_title': selected['ck3_title']})
 with (root / 'data' / 'county_map.csv').open('w', newline='') as file:
-    writer = csv.DictWriter(file, fieldnames=['county', 'nation', 'source_title'])
+    writer = csv.DictWriter(file, fieldnames=['county', 'nation', 'source_title'], lineterminator='\n')
     writer.writeheader()
     writer.writerows(out)
 print(f'Mapped {len(out)} counties from {len(assignments)} CK3 titles')

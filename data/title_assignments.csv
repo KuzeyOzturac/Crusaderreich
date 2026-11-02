@@ -12,9 +12,7 @@ k_hungary,HUN,Hungarian core approximation
 k_poland,POL,Polish core approximation
 k_ruthenia,UKR,Ukrainian core approximation
 k_novgorod,RUS,Russian core approximation
-k_white_rus,RUS,Russian core approximation
 k_opolye,RUS,Russian core approximation
-k_italy,ITA,Italian northern core approximation
 k_naples,SIC,Southern Italian core approximation
 k_sicily,SIC,Southern Italian core approximation
 k_ottoman,OTT,Anatolian Ottoman approximation
@@ -23,14 +21,58 @@ k_yamato,JAP,Japanese core approximation
 k_azuma,JAP,Japanese core approximation
 k_tsukushi,JAP,Japanese core approximation
 d_corsica,COR,Corsica only; French African holdings need county mapping
-k_galicia-volhynia,GAL,Galicia-Lodomeria approximation
 k_croatia,CRB,Croatian crown approximation
 k_bosnia,CRB,Bosnian crown approximation
 k_albania,ALB,Albanian core approximation
 d_flanders,FLW,Flemish core approximation
 d_brabant,FLW,Walloon and Brabant approximation
-k_white_rus,WHR,White Ruthenian core approximation
 k_lithuania,LIT,Lithuanian core approximation
 k_finland,FIN,Finnish core approximation
 k_esthonia,UBD,Baltic core approximation
 k_livonia,UBD,Baltic core approximation
+k_white_rus,WHR,"Kaiserreich White Ruthenia, not Russia"
+k_pomerania,GER,Kaiserreich German Pomerania
+d_prussia,GER,Kaiserreich German East Prussia
+d_upper_silesia,GER,Kaiserreich German Upper Silesia
+d_lower_silesia,GER,Kaiserreich German Lower Silesia
+d_alsace,GER,Kaiserreich German Alsace-Lorraine
+d_luxembourg,GER,Kaiserreich German Luxembourg
+k_brittany,FRA,Kaiserreich French Brittany
+d_upper_lorraine,FRA,Kaiserreich French Lorraine
+d_halych,GAL,Galician Lviv and Stanislawow core
+d_bukovina,GAL,Galician Cernauti and Suceava
+c_krakowska,GAL,Kaiserreich Galicia controls Krakow
+d_volhynia,UKR,Kaiserreich Ukraine controls Volhynia
+d_crimea,UKR,Kaiserreich Ukraine controls Crimea
+d_alger,COR,Corsican French African Algeria
+d_bejaia,COR,Corsican French African Algeria
+d_tlemcen,COR,Corsican French African Oran
+d_tunis,COR,Corsican French African Tunisia
+d_dyrrachion,ALB,Albanian Durrës and surrounding counties; k_albania is titular
+d_osterreich,AUS,Austrian Vienna and Lower Austria
+d_tyrol,AUS,Austrian Tyrol
+d_carinthia,AUS,Austrian Carinthia
+d_krain,AUS,Austrian Carniola
+d_provence,FRA,Kaiserreich French Provence
+d_dauphine,FRA,Kaiserreich French Lyonnais
+d_upper_burgundy,FRA,Kaiserreich French Franche-Comte
+c_savoie,FRA,Kaiserreich French Savoy
+d_steyermark,AUS,Kaiserreich Austrian Styria
+k_switzerland,SWI,Titular Swiss crown used as republic map title
+d_currezia,SWI,Swiss Grisons St Gallen Zurich
+d_transjurania,SWI,Swiss Bern Aargau Neuchatel
+c_geneva,SWI,Swiss Geneva
+d_lombardia,ITA,Kaiserreich Italian Republic Lombardy
+d_verona,ITA,Kaiserreich Italian Republic Venetia
+d_friuli,ITA,Kaiserreich Italian Republic Friuli
+d_piedmonte,SRI,Kaiserreich Socialist Republic Piedmont
+d_genoa,SRI,Kaiserreich Socialist Republic Liguria
+d_emilia,SRI,Kaiserreich Socialist Republic Emilia
+d_pisa,SRI,Kaiserreich Socialist Republic Tuscany
+d_toscana,SRI,Kaiserreich Socialist Republic Tuscany
+d_romagna,SRI,Kaiserreich Socialist Republic Romagna
+d_ancona,SRI,Kaiserreich Socialist Republic Marches
+d_spoleto,SRI,Kaiserreich Socialist Republic Umbria
+c_viterbo,SRI,Kaiserreich Socialist Republic Viterbo
+d_latium,PAP,Kaiserreich Papal Latium
+d_sardinia,SRD,Kaiserreich Sardinia

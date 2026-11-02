@@ -16,3 +16,4 @@ id,name,birth,death,culture,religion,nation,role,confidence
 9000028,Karl Gero von Urach,,,,,LIT,head_of_state,user_defined
 9000029,Friedrich Karl von Hesse-Kassel,,,,,FIN,head_of_state,user_defined
 9000031,Adolf Friedrich von Mecklenburg-Schwerin,,,,,UBD,head_of_state,user_defined
+9000032,Swiss Federal Council,,,swabian,catholic,SWI,collective_government,kaiserreich_reference
