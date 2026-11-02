@@ -6,7 +6,7 @@
 9900006 = { name = dynn_cr_braganza culture = portuguese prefix = dynnp_cr_de }
 9900007 = { name = dynn_cr_collins culture = irish }
 9900008 = { name = dynn_cr_glucksburg culture = danish }
-9900009 = { name = dynn_cr_habsburg culture = german }
+9900009 = { name = dynn_cr_habsburg culture = german prefix = dynnp_cr_von }
 9900010 = { name = dynn_cr_hesse_kassel culture = german prefix = dynnp_cr_von }
 9900011 = { name = dynn_cr_hohenzollern culture = german prefix = dynnp_cr_von }
 9900012 = { name = dynn_cr_hohenzollern_sigmaringen culture = german prefix = dynnp_cr_von }

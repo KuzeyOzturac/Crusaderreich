@@ -167,10 +167,11 @@
 }
 
 9000051 = {
-    name = "Syndicalist National Council"
-    culture = "italian"
+    name = "Peter Ferdinand"
+    culture = "german"
+    dynasty = 9900009
     rite = "roman_rite"
-    1885.1.1 = { birth = yes }
+    1874.5.12 = { birth = yes }
 }
 
 9000032 = {
@@ -197,7 +198,7 @@
 
 9000033 = {
     name = "Icelandic Council"
-    culture = "icelandic"
+    culture = "norwegian"
     rite = "roman_rite"
     1885.1.1 = { birth = yes }
 }
@@ -235,15 +236,16 @@
 }
 
 9000038 = {
-    name = "Bohemian Regency"
-    culture = "czech"
+    name = "Albrecht Franz"
+    culture = "german"
+    dynasty = 9900009
     rite = "roman_rite"
-    1885.1.1 = { birth = yes }
+    1897.7.24 = { birth = yes }
 }
 
 9000039 = {
     name = "Carol II"
-    culture = "romanian"
+    culture = "vlach"
     dynasty = 9900012
     rite = "byzantine_rite"
     1893.10.15 = { birth = yes }
@@ -312,7 +314,7 @@
 
 9000048 = {
     name = "Azerbaijani Council"
-    culture = "azerbaijani"
+    culture = "turkish"
     rite = "ashari"
     1885.1.1 = { birth = yes }
 }

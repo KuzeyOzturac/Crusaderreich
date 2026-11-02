@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import csv
+import re
 from collections import Counter
 from pathlib import Path
 root = Path(__file__).resolve().parents[1]
@@ -49,7 +50,8 @@ for county, owner in {
     'c_ajaccio': 'COR', 'c_bern': 'SWI', 'c_zurich': 'SWI',
     'c_vienna': 'AUS', 'c_krakowska': 'GAL', 'c_lviv': 'GAL',
     'c_minsk': 'WHR', 'c_konigsberg': 'GER', 'c_roma': 'PAP',
-    'c_lisboa': 'POR', 'c_savoie': 'SWI', 'c_aosta': 'SRI',
+    'c_lisboa': 'POR', 'c_savoie': 'SRD', 'c_aosta': 'SRD',
+    'c_canavese': 'SRD', 'c_firenze': 'TUS',
 }.items():
     assert county_owner.get(county) == owner, f'{county} must belong to {owner}'
 dynasties = (root/'Crusaderreich/common/dynasties/crusaderreich_dynasties.txt').read_text()
@@ -64,6 +66,19 @@ for row in nations:
     if row['ck3_region'].startswith('k_cr_'):
         assert f'{row["ck3_region"]} = {{' in custom_titles
     if row['leader_id']:
-        assert f' {row["ck3_region"]}:0 "{row["name"]}"' in localization
-assert title_history.count('liege = 0') == title_history.count('1936.1.1 = {')
-print('Dynasty names, landed rulers, and 1936 independence validated')
+        assert f' {row["ck3_region"]}:0 "{row["title_name"]}"' in localization
+        assert not row['title_name'].startswith(('Kingdom of ', 'Empire of ', 'Principality of '))
+assert next(c for c in characters if c['nation'] == 'ROM')['culture'] == 'vlach'
+assert 'culture = "vlach"' in character_history
+assert 'culture = vlach' in bookmark
+assert next(c for c in characters if c['nation'] == 'BOH')['name'] == 'Albrecht Franz von Habsburg'
+assert next(c for c in characters if c['nation'] == 'TUS')['name'] == 'Peter Ferdinand of Habsburg'
+assert 'government = feudal_government' in title_history.split('k_sicily = {', 1)[1].split('}', 1)[0]
+known_cultures = {'armenian','bulgarian','castilian','croatian','danish','dutch','english','french','georgian','german','greek','hungarian','irish','italian','japanese','maghrebi','norwegian','portuguese','russian','serbian','swabian','swedish','turkish','vlach'}
+assert set(re.findall(r'culture = "([^"]+)"', character_history)) <= known_cultures
+assert 'c_turin,SRD,' in (root/'data/county_map.csv').read_text()
+assert title_history.count('\n        liege = 0') == sum(bool(n['leader_id']) for n in nations)
+assert title_history.count('\n        liege = ') == title_history.count('1936.1.1 = {')
+assert 'd_venice = {\n    1936.1.1 = {\n        holder = 9000050\n        liege = k_cr_italian_republic' in title_history
+assert 'd_toscana = {\n    1936.1.1 = {\n        holder = 9000051\n        liege = k_cr_tuscany' in title_history
+print('Dynasty names, landed rulers, and 1936 realm hierarchy validated')

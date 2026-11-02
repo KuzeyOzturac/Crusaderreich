@@ -60,7 +60,7 @@ d_krain,AUS,Austrian Carniola
 d_provence,FRA,Kaiserreich French Provence
 d_dauphine,FRA,Kaiserreich French Lyonnais
 d_upper_burgundy,FRA,Kaiserreich French Franche-Comte
-c_savoie,SWI,Kaiserreich Swiss Upper Savoy (1936 map)
+c_savoie,SRD,Savoy assigned to Sardinia per Crusaderreich canon
 d_steyermark,AUS,Kaiserreich Austrian Styria
 k_switzerland,SWI,Titular Swiss crown used as republic map title
 d_currezia,SWI,Swiss Grisons St Gallen Zurich
@@ -69,15 +69,15 @@ c_geneva,SWI,Swiss Geneva
 d_lombardia,ITA,Kaiserreich Italian Republic Lombardy
 d_verona,ITA,Kaiserreich Italian Republic Venetia
 d_friuli,ITA,Kaiserreich Italian Republic Friuli
-d_piedmonte,SRI,Kaiserreich Socialist Republic Piedmont
-d_genoa,SRI,Kaiserreich Socialist Republic Liguria
-d_emilia,SRI,Kaiserreich Socialist Republic Emilia
-d_pisa,SRI,Kaiserreich Socialist Republic Tuscany
-d_toscana,SRI,Kaiserreich Socialist Republic Tuscany
-d_romagna,SRI,Kaiserreich Socialist Republic Romagna
-d_ancona,SRI,Kaiserreich Socialist Republic Marches
-d_spoleto,SRI,Kaiserreich Socialist Republic Umbria
-c_viterbo,SRI,Kaiserreich Socialist Republic Viterbo
+d_piedmonte,SRD,Sardinia-Piedmont and Liguria per Crusaderreich canon
+d_genoa,SRD,Sardinia-Piedmont and Liguria per Crusaderreich canon
+d_emilia,TUS,Tuscany under Peter Ferdinand per Crusaderreich canon
+d_pisa,TUS,Tuscany under Peter Ferdinand per Crusaderreich canon
+d_toscana,TUS,Tuscany under Peter Ferdinand per Crusaderreich canon
+d_romagna,TUS,Tuscany under Peter Ferdinand per Crusaderreich canon
+d_ancona,TUS,Tuscany under Peter Ferdinand per Crusaderreich canon
+d_spoleto,TUS,Tuscany under Peter Ferdinand per Crusaderreich canon
+c_viterbo,TUS,Tuscany under Peter Ferdinand per Crusaderreich canon
 d_latium,PAP,Kaiserreich Papal Latium
 d_sardinia,SRD,Kaiserreich Sardinia
 d_iceland,ICE,Scenario region inferred from supplied 1936 map
@@ -149,6 +149,15 @@ d_guoldat,RUS,Fill unassigned CK3 European county; inspect 1936 border in game
 d_cherven_cities,GAL,Fill unassigned CK3 European county; inspect 1936 border in game
 d_venice,ITA,Fill unassigned CK3 European county; inspect 1936 border in game
 d_istria,AUS,Fill unassigned CK3 European county; inspect 1936 border in game
-c_aosta,SRI,Kaiserreich Socialist Republic Aosta Valley
-c_canavese,SRI,Piedmont east of Aosta
+c_aosta,SRD,Sardinia-Piedmont and Liguria per Crusaderreich canon
+c_canavese,SRD,Sardinia-Piedmont and Liguria per Crusaderreich canon
 e_siberia,RUS,"Kaiserreich Russian Siberia, outside European crop"
+k_tahert,COR,French African holdings of the Corsican crown in the 1936 source map
+k_africa,COR,French African holdings of the Corsican crown in the 1936 source map
+k_sahara,COR,French African holdings of the Corsican crown in the 1936 source map
+k_mali,COR,French African holdings of the Corsican crown in the 1936 source map
+k_guinea,COR,French African holdings of the Corsican crown in the 1936 source map
+k_kanem,COR,French African holdings of the Corsican crown in the 1936 source map
+k_volga_bulgaria,RUS,Russian Kazan Ufa Samara and Orenburg regions in the 1936 source map
+k_bashkiria,RUS,Russian Kazan Ufa Samara and Orenburg regions in the 1936 source map
+k_maghreb,MOR,Moroccan core in the 1936 source map

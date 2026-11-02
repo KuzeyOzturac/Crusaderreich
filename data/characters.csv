@@ -17,13 +17,13 @@ id,name,birth,death,culture,religion,nation,role,confidence
 9000029,Friedrich Karl von Hesse-Kassel,,,,,FIN,head_of_state,user_defined
 9000031,Adolf Friedrich von Mecklenburg-Schwerin,,,,,UBD,head_of_state,user_defined
 9000032,Swiss Federal Council,,,swabian,catholic,SWI,collective_government,kaiserreich_reference
-9000033,Icelandic Council,,,icelandic,catholic,ICE,map_proxy,map_proxy
+9000033,Icelandic Council,,,norwegian,catholic,ICE,map_proxy,map_proxy
 9000034,Michael Collins,1890.10.16,,irish,catholic,IRE,head_of_state,scenario_reference
 9000035,Christian X,1870.9.26,,danish,catholic,DEN,head_of_state,scenario_reference
 9000036,Haakon VII,1872.8.3,,norwegian,catholic,NOR,head_of_state,scenario_reference
 9000037,Gustaf V,1858.6.16,,swedish,catholic,SWE,head_of_state,scenario_reference
-9000038,Bohemian Regency,,,czech,catholic,BOH,map_proxy,map_proxy
-9000039,Carol II,1893.10.15,,romanian,orthodox,ROM,head_of_state,scenario_reference
+9000038,Albrecht Franz von Habsburg,1897.7.24,,german,catholic,BOH,head_of_state,user_defined
+9000039,Carol II,1893.10.15,,vlach,orthodox,ROM,head_of_state,scenario_reference
 9000040,Peter II,1923.9.6,,serbian,orthodox,SER,head_of_state,scenario_reference
 9000041,Boris III,1894.1.30,,bulgarian,orthodox,BUL,head_of_state,scenario_reference
 9000042,George II,1890.7.19,,greek,orthodox,GRE,head_of_state,scenario_reference
@@ -32,10 +32,10 @@ id,name,birth,death,culture,religion,nation,role,confidence
 9000045,Don-Kuban Council,,,russian,orthodox,DKU,map_proxy,map_proxy
 9000046,Georgian Council,,,georgian,orthodox,GEO,map_proxy,map_proxy
 9000047,Armenian Council,,,armenian,orthodox,ARM,map_proxy,map_proxy
-9000048,Azerbaijani Council,,,azerbaijani,ashari,AZE,map_proxy,map_proxy
+9000048,Azerbaijani Council,,,turkish,ashari,AZE,map_proxy,map_proxy
 9000049,Mohammed V,1909.8.10,,maghrebi,ashari,MOR,head_of_state,scenario_reference
 9000050,Italian Republican Council,,,italian,catholic,ITA,map_proxy,map_proxy
-9000051,Syndicalist National Council,,,italian,catholic,SRI,map_proxy,map_proxy
+9000051,Peter Ferdinand of Habsburg,1874.5.12,,german,catholic,TUS,head_of_state,user_defined
 9000052,Ferdinando III,,,italian,catholic,SIC,head_of_state,scenario_reference
 9000053,Pius XI,1857.5.31,,italian,catholic,PAP,map_proxy,map_proxy
 9000054,Victor Emmanuel III,1869.11.11,,italian,catholic,SRD,head_of_state,scenario_reference
