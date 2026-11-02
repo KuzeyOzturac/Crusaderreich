@@ -3,6 +3,8 @@ import csv
 from collections import Counter
 from pathlib import Path
 root = Path(__file__).resolve().parents[1]
+assert 'supported_version="1.20.*"' in (root/'Crusaderreich.mod').read_text()
+assert 'supported_version="1.20.*"' in (root/'Crusaderreich/descriptor.mod').read_text()
 def rows(name):
     with (root / 'data' / name).open(newline='') as file:
         return list(csv.DictReader(file))

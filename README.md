@@ -6,7 +6,7 @@ Crusaderreich adapts Kaiserreich into a 1936 German century shaped by monarchies
 
 Copy `Crusaderreich` and `Crusaderreich.mod` into the CK3 user `mod` directory. Enable the mod in a launcher playset, select **The German Century**, and start a **new** 1936 game. Existing saves retain their old world state. The game installation is never modified.
 
-Inspect Germany, France, Austria, Poland, Ukraine, Russia, Italy, Iberia, Scandinavia and the Balkans in the realm map. Open the dynasty panel for Wilhelm II and confirm **Hohenzollern**, rather than the fallback name “Fletcher.” Check CK3's `error.log` after starting and advancing one day. The user supplied a screenshot confirming that the 1936 start loaded in an earlier build; these newer map and dynasty changes still need an in-game check. The launcher descriptor's supported-version line may need updating to the installed CK3 version.
+Inspect Germany, France, Austria, Poland, Ukraine, Russia, Italy, Iberia, Scandinavia and the Balkans in the realm map. Open the dynasty panel for Wilhelm II and confirm **Hohenzollern**, rather than the fallback name “Fletcher.” Check CK3's `error.log` after starting and advancing one day. The user supplied a screenshot confirming that the 1936 start loaded in an earlier build; these newer map and dynasty changes still need an in-game check. The launcher descriptors target CK3 1.20; this is version metadata, not proof of in-game compatibility.
 
 ## Scenario data
 
