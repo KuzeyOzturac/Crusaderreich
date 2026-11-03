@@ -104,6 +104,7 @@ d_dalir,NOR,4
 d_dalmatia,CRB,3
 d_damascus,OTT,4
 d_dauphine,FRA,5
+d_daylam,PER,3
 d_deheubarth,ENG,5
 d_delta,EGY,4
 d_dobrudja,BUL,2
@@ -121,6 +122,7 @@ d_emilia,ITA,2
 d_ephese,OTT,2
 d_epirus,GRE,4
 d_esthonia,UBD,4
+d_fars,PER,7
 d_fes,MOR,5
 d_fezzan,COR,3
 d_finland,FIN,5
@@ -140,22 +142,27 @@ d_giemajohka,FIN,7
 d_gloucester,ENG,4
 d_gotland,SWE,1
 d_granada,SPA,4
-d_greater_armenia,ARM,6
+d_greater_armenia,OTT,6
 d_grodno,LIT,3
 d_guoldat,FIN,4
+d_gurgan,PER,2
 d_gwynedd,ENG,5
 d_gyor,HUN,4
 d_halogaland,NOR,3
 d_halych,GAL,4
+d_hamadan,PER,3
 d_hereford,ENG,8
 d_hesse,GER,4
 d_hokurikudo,JAP,5
 d_holland,NED,3
 d_holstein,GER,3
 d_homs,OTT,3
+d_hormuz,PER,2
 d_iceland,ICE,4
+d_isfahan,PER,4
 d_ishim,RUS,2
 d_istria,AUS,1
+d_jabal_kufs,PER,3
 d_jalmat,RUS,3
 d_jamtland,NOR,4
 d_jawf,OTT,3
@@ -170,10 +177,14 @@ d_karelia,FIN,7
 d_kawar,COR,3
 d_kazan,RUS,5
 d_kazym,RUS,3
+d_kermanshah,PER,3
 d_khazaria,DKU,3
+d_khuzestan,PER,6
 d_kiev,UKR,6
 d_kinai,JAP,4
+d_kirman,PER,5
 d_kizilyedisan,UKR,3
+d_kohestan,PER,2
 d_konda,RUS,3
 d_kono,COR,3
 d_krain,AUS,2
@@ -215,7 +226,7 @@ d_meath,IRE,2
 d_mecca,OTT,4
 d_medina,OTT,5
 d_meissen,GER,8
-d_mesopotamia,ARM,3
+d_mesopotamia,OTT,3
 d_minsk,WHR,2
 d_moldova,ROM,6
 d_moravia,BOH,6
@@ -228,6 +239,7 @@ d_najd,OTT,6
 d_nankaido,JAP,6
 d_naqis,EGY,4
 d_navarra,SPA,3
+d_nishapur,PER,6
 d_nizhny_novgorod,RUS,3
 d_nobatia,EGY,5
 d_nordgau,GER,4
@@ -273,6 +285,7 @@ d_provence,FRA,4
 d_prussia,GER,5
 d_ragusa,CRB,1
 d_rashka,SER,5
+d_rayy,PER,3
 d_red_levedia,UKR,2
 d_rif,MOR,3
 d_romagna,ITA,4
@@ -312,6 +325,7 @@ d_svealand,SWE,4
 d_swabia,GER,7
 d_syrmia,HUN,1
 d_syrte,TRI,3
+d_tabaristan,PER,3
 d_tadmekka,COR,2
 d_tafilalt,MOR,3
 d_tahert,COR,4
@@ -354,7 +368,7 @@ d_ustyug,RUS,4
 d_utrecht,NED,3
 d_valencia,SPA,5
 d_valois,FRA,7
-d_vaspurakan,ARM,3
+d_vaspurakan,OTT,3
 d_vastergotland,SWE,4
 d_vasyugan_mire,RUS,4
 d_venice,ITA,2
@@ -379,6 +393,7 @@ d_western_isles,ENG,3
 d_westfalen,GER,5
 d_wielkopolska,GER,6
 d_yamama,OTT,3
+d_yazd,PER,3
 d_yedisan,UKR,4
 d_york,ENG,4
 d_zab,COR,3
@@ -387,7 +402,7 @@ k_andalusia,SPA,19
 k_aquitaine,FRA,37
 k_arabia,OTT,43
 k_aragon,SPA,16
-k_armenia,ARM,12
+k_armenia,OTT,12
 k_azuma,JAP,23
 k_bashkiria,RUS,12
 k_bjarmaland,RUS,15
@@ -422,6 +437,7 @@ k_novgorod,RUS,11
 k_nubia,EGY,23
 k_ob,RUS,31
 k_opolye,RUS,11
+k_persia,PER,36
 k_pomerania,GER,20
 k_pontic_steppe,UKR,21
 k_pontus,OTT,13

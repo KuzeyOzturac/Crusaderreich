@@ -105,7 +105,6 @@ k_spanish_galicia,SPA,Scenario region inferred from supplied 1936 map
 k_portugal,POR,Scenario region inferred from supplied 1936 map
 k_caucasus,DKU,Scenario region inferred from supplied 1936 map
 k_georgia,GEO,Scenario region inferred from supplied 1936 map
-k_armenia,ARM,Scenario region inferred from supplied 1936 map
 d_shirvan,AZE,Scenario region inferred from supplied 1936 map
 d_marrakesh,MOR,Scenario region inferred from supplied 1936 map
 d_sous,MOR,Scenario region inferred from supplied 1936 map
@@ -194,3 +193,19 @@ d_karachev,RUS,1936 transfer requested by user
 d_novosil,RUS,1936 transfer requested by user
 d_azov,UKR,1936 transfer requested by user
 d_skane,SWE,1936 transfer requested by user
+k_armenia,OTT,All CK3 Armenian lands under Ottoman control
+k_persia,PER,1936 Persian border approximation
+k_daylam,PER,1936 Persian border approximation
+d_nishapur,PER,1936 Persian border approximation
+d_kohestan,PER,1936 Persian border approximation
+d_jabal_kufs,PER,1936 Persian border approximation
+c_bakharz,PER,1936 Persian border approximation
+c_sabzevar,PER,1936 Persian border approximation
+c_zirkuh,PER,1936 Persian border approximation
+c_nih,PER,1936 Persian border approximation
+c_rudbar,PER,1936 Persian border approximation
+c_bailaqan,AZE,1936 Persian border approximation
+c_talish,AZE,1936 Persian border approximation
+c_sarakhs,PER,1936 Iranian border county
+c_sanij,PER,1936 Iranian border county
+c_khawr,PER,1936 Iranian border county

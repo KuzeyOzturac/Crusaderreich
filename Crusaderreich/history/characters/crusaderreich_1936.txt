@@ -24,7 +24,7 @@
 9000018 = {
     name = "George V"
     culture = "english"
-    dynasty = 9900029
+    dynasty = 9900030
     father = 9000085
     mother = 9000086
     rite = "roman_rite"
@@ -96,7 +96,7 @@
 9000030 = {
     name = "Vladimir Kirillovich"
     culture = "russian"
-    dynasty = 9900020
+    dynasty = 9900021
     father = 9000087
     mother = 9000088
     rite = "roman_rite"
@@ -115,7 +115,7 @@
 9000056 = {
     name = "Hirohito"
     culture = "japanese"
-    dynasty = 9900031
+    dynasty = 9900032
     father = 9000119
     mother = 9000120
     rite = "shinto"
@@ -155,7 +155,7 @@
 9000024 = {
     name = "Wilhelm"
     culture = "german"
-    dynasty = 9900028
+    dynasty = 9900029
     father = 9000103
     mother = 9000104
     rite = "roman_rite"
@@ -185,7 +185,7 @@
 9000028 = {
     name = "Karl Gero"
     culture = "german"
-    dynasty = 9900026
+    dynasty = 9900027
     father = 9000101
     mother = 9000102
     rite = "roman_rite"
@@ -240,7 +240,7 @@
 9000054 = {
     name = "Victor Emmanuel III"
     culture = "italian"
-    dynasty = 9900021
+    dynasty = 9900022
     father = 9000111
     mother = 9000112
     rite = "roman_rite"
@@ -319,7 +319,7 @@
 9000041 = {
     name = "Boris III"
     culture = "bulgarian"
-    dynasty = 9900022
+    dynasty = 9900023
     rite = "byzantine_rite"
     1894.1.30 = { birth = yes }
 }
@@ -351,13 +351,6 @@
 9000045 = {
     name = "Don-Kuban Council"
     culture = "russian"
-    rite = "byzantine_rite"
-    1885.1.1 = { birth = yes }
-}
-
-9000047 = {
-    name = "Armenian Council"
-    culture = "armenian"
     rite = "byzantine_rite"
     1885.1.1 = { birth = yes }
 }
@@ -399,10 +392,18 @@
 9000059 = {
     name = "Idris I"
     culture = "maghrebi"
-    dynasty = 9900024
+    dynasty = 9900025
     father = 9000127
     rite = "ashari"
     1889.3.12 = { birth = yes }
+}
+
+9000128 = {
+    name = "Ahmad Shah"
+    culture = "persian"
+    dynasty = 9900020
+    rite = "imami"
+    1898.1.21 = { birth = yes }
 }
 
 9000060 = {
@@ -458,7 +459,7 @@
 9000066 = {
     name = "Victoria"
     culture = "english"
-    dynasty = 9900029
+    dynasty = 9900030
     female = yes
     rite = "roman_rite"
     1840.11.21 = { birth = yes }
@@ -559,7 +560,7 @@
 9000076 = {
     name = "Maria Josepha"
     culture = "german"
-    dynasty = 9900027
+    dynasty = 9900028
     female = yes
     rite = "roman_rite"
     1867.5.31 = { birth = yes }
@@ -585,7 +586,7 @@
 9000079 = {
     name = "Mary"
     culture = "english"
-    dynasty = 9900025
+    dynasty = 9900026
     female = yes
     rite = "roman_rite"
     1867.5.26 = { birth = yes }
@@ -594,7 +595,7 @@
 9000080 = {
     name = "Edward"
     culture = "english"
-    dynasty = 9900029
+    dynasty = 9900030
     father = 9000018
     mother = 9000079
     rite = "roman_rite"
@@ -604,7 +605,7 @@
 9000081 = {
     name = "Albert"
     culture = "english"
-    dynasty = 9900029
+    dynasty = 9900030
     father = 9000018
     mother = 9000079
     rite = "roman_rite"
@@ -614,7 +615,7 @@
 9000082 = {
     name = "Henry"
     culture = "english"
-    dynasty = 9900029
+    dynasty = 9900030
     father = 9000018
     mother = 9000079
     rite = "roman_rite"
@@ -624,7 +625,7 @@
 9000083 = {
     name = "George"
     culture = "english"
-    dynasty = 9900029
+    dynasty = 9900030
     father = 9000018
     mother = 9000079
     rite = "roman_rite"
@@ -634,7 +635,7 @@
 9000084 = {
     name = "Mary"
     culture = "english"
-    dynasty = 9900029
+    dynasty = 9900030
     father = 9000018
     mother = 9000079
     female = yes
@@ -645,7 +646,7 @@
 9000085 = {
     name = "Edward VII"
     culture = "english"
-    dynasty = 9900029
+    dynasty = 9900030
     rite = "roman_rite"
     1841.11.9 = { birth = yes }
     1910.5.6 = { death = yes }
@@ -664,7 +665,7 @@
 9000087 = {
     name = "Kirill"
     culture = "russian"
-    dynasty = 9900020
+    dynasty = 9900021
     rite = "roman_rite"
     1876.10.12 = { birth = yes }
 }
@@ -672,7 +673,7 @@
 9000088 = {
     name = "Victoria Melita"
     culture = "russian"
-    dynasty = 9900020
+    dynasty = 9900021
     female = yes
     rite = "roman_rite"
     1876.11.25 = { birth = yes }
@@ -764,7 +765,7 @@
 9000098 = {
     name = "Clotilde"
     culture = "german"
-    dynasty = 9900022
+    dynasty = 9900023
     female = yes
     rite = "roman_rite"
     1846.7.8 = { birth = yes }
@@ -783,7 +784,7 @@
 9000100 = {
     name = "Marie"
     culture = "german"
-    dynasty = 9900023
+    dynasty = 9900024
     female = yes
     rite = "roman_rite"
     1850.1.29 = { birth = yes }
@@ -793,7 +794,7 @@
 9000101 = {
     name = "Wilhelm"
     culture = "german"
-    dynasty = 9900026
+    dynasty = 9900027
     rite = "roman_rite"
     1864.3.3 = { birth = yes }
     1928.3.24 = { death = yes }
@@ -802,7 +803,7 @@
 9000102 = {
     name = "Amalie"
     culture = "german"
-    dynasty = 9900030
+    dynasty = 9900031
     female = yes
     rite = "roman_rite"
     1865.12.24 = { birth = yes }
@@ -812,7 +813,7 @@
 9000103 = {
     name = "Wilhelm"
     culture = "german"
-    dynasty = 9900028
+    dynasty = 9900029
     rite = "roman_rite"
     1845.8.22 = { birth = yes }
     1907.10.22 = { death = yes }
@@ -870,7 +871,7 @@
 9000110 = {
     name = "Marie"
     culture = "vlach"
-    dynasty = 9900029
+    dynasty = 9900030
     female = yes
     rite = "roman_rite"
     1875.10.29 = { birth = yes }
@@ -879,7 +880,7 @@
 9000111 = {
     name = "Umberto I"
     culture = "italian"
-    dynasty = 9900021
+    dynasty = 9900022
     rite = "roman_rite"
     1844.3.14 = { birth = yes }
     1900.7.29 = { death = yes }
@@ -888,7 +889,7 @@
 9000112 = {
     name = "Margherita"
     culture = "italian"
-    dynasty = 9900021
+    dynasty = 9900022
     female = yes
     rite = "roman_rite"
     1851.11.20 = { birth = yes }
@@ -926,7 +927,7 @@
 9000119 = {
     name = "Yoshihito"
     culture = "japanese"
-    dynasty = 9900031
+    dynasty = 9900032
     rite = "shinto"
     1879.8.31 = { birth = yes }
     1926.12.25 = { death = yes }
@@ -935,7 +936,7 @@
 9000120 = {
     name = "Sadako"
     culture = "japanese"
-    dynasty = 9900031
+    dynasty = 9900032
     female = yes
     rite = "shinto"
     1884.6.25 = { birth = yes }
@@ -1001,7 +1002,7 @@
 9000127 = {
     name = "Muhammad al-Mahdi"
     culture = "maghrebi"
-    dynasty = 9900024
+    dynasty = 9900025
     rite = "ashari"
     1844.2.1 = { birth = yes }
     1902.6.1 = { death = yes }

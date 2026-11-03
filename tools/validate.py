@@ -19,6 +19,8 @@ counties = rows('county_map.csv')
 complete_titles = rows('complete_titles.csv')
 tags = {row['tag'] for row in nations}
 assert len(tags) == len(nations)
+assert 'ARM' not in tags and 'PER' in tags
+assert next(n for n in nations if n['tag'] == 'PER')['leader_id'] == '9000128'
 assert len({row['id'] for row in characters}) == len(characters)
 all_people = {row['id']: row for row in characters + relatives}
 assert len(all_people) == len(characters) + len(relatives)
@@ -31,6 +33,8 @@ assert len({row['ck3_title'] for row in assignments}) == len(assignments)
 expected_duchies = {'d_thessalonika':'BUL','d_strymon':'BUL','d_grodno':'LIT','d_latium':'PAP','d_spoleto':'PAP','d_ancona':'PAP','d_emilia':'ITA','d_romagna':'ITA','d_duortnoseatnu':'NOR','d_vuovdisamieana':'SWE','d_bar':'FRA','d_masuria':'GER','d_wielkopolska':'GER','d_courland':'UBD','d_latgalians':'UBD','d_friuli':'AUS','d_duklja':'CRB','d_thrace':'OTT','d_aegean_islands':'OTT','d_krete':'OTT','d_tripolitania':'TRI','d_syrte':'TRI','k_egypt':'EGY','k_nubia':'EGY','k_blemmyia':'EGY','d_karachev':'RUS','d_novosil':'RUS','d_don_valley':'UKR','d_tana':'UKR','d_azov':'UKR','d_skane':'SWE','d_upper_lorraine':'GER','d_guoldat':'FIN'}
 complete_owner = {row['title']:row['nation'] for row in complete_titles}
 assert all(complete_owner.get(title) == nation for title,nation in expected_duchies.items())
+assert complete_owner.get('k_armenia') == 'OTT'
+assert all(complete_owner.get(title) == 'PER' for title in ('k_persia','d_nishapur','d_kohestan','d_jabal_kufs'))
 assert all(not row['leader_id'] or row['leader_id'] in {c['id'] for c in characters} for row in nations)
 print(f'{len(nations)} nations, {len(characters)} characters, {len(assignments)} source titles, {len(counties)} counties validated')
 bookmark = (root/'Crusaderreich/common/bookmarks/bookmarks/crusaderreich_1936.txt').read_text()
@@ -92,7 +96,11 @@ assert character_history.count('9000063 = {') == 1
 assert all(f'{title} = {{\n    1936.1.1 = {{\n        holder = 9000063' in title_history for title in ('k_ireland','k_georgia'))
 assert next(c for c in characters if c['nation'] == 'OTT')['religion'] == 'maturidi'
 assert 'rite = "maturidi"' in character_history
-known_cultures = {'armenian','bulgarian','castilian','croatian','danish','dutch','egyptian','english','french','georgian','german','greek','hungarian','irish','italian','japanese','maghrebi','norwegian','portuguese','russian','serbian','swabian','swedish','turkish','vlach'}
+assert '9000128 = {\n    name = "Ahmad Shah"\n    culture = "persian"' in character_history
+assert 'rite = "imami"' in character_history
+assert 'k_armenia = {\n    1936.1.1 = {\n        holder = 9000055' in title_history
+assert 'k_persia = {\n    1936.1.1 = {\n        holder = 9000128' in title_history
+known_cultures = {'armenian','bulgarian','castilian','croatian','danish','dutch','egyptian','english','french','georgian','german','greek','hungarian','irish','italian','japanese','maghrebi','norwegian','persian','portuguese','russian','serbian','swabian','swedish','turkish','vlach'}
 assert set(re.findall(r'culture = "([^"]+)"', character_history)) <= known_cultures
 assert 'c_turin,SRD,' in (root/'data/county_map.csv').read_text()
 assert title_history.count('\n        liege = 0') >= sum(bool(n['leader_id']) and not n['liege_tag'] for n in nations)

@@ -42,6 +42,13 @@ c_abauj = {
     }
 }
 
+c_abbadan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_abkhazia = {
     1936.1.1 = {
         holder = 9000063
@@ -152,6 +159,13 @@ c_agrigento = {
         holder = 9000052
         liege = k_sicily
         government = feudal_government
+    }
+}
+
+c_ahvaz = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -563,8 +577,8 @@ c_aosta = {
 
 c_apahunik = {
     1936.1.1 = {
-        holder = 9000047
-        liege = k_armenia
+        holder = 9000055
+        liege = e_byzantium
     }
 }
 
@@ -618,6 +632,20 @@ c_arborea = {
     }
 }
 
+c_ardabil = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
+c_ardestan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_arezzo = {
     1936.1.1 = {
         holder = 9000051
@@ -657,6 +685,13 @@ c_arnsberg = {
     1936.1.1 = {
         holder = 9000001
         liege = e_germany
+    }
+}
+
+c_arrajan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -947,6 +982,13 @@ c_badi = {
     }
 }
 
+c_baduspan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_baghdad = {
     1936.1.1 = {
         holder = 9000055
@@ -956,8 +998,8 @@ c_baghdad = {
 
 c_bagrewand = {
     1936.1.1 = {
-        holder = 9000047
-        liege = k_armenia
+        holder = 9000055
+        liege = e_byzantium
     }
 }
 
@@ -975,6 +1017,27 @@ c_bahriya = {
     }
 }
 
+c_baihaq = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
+c_bailaqan = {
+    1936.1.1 = {
+        holder = 9000048
+        liege = d_shirvan
+    }
+}
+
+c_bakharz = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_bakhmut = {
     1936.1.1 = {
         holder = 9000022
@@ -989,6 +1052,13 @@ c_balqa = {
     }
 }
 
+c_bam = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_bamberg = {
     1936.1.1 = {
         holder = 9000001
@@ -1000,6 +1070,13 @@ c_bambuk = {
     1936.1.1 = {
         holder = 9000019
         liege = k_cr_corsica
+    }
+}
+
+c_bampur = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -1162,6 +1239,13 @@ c_bedford = {
     1936.1.1 = {
         holder = 9000018
         liege = k_england
+    }
+}
+
+c_behabad = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -2520,6 +2604,13 @@ c_damascus = {
     }
 }
 
+c_damghan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_damietta = {
     1936.1.1 = {
         holder = 9000058
@@ -2538,6 +2629,20 @@ c_danzig = {
     1936.1.1 = {
         holder = 9000001
         liege = e_germany
+    }
+}
+
+c_darabjerd = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
+c_dawraq = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -2625,10 +2730,24 @@ c_dibri = {
     }
 }
 
+c_dihistan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_dijon = {
     1936.1.1 = {
         holder = 9000017
         liege = k_france
+    }
+}
+
+c_dinawar = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -2844,8 +2963,8 @@ c_duvan = {
 
 c_dvin = {
     1936.1.1 = {
-        holder = 9000047
-        liege = k_armenia
+        holder = 9000055
+        liege = e_byzantium
     }
 }
 
@@ -3445,6 +3564,13 @@ c_ghazza = {
     }
 }
 
+c_gilan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_girona = {
     1936.1.1 = {
         holder = 9000043
@@ -3641,6 +3767,13 @@ c_gumuz = {
     }
 }
 
+c_gurgan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_guria = {
     1936.1.1 = {
         holder = 9000063
@@ -3732,6 +3865,13 @@ c_hama = {
     }
 }
 
+c_hamadan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_hamburg = {
     1936.1.1 = {
         holder = 9000001
@@ -3790,8 +3930,8 @@ c_havelberg = {
 
 c_hayk = {
     1936.1.1 = {
-        holder = 9000047
-        liege = k_armenia
+        holder = 9000055
+        liege = e_byzantium
     }
 }
 
@@ -3956,6 +4096,13 @@ c_hordalandi = {
     }
 }
 
+c_hormuz = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_hotin = {
     1936.1.1 = {
         holder = 9000020
@@ -4110,6 +4257,13 @@ c_ipuskoa = {
     }
 }
 
+c_irahistan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_irbid = {
     1936.1.1 = {
         holder = 9000055
@@ -4128,6 +4282,13 @@ c_ise = {
     1936.1.1 = {
         holder = 9000056
         liege = k_yamato
+    }
+}
+
+c_isfahan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -4166,6 +4327,13 @@ c_issoudun = {
     }
 }
 
+c_istakhr = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_iviza = {
     1936.1.1 = {
         holder = 9000043
@@ -4198,6 +4366,13 @@ c_izumo = {
     1936.1.1 = {
         holder = 9000056
         liege = k_yamato
+    }
+}
+
+c_jabal_kufs = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -4285,6 +4460,13 @@ c_jimi = {
     }
 }
 
+c_jiruft = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_jovvkuj = {
     1936.1.1 = {
         holder = 9000029
@@ -4310,6 +4492,13 @@ c_juterbog = {
     1936.1.1 = {
         holder = 9000001
         liege = e_germany
+    }
+}
+
+c_juwain = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -4607,6 +4796,13 @@ c_kerch = {
     }
 }
 
+c_kermanshah = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_kernave = {
     1936.1.1 = {
         holder = 9000028
@@ -4630,8 +4826,8 @@ c_kevrola = {
 
 c_khachen = {
     1936.1.1 = {
-        holder = 9000047
-        liege = k_armenia
+        holder = 9000055
+        liege = e_byzantium
     }
 }
 
@@ -4646,6 +4842,13 @@ c_kharga = {
     1936.1.1 = {
         holder = 9000058
         liege = k_egypt
+    }
+}
+
+c_khawr = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -4681,6 +4884,13 @@ c_khumar = {
     1936.1.1 = {
         holder = 9000022
         liege = k_ruthenia
+    }
+}
+
+c_khuwar = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -4730,6 +4940,13 @@ c_kirkuk = {
     1936.1.1 = {
         holder = 9000055
         liege = e_byzantium
+    }
+}
+
+c_kirman = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -5174,6 +5391,13 @@ c_lapusna = {
     }
 }
 
+c_lar = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_lecce = {
     1936.1.1 = {
         holder = 9000052
@@ -5490,6 +5714,13 @@ c_luni = {
     }
 }
 
+c_luristan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_lusignan = {
     1936.1.1 = {
         holder = 9000017
@@ -5602,6 +5833,13 @@ c_madrid = {
     }
 }
 
+c_mafaza = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_magdeburg = {
     1936.1.1 = {
         holder = 9000001
@@ -5694,6 +5932,13 @@ c_man = {
     }
 }
 
+c_mandestan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_mansfeld = {
     1936.1.1 = {
         holder = 9000001
@@ -5712,6 +5957,13 @@ c_manturovo = {
     1936.1.1 = {
         holder = 9000030
         liege = e_russia
+    }
+}
+
+c_maragha = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -5771,6 +6023,13 @@ c_martyuba = {
     }
 }
 
+c_masabadhan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_mau = {
     1936.1.1 = {
         holder = 9000019
@@ -5782,6 +6041,13 @@ c_mayo = {
     1936.1.1 = {
         holder = 9000063
         liege = k_ireland
+    }
+}
+
+c_mazandaran = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -5864,8 +6130,8 @@ c_melilla = {
 
 c_melitene = {
     1936.1.1 = {
-        holder = 9000047
-        liege = k_armenia
+        holder = 9000055
+        liege = e_byzantium
     }
 }
 
@@ -5920,8 +6186,8 @@ c_mesembria = {
 
 c_mesopotamia = {
     1936.1.1 = {
-        holder = 9000047
-        liege = k_armenia
+        holder = 9000055
+        liege = e_byzantium
     }
 }
 
@@ -6480,6 +6746,20 @@ c_niebla = {
     }
 }
 
+c_nih = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
+c_nihawand = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_nikaea = {
     1936.1.1 = {
         holder = 9000055
@@ -6491,6 +6771,13 @@ c_nikopolis = {
     1936.1.1 = {
         holder = 9000041
         liege = k_bulgaria
+    }
+}
+
+c_nishapur = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -7447,6 +7734,13 @@ c_qadisiya = {
     }
 }
 
+c_qain = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_qaryatan = {
     1936.1.1 = {
         holder = 9000055
@@ -7489,6 +7783,13 @@ c_qatif = {
     }
 }
 
+c_qazwin = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_qinnasrin = {
     1936.1.1 = {
         holder = 9000055
@@ -7496,10 +7797,24 @@ c_qinnasrin = {
     }
 }
 
+c_qom = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_quercy = {
     1936.1.1 = {
         holder = 9000017
         liege = k_france
+    }
+}
+
+c_qumisha = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -7545,6 +7860,13 @@ c_rama = {
     }
 }
 
+c_ramhurmuz = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_raniriki = {
     1936.1.1 = {
         holder = 9000036
@@ -7584,6 +7906,13 @@ c_ravensburg = {
     1936.1.1 = {
         holder = 9000001
         liege = e_germany
+    }
+}
+
+c_rayy = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -7655,6 +7984,13 @@ c_ringkobing = {
     1936.1.1 = {
         holder = 9000035
         liege = k_denmark
+    }
+}
+
+c_riqan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -7743,6 +8079,13 @@ c_rounala = {
     }
 }
 
+c_rudbar = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_rugen = {
     1936.1.1 = {
         holder = 9000001
@@ -7771,6 +8114,13 @@ c_rusafa = {
     }
 }
 
+c_ruyan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_ryazan = {
     1936.1.1 = {
         holder = 9000030
@@ -7789,6 +8139,13 @@ c_sable = {
     1936.1.1 = {
         holder = 9000017
         liege = k_france
+    }
+}
+
+c_sabzevar = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -7817,6 +8174,13 @@ c_sai = {
     1936.1.1 = {
         holder = 9000058
         liege = k_egypt
+    }
+}
+
+c_saimara = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -7867,6 +8231,13 @@ c_salzburg = {
     1936.1.1 = {
         holder = 9000001
         liege = e_germany
+    }
+}
+
+c_samaiqan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -7940,6 +8311,13 @@ c_sandomierska = {
     }
 }
 
+c_sanij = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_sankt_gallen = {
     1936.1.1 = {
         holder = 9000032
@@ -7965,6 +8343,20 @@ c_sanuki = {
     1936.1.1 = {
         holder = 9000056
         liege = k_yamato
+    }
+}
+
+c_sarakhs = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
+c_sardan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -8178,6 +8570,13 @@ c_sfax = {
     }
 }
 
+c_shahre-babak = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_shaki = {
     1936.1.1 = {
         holder = 9000048
@@ -8262,6 +8661,13 @@ c_shinano = {
     }
 }
 
+c_shiraz = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_shirvan = {
     1936.1.1 = {
         holder = 9000048
@@ -8315,6 +8721,13 @@ c_sieradzka = {
     1936.1.1 = {
         holder = 9000025
         liege = k_poland
+    }
+}
+
+c_sif-i-umara = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -8372,6 +8785,13 @@ c_sirhan = {
     1936.1.1 = {
         holder = 9000055
         liege = e_byzantium
+    }
+}
+
+c_sirjan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -8727,8 +9147,8 @@ c_sudurland = {
 
 c_suenik = {
     1936.1.1 = {
-        holder = 9000047
-        liege = k_armenia
+        holder = 9000055
+        liege = e_byzantium
     }
 }
 
@@ -8921,6 +9341,13 @@ c_tabon = {
     }
 }
 
+c_tabriz = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_tabuk = {
     1936.1.1 = {
         holder = 9000055
@@ -8988,6 +9415,13 @@ c_talava = {
     1936.1.1 = {
         holder = 9000031
         liege = k_livonia
+    }
+}
+
+c_talish = {
+    1936.1.1 = {
+        holder = 9000048
+        liege = d_shirvan
     }
 }
 
@@ -9224,8 +9658,8 @@ c_thalabiya = {
 
 c_theodosiopolis = {
     1936.1.1 = {
-        holder = 9000047
-        liege = k_armenia
+        holder = 9000055
+        liege = e_byzantium
     }
 }
 
@@ -9614,6 +10048,13 @@ c_tula = {
     }
 }
 
+c_tun = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_tunis = {
     1936.1.1 = {
         holder = 9000019
@@ -9644,8 +10085,22 @@ c_turov = {
 
 c_turuberan = {
     1936.1.1 = {
-        holder = 9000047
-        liege = k_armenia
+        holder = 9000055
+        liege = e_byzantium
+    }
+}
+
+c_tus = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
+c_tustar = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -9768,6 +10223,13 @@ c_urgell = {
     }
 }
 
+c_urmiya = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_uses = {
     1936.1.1 = {
         holder = 9000017
@@ -9861,8 +10323,8 @@ c_valois = {
 
 c_vanand = {
     1936.1.1 = {
-        holder = 9000047
-        liege = k_armenia
+        holder = 9000055
+        liege = e_byzantium
     }
 }
 
@@ -9903,8 +10365,8 @@ c_vas = {
 
 c_vaspurakan = {
     1936.1.1 = {
-        holder = 9000047
-        liege = k_armenia
+        holder = 9000055
+        liege = e_byzantium
     }
 }
 
@@ -10538,6 +11000,13 @@ c_yau = {
     }
 }
 
+c_yazd = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 c_yekaterinburg = {
     1936.1.1 = {
         holder = 9000030
@@ -10605,6 +11074,13 @@ c_zamora = {
     1936.1.1 = {
         holder = 9000043
         liege = k_castille
+    }
+}
+
+c_zanjan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -10703,6 +11179,13 @@ c_zichia = {
     1936.1.1 = {
         holder = 9000045
         liege = k_caucasus
+    }
+}
+
+c_zirkuh = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -11508,6 +11991,13 @@ d_dauphine = {
     }
 }
 
+d_daylam = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 d_deheubarth = {
     1936.1.1 = {
         holder = 9000018
@@ -11624,6 +12114,13 @@ d_esthonia = {
     1936.1.1 = {
         holder = 9000031
         liege = k_livonia
+    }
+}
+
+d_fars = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -11762,8 +12259,8 @@ d_granada = {
 
 d_greater_armenia = {
     1936.1.1 = {
-        holder = 9000047
-        liege = k_armenia
+        holder = 9000055
+        liege = e_byzantium
     }
 }
 
@@ -11778,6 +12275,13 @@ d_guoldat = {
     1936.1.1 = {
         holder = 9000029
         liege = k_finland
+    }
+}
+
+d_gurgan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -11806,6 +12310,13 @@ d_halych = {
     1936.1.1 = {
         holder = 9000020
         liege = k_galicia-volhynia
+    }
+}
+
+d_hamadan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -11851,11 +12362,25 @@ d_homs = {
     }
 }
 
+d_hormuz = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 d_iceland = {
     1936.1.1 = {
         holder = 9000033
         liege = 0
         government = republic_government
+    }
+}
+
+d_isfahan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -11870,6 +12395,13 @@ d_istria = {
     1936.1.1 = {
         holder = 9000009
         liege = e_carpathia
+    }
+}
+
+d_jabal_kufs = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -11971,10 +12503,24 @@ d_kazym = {
     }
 }
 
+d_kermanshah = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 d_khazaria = {
     1936.1.1 = {
         holder = 9000045
         liege = k_caucasus
+    }
+}
+
+d_khuzestan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -11992,10 +12538,24 @@ d_kinai = {
     }
 }
 
+d_kirman = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 d_kizilyedisan = {
     1936.1.1 = {
         holder = 9000022
         liege = k_ruthenia
+    }
+}
+
+d_kohestan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -12295,8 +12855,8 @@ d_meissen = {
 
 d_mesopotamia = {
     1936.1.1 = {
-        holder = 9000047
-        liege = k_armenia
+        holder = 9000055
+        liege = e_byzantium
     }
 }
 
@@ -12381,6 +12941,13 @@ d_navarra = {
     1936.1.1 = {
         holder = 9000043
         liege = k_castille
+    }
+}
+
+d_nishapur = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -12699,6 +13266,13 @@ d_rashka = {
     }
 }
 
+d_rayy = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 d_red_levedia = {
     1936.1.1 = {
         holder = 9000022
@@ -12979,6 +13553,13 @@ d_syrte = {
     1936.1.1 = {
         holder = 9000059
         liege = k_tripolitania
+    }
+}
+
+d_tabaristan = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
     }
 }
 
@@ -13285,8 +13866,8 @@ d_valois = {
 
 d_vaspurakan = {
     1936.1.1 = {
-        holder = 9000047
-        liege = k_armenia
+        holder = 9000055
+        liege = e_byzantium
     }
 }
 
@@ -13465,6 +14046,13 @@ d_yamama = {
     }
 }
 
+d_yazd = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = k_persia
+    }
+}
+
 d_yedisan = {
     1936.1.1 = {
         holder = 9000022
@@ -13577,9 +14165,8 @@ k_aragon = {
 
 k_armenia = {
     1936.1.1 = {
-        holder = 9000047
-        liege = 0
-        government = republic_government
+        holder = 9000055
+        liege = e_byzantium
     }
 }
 
@@ -13745,6 +14332,13 @@ k_dacia = {
         holder = 9000039
         liege = 0
         government = feudal_government
+    }
+}
+
+k_daylam = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = 0
     }
 }
 
@@ -14006,6 +14600,14 @@ k_ottoman = {
     1936.1.1 = {
         holder = 9000055
         liege = e_byzantium
+    }
+}
+
+k_persia = {
+    1936.1.1 = {
+        holder = 9000128
+        liege = 0
+        government = clan_government
     }
 }
 

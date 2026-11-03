@@ -38,9 +38,9 @@ SPA,Kingdom of Spain,Madrid,monarchy,9000043,Alfonso XIII,k_castille,Spain,
 POR,Kingdom of Portugal,Lisbon,monarchy,9000044,Duarte II,k_portugal,Portugal,
 DKU,Don-Kuban Union,Ekaterinodar,republic,9000045,Don-Kuban Council,k_caucasus,Don-Kuban,
 GEO,Kingdom of Georgia,Tbilisi,Hohenzollern monarchy,9000063,Joachim von Hohenzollern,k_georgia,Georgia,
-ARM,Republic of Armenia,Yerevan,republic,9000047,Armenian Council,k_armenia,Armenia,
 AZE,Azerbaijan,Baku,republic,9000048,Azerbaijani Council,d_shirvan,Azerbaijan,
 MOR,Kingdom of Morocco,Rabat,monarchy,9000049,Mohammed V,k_maghreb,Morocco,
 NED,Kingdom of the Netherlands,Amsterdam,monarchy,9000057,Wilhelmina,k_frisia,Netherlands,
 EGY,Kingdom of Egypt,Cairo,Ottoman vassal monarchy,9000058,Abbas II Alawiyya,k_egypt,Egypt,OTT
 TRI,Kingdom of Tripolitania,Tripoli,Ottoman vassal monarchy,9000059,Idris I Senussi,k_tripolitania,Tripolitania,OTT
+PER,Persia,Tehran,Qajar monarchy,9000128,Ahmad Shah Qajar,k_persia,Persia,
