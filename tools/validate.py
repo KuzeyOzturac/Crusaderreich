@@ -30,7 +30,7 @@ assert all(row['nation'] in tags for row in characters)
 assert all(row['nation'] in tags for row in assignments + counties)
 assert len({row['county'] for row in counties}) == len(counties)
 assert len({row['ck3_title'] for row in assignments}) == len(assignments)
-expected_duchies = {'d_thessalonika':'BUL','d_strymon':'BUL','d_grodno':'LIT','d_latium':'PAP','d_spoleto':'PAP','d_ancona':'PAP','d_emilia':'ITA','d_romagna':'ITA','d_duortnoseatnu':'NOR','d_vuovdisamieana':'SWE','d_bar':'FRA','d_masuria':'GER','d_wielkopolska':'GER','d_courland':'UBD','d_latgalians':'UBD','d_friuli':'AUS','d_duklja':'CRB','d_thrace':'OTT','d_aegean_islands':'OTT','d_krete':'OTT','d_tripolitania':'TRI','d_syrte':'TRI','k_egypt':'EGY','k_nubia':'EGY','k_blemmyia':'EGY','d_karachev':'RUS','d_novosil':'RUS','d_don_valley':'UKR','d_tana':'UKR','d_azov':'UKR','d_skane':'SWE','d_upper_lorraine':'GER','d_guoldat':'FIN'}
+expected_duchies = {'d_thessalonika':'BUL','d_strymon':'BUL','d_grodno':'LIT','d_latium':'PAP','d_spoleto':'PAP','d_ancona':'PAP','d_emilia':'ITA','d_romagna':'ITA','d_duortnoseatnu':'NOR','d_vuovdisamieana':'SWE','d_bar':'FRA','d_masuria':'GER','d_wielkopolska':'GER','d_courland':'UBD','d_latgalians':'UBD','d_friuli':'AUS','d_duklja':'CRB','d_thrace':'OTT','d_aegean_islands':'OTT','d_krete':'OTT','d_tripolitania':'TRI','d_syrte':'TRI','k_egypt':'EGY','k_nubia':'EGY','k_blemmyia':'EGY','d_karachev':'RUS','d_novosil':'RUS','d_don_valley':'UKR','d_tana':'UKR','d_azov':'UKR','d_skane':'SWE','d_upper_lorraine':'GER','d_guoldat':'FIN','k_jazira':'OTT'}
 complete_owner = {row['title']:row['nation'] for row in complete_titles}
 assert all(complete_owner.get(title) == nation for title,nation in expected_duchies.items())
 assert complete_owner.get('k_armenia') == 'OTT'
@@ -80,7 +80,7 @@ assert 'Fletcher' not in character_history + dynasties + localization
 assert 'name = "George V Windsor"' not in character_history
 custom_titles = (root/'Crusaderreich/common/landed_titles/crusaderreich_titles.txt').read_text()
 for row in nations:
-    if row['ck3_region'].startswith('k_cr_'):
+    if row['ck3_region'].startswith(('k_cr_','e_cr_')):
         assert f'{row["ck3_region"]} = {{' in custom_titles
     if row['leader_id']:
         assert f' {row["ck3_region"]}:0 "{row["title_name"]}"' in localization
@@ -95,9 +95,12 @@ assert 'b_palermo = {\n    1936.1.1 = {\n        holder = 9000052\n        liege
 assert character_history.count('9000063 = {') == 1
 assert all(f'{title} = {{\n    1936.1.1 = {{\n        holder = 9000063' in title_history for title in ('k_ireland','k_georgia'))
 assert next(c for c in characters if c['nation'] == 'OTT')['religion'] == 'maturidi'
-assert 'rite = "maturidi"' in character_history
+assert all(next(c for c in characters if c['nation'] == tag)['religion'] == 'maturidi' for tag in ('OTT','EGY','TRI'))
+assert 'rite =' not in character_history
+for person_id in ('9000055','9000058','9000059'):
+    assert 'religion = maturidi' in character_history.split(f'{person_id} = {{',1)[1].split('\n}',1)[0]
 assert '9000128 = {\n    name = "Ahmad Shah"\n    culture = "persian"' in character_history
-assert 'rite = "imami"' in character_history
+assert 'religion = imami' in character_history
 assert 'k_armenia = {\n    1936.1.1 = {\n        holder = 9000055' in title_history
 assert 'k_persia = {\n    1936.1.1 = {\n        holder = 9000128' in title_history
 known_cultures = {'armenian','bulgarian','castilian','croatian','danish','dutch','egyptian','english','french','georgian','german','greek','hungarian','irish','italian','japanese','maghrebi','norwegian','persian','portuguese','russian','serbian','swabian','swedish','turkish','vlach'}
@@ -113,6 +116,11 @@ for row in marriages:
 for title in ('k_egypt','k_nubia','k_blemmyia','k_tripolitania'):
     assert f'{title} = {{\n    1936.1.1 = {{' in title_history
 assert 'd_sunni = {\n    1936.1.1 = {\n        holder = 9000055' in title_history
+assert 'e_cr_ottoman = {\n    1936.1.1 = {\n        holder = 9000055' in title_history
+assert 'e_cr_ottoman = { color = { 132 35 78 } capital = c_byzantion can_be_named_after_dynasty = no }' in custom_titles
+assert 'e_byzantium = {\n    1936.1.1 = {\n        holder = 9000055' not in title_history
+assert 'liege = e_cr_ottoman' in title_history.split('d_sunni = {',1)[1].split('}',1)[0]
+assert all('liege = e_cr_ottoman' in title_history.split(f'{title} = {{',1)[1].split('}',1)[0] for title in ('k_egypt','k_tripolitania'))
 assert 'd_venice = {\n    1936.1.1 = {\n        holder = 9000050\n        liege = k_cr_italy' in title_history
 assert 'd_toscana = {\n    1936.1.1 = {\n        holder = 9000051\n        liege = k_cr_tuscany' in title_history
 print('Dynasty names, landed rulers, and 1936 realm hierarchy validated')

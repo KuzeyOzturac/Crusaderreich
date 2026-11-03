@@ -12,7 +12,7 @@ Inspect Germany, France, Austria, Poland, Ukraine, Russia, Italy, Iberia, Scandi
 
 - `data/nations.csv` and `data/characters.csv` record monarchs, governments, and explicitly marked temporary representatives. The user-defined rulers take precedence over Kaiserreich's base politics.
 - `data/title_assignments.csv` maps CK3 titles to scenario states. Broad empire regions fill geography; specific titles override them at disputed borders.
-- `data/county_map.csv` maps 1,603 CK3 counties to states. All counties in the supplied CK3 **European** geographical region now have an assignment. This is coverage, not proof that every border is exact.
+- `data/county_map.csv` maps 1,623 CK3 counties to states. All counties in the supplied CK3 **European** geographical region now have an assignment. This is coverage, not proof that every border is exact.
 - `data/complete_titles.csv` lists duchies and kingdoms whose counties all belong to one scenario state; those titles receive the matching holder in the generated 1936 history.
 - `data/relatives.csv`, `data/parents.csv`, and `data/marriages.csv` define close royal families, including Wilhelm II's children and the Habsburg, Windsor, and other ruling lines. `Crusaderreich/history` defines dated characters and title holders. Lower titles point to their country crown; Egypt and Tripolitania are Ottoman vassals. `Crusaderreich/common/landed_titles` adds crowns needed for Corsica, Flanders-Wallonia, and the divided Italian states. `Crusaderreich/common/dynasties` uses localized dynasty names and prefixes so surnames render correctly.
 
@@ -23,6 +23,8 @@ Run `python3 tools/validate.py` for data consistency. To rebuild the map from CK
 The latest border pass transfers the specified Silesian, Polish, Lithuanian, Ukrainian, Russian, Scandinavian, and Lorraine counties and duchies. Joachim von Hohenzollern, a son of Wilhelm II, holds both Ireland and Georgia in this alternate history. Ferdinando's Sicilian titles and Palermo castle use feudal government. The Ottoman ruler uses CK3's Maturidi Sunni faith, the closest built-in representation of Hanafi Sunni practice, and holds the Sunni caliphate title. These changes require an in-game check after starting a new 1936 campaign.
 
 All counties in CK3's Armenian kingdom are now Ottoman. Persia is playable under Ahmad Shah Qajar with Persian culture and Imami faith. Its 67 assigned counties cover the Iranian core of the CK3 Persian and Daylamite kingdoms, plus Iranian Khorasan, Sistan, and Baluchistan border counties. CK3's medieval counties only approximate the historical 1936 international boundary; Afghanistan, Turkmenistan, Pakistan, Iraq, and the Republic of Azerbaijan are not absorbed wholesale into Persia.
+
+The Ottoman Empire now uses its own empire title, with dynasty-based title naming disabled. The Sultan, Abbas II of Egypt, and Idris I of Tripolitania all have Maturidi faith in generated character history; the Sultan also holds `d_sunni` as caliph. CK3 requires `religion =` in character history: earlier builds incorrectly wrote `rite =`, which caused the game to assign an unintended faith. The Ottoman-Persian borderlands in CK3's Jazira kingdom now belong to the Ottomans.
 
 ## References
 

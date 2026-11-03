@@ -39,7 +39,7 @@ id,name,birth,death,culture,religion,nation,role,confidence
 9000055,Abdülmecid II,1868.5.29,,turkish,maturidi,OTT,head_of_state,scenario_reference
 9000056,Hirohito,1901.4.29,,japanese,shinto,JAP,head_of_state,scenario_reference
 9000057,Wilhelmina,1880.8.31,,dutch,catholic,NED,head_of_state,historical
-9000058,Abbas II Alawiyya,1874.7.14,,egyptian,ashari,EGY,head_of_state,user_defined
-9000059,Idris I Senussi,1889.3.12,,maghrebi,ashari,TRI,head_of_state,user_defined
+9000058,Abbas II Alawiyya,1874.7.14,,egyptian,maturidi,EGY,head_of_state,user_defined
+9000059,Idris I Senussi,1889.3.12,,maghrebi,maturidi,TRI,head_of_state,user_defined
 9000063,Joachim von Hohenzollern,1890.12.17,,german,catholic,IRE,head_of_state,user_defined
 9000128,Ahmad Shah Qajar,1898.1.21,,persian,imami,PER,head_of_state,kaiserreich_reference

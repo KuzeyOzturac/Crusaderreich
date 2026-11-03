@@ -33,6 +33,7 @@ c_akkel,FIN,d_giemajohka
 c_al-arid,OTT,k_arabia
 c_al-buhaira,EGY,k_egypt
 c_al-gharbiya,EGY,k_egypt
+c_al-haditha,OTT,k_jazira
 c_al-hasa,OTT,k_arabia
 c_al_aqabah,OTT,k_arabia
 c_al_jawf,OTT,k_arabia
@@ -61,6 +62,7 @@ c_alpsee,GER,k_bavaria
 c_alto_aragon,SPA,k_aragon
 c_aluksne,UBD,d_latgalians
 c_amaya,SPA,k_castille
+c_amida,OTT,k_jazira
 c_amiens,FRA,k_france
 c_amstetten,AUS,d_osterreich
 c_anbar,OTT,k_mesopotamia
@@ -147,6 +149,7 @@ c_baihaq,PER,d_nishapur
 c_bailaqan,AZE,c_bailaqan
 c_bakharz,PER,c_bakharz
 c_bakhmut,UKR,d_levedia
+c_bakriya,OTT,k_jazira
 c_balqa,OTT,k_arabia
 c_bam,PER,k_persia
 c_bamberg,GER,k_east_francia
@@ -374,6 +377,7 @@ c_damietta,EGY,k_egypt
 c_dannenberg,GER,k_saxony
 c_danzig,GER,k_pomerania
 c_darabjerd,PER,k_persia
+c_dausar,OTT,k_jazira
 c_dawraq,PER,k_persia
 c_debar,ALB,d_dyrrachion
 c_demetrias,GRE,k_thessalonika
@@ -539,10 +543,12 @@ c_gurgan,PER,k_daylam
 c_guria,GEO,k_georgia
 c_gutland,SWE,k_sweden
 c_gyor,HUN,k_hungary
+c_hadithat-ana,OTT,k_jazira
 c_hadrianeia,OTT,k_nikaea
 c_hadrianopolis,OTT,k_nikaea
 c_hail,OTT,k_arabia
 c_hainaut,FLW,d_brabant
+c_hakkari,OTT,k_jazira
 c_halberstadt,GER,k_east_francia
 c_halland,SWE,d_skane
 c_hallstatt,GER,k_bavaria
@@ -555,6 +561,7 @@ c_hampton,ENG,k_england
 c_hannover,GER,k_saxony
 c_harima,JAP,k_yamato
 c_harjadalen,NOR,k_norway
+c_harran,OTT,k_jazira
 c_harrat_rahat,OTT,k_arabia
 c_hauran,OTT,k_syria
 c_havelberg,GER,k_pomerania
@@ -607,6 +614,7 @@ c_ionia,OTT,k_nikaea
 c_ipuskoa,SPA,k_navarra
 c_irahistan,PER,k_persia
 c_irbid,OTT,k_jerusalem
+c_irbil,OTT,k_jazira
 c_isauria,OTT,k_anatolia
 c_ise,JAP,k_azuma
 c_isfahan,PER,k_persia
@@ -686,6 +694,7 @@ c_kermanshah,PER,k_persia
 c_kernave,LIT,k_lithuania
 c_keve,HUN,k_hungary
 c_kevrola,RUS,e_russia
+c_khabur,OTT,k_jazira
 c_khachen,OTT,k_armenia
 c_kharam-vosh,RUS,e_siberia
 c_kharga,EGY,k_egypt
@@ -749,6 +758,7 @@ c_kujawy,POL,k_poland
 c_kulunda,RUS,e_siberia
 c_kumertau,RUS,k_volga_bulgaria
 c_kuranko,COR,k_mali
+c_kurdistan,OTT,k_jazira
 c_kurgus,EGY,k_nubia
 c_kursk,UKR,k_ruthenia
 c_kuzeytorg,UKR,d_tana
@@ -860,6 +870,7 @@ c_martyuba,RUS,k_volga_bulgaria
 c_masabadhan,PER,k_persia
 c_mau,COR,k_guinea
 c_mayo,IRE,k_ireland
+c_mayyafariqin,OTT,k_jazira
 c_mazandaran,PER,k_daylam
 c_mearns,ENG,k_scotland
 c_meaux,FRA,k_france
@@ -910,6 +921,7 @@ c_morarna,NOR,k_norway
 c_moray,ENG,k_scotland
 c_more,SWE,k_sweden
 c_moskva,RUS,k_opolye
+c_mosul,OTT,k_jazira
 c_mosynopolis,BUL,d_strymon
 c_moura,SPA,k_andalusia
 c_mozhaysk,WHR,k_white_rus
@@ -940,6 +952,7 @@ c_naqis,EGY,k_blemmyia
 c_narim,RUS,e_siberia
 c_narke,SWE,k_sweden
 c_narva,UBD,k_esthonia
+c_nasibin,OTT,k_jazira
 c_nassau,GER,k_east_francia
 c_natangia,GER,d_prussia
 c_naumberg,GER,d_lausitz
@@ -964,6 +977,7 @@ c_nih,PER,c_nih
 c_nihawand,PER,k_persia
 c_nikaea,OTT,k_nikaea
 c_nikopolis,BUL,k_bulgaria
+c_ninive,OTT,k_jazira
 c_nishapur,PER,d_nishapur
 c_nizhny_novgorod,RUS,k_opolye
 c_nizwa,OTT,k_arabia
@@ -1118,9 +1132,11 @@ c_qus,EGY,k_egypt
 c_qusayr,EGY,k_egypt
 c_radomska,POL,c_radomska
 c_ragusa,CRB,k_croatia
+c_rahba,OTT,k_jazira
 c_rama,CRB,k_croatia
 c_ramhurmuz,PER,k_persia
 c_raniriki,NOR,k_norway
+c_raqqa,OTT,k_jazira
 c_raseiniai,LIT,k_lithuania
 c_rashka,SER,k_serbia
 c_ratibor,GAL,c_ratibor
@@ -1220,6 +1236,7 @@ c_severin,ROM,k_dacia
 c_sevilla,SPA,k_andalusia
 c_sevsk,RUS,d_karachev
 c_sfax,COR,k_africa
+c_shahrazur,OTT,k_jazira
 c_shahre-babak,PER,k_persia
 c_shaki,AZE,d_shirvan
 c_shamir,EGY,k_nubia
@@ -1247,6 +1264,7 @@ c_siggevara,NOR,d_duortnoseatnu
 c_sijilmasa,MOR,d_tafilalt
 c_silves,POR,d_algarve
 c_sinai,EGY,k_egypt
+c_sinjar,OTT,k_jazira
 c_sinope,OTT,k_pontus
 c_sir_faesyfed,ENG,k_wales
 c_siracusa,SIC,k_sicily
@@ -1342,6 +1360,7 @@ c_takkeda,COR,k_sahara
 c_takrit,OTT,k_mesopotamia
 c_talava,UBD,d_latgalians
 c_talish,AZE,c_talish
+c_tall_basma,OTT,k_jazira
 c_tall_hamid,OTT,k_anatolia
 c_tamasna,MOR,d_marrakesh
 c_tamiso,COR,k_guinea
@@ -1452,6 +1471,7 @@ c_uman,UKR,d_yedisan
 c_umiai,RUS,e_siberia
 c_ungvar,HUN,k_hungary
 c_upland,SWE,k_sweden
+c_upper_khabur,OTT,k_jazira
 c_uqayr,OTT,k_arabia
 c_uraltau,RUS,k_bashkiria
 c_urbino,PAP,d_ancona

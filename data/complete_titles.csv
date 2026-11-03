@@ -107,6 +107,9 @@ d_dauphine,FRA,5
 d_daylam,PER,3
 d_deheubarth,ENG,5
 d_delta,EGY,4
+d_diyarbakr,OTT,5
+d_diyarmudar,OTT,3
+d_diyarrabia,OTT,6
 d_dobrudja,BUL,2
 d_don_valley,UKR,4
 d_duklja,CRB,3
@@ -122,6 +125,7 @@ d_emilia,ITA,2
 d_ephese,OTT,2
 d_epirus,GRE,4
 d_esthonia,UBD,4
+d_euphrates,OTT,3
 d_fars,PER,7
 d_fes,MOR,5
 d_fezzan,COR,3
@@ -193,6 +197,7 @@ d_kroumerie,COR,2
 d_kru,COR,4
 d_kufa,OTT,6
 d_kulyndy_steppe,RUS,4
+d_kurdistan,OTT,3
 d_kuyavia,POL,5
 d_lancaster,ENG,4
 d_languedoc,FRA,6
@@ -424,6 +429,7 @@ k_guinea,COR,21
 k_hellas,GRE,7
 k_hungary,HUN,51
 k_ireland,IRE,14
+k_jazira,OTT,20
 k_jerusalem,OTT,8
 k_kanem,COR,9
 k_krete,OTT,2

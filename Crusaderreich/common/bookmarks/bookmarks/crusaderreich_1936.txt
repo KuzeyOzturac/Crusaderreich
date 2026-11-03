@@ -136,7 +136,7 @@ bm_crusaderreich_1936 = {
     character = {
         name = "cr_bookmark_ott"
         history_id = 9000055
-        title = e_byzantium
+        title = e_cr_ottoman
         birth = 1868.5.29
         type = male
         dynasty = 9900019
@@ -493,7 +493,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900002
         dynasty_splendor_level = 1
         culture = egyptian
-        religion = ashari
+        religion = maturidi
         government = clan_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -506,7 +506,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900025
         dynasty_splendor_level = 1
         culture = maghrebi
-        religion = ashari
+        religion = maturidi
         government = clan_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }

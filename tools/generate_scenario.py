@@ -19,7 +19,7 @@ marriages = rows('marriages.csv')
 counties = rows('county_map.csv')
 assignments = rows('title_assignments.csv')
 complete_titles = rows('complete_titles.csv')
-custom_titles = {'k_cr_corsica': ('c_ajaccio', (78, 67, 115)), 'k_cr_flanders_wallonia': ('c_brabant', (199, 166, 55)), 'k_cr_italy': ('c_lombardia', (64, 135, 91)), 'k_cr_tuscany': ('c_firenze', (139, 55, 55)), 'k_cr_papal_state': ('c_roma', (228, 210, 135))}
+custom_titles = {'e_cr_ottoman': ('c_byzantion', (132, 35, 78)), 'k_cr_corsica': ('c_ajaccio', (78, 67, 115)), 'k_cr_flanders_wallonia': ('c_brabant', (199, 166, 55)), 'k_cr_italy': ('c_lombardia', (64, 135, 91)), 'k_cr_tuscany': ('c_firenze', (139, 55, 55)), 'k_cr_papal_state': ('c_roma', (228, 210, 135))}
 valid_title = {r['ck3_title'] for r in assignments} | {'e_germany', 'e_russia', 'e_carpathia', 'e_byzantium', 'k_maghreb', 'k_galicia-volhynia', 'k_sardinia', 'k_tripolitania'} | set(custom_titles)
 active = [n for n in nations if n['leader_id'] and n['ck3_region'] in valid_title]
 bookmarked = [n for n in active if people[n['leader_id']]['role'] == 'head_of_state' and 'republic' not in n['government'].lower() and 'theocracy' not in n['government'].lower()]
@@ -42,7 +42,7 @@ for name, value in dynasty_ids.items():
 (mod/'common/dynasties/crusaderreich_dynasties.txt').write_text('\n'.join(dynasty_lines)+'\n')
 (mod/'common/landed_titles').mkdir(exist_ok=True)
 (mod/'common/landed_titles/crusaderreich_titles.txt').write_text('\n'.join(
-    f'{title} = {{ color = {{ {r} {g} {b} }} capital = {capital} }}'
+    f'{title} = {{ color = {{ {r} {g} {b} }} capital = {capital}' + (' can_be_named_after_dynasty = no' if title == 'e_cr_ottoman' else '') + ' }'
     for title, (capital, (r, g, b)) in custom_titles.items()
 )+'\n')
 chars = ['# Generated Crusaderreich 1936 rulers.']
@@ -55,10 +55,10 @@ for n in active:
     chars += [f"{p['id']} = {{",f'    name = "{given_name.get(n["tag"], p["name"])}"',f'    culture = "{p["culture"] or culture.get(n["tag"],"german")}"']
     if n['tag'] in dynasty_name:
         chars.append(f'    dynasty = {dynasty_ids[dynasty_name[n["tag"]]]}')
-    rite = {'orthodox':'byzantine_rite','ashari':'ashari','maturidi':'maturidi','imami':'imami','shinto':'shinto'}.get(p['religion'], 'roman_rite')
+    faith = p['religion'] or ('orthodox' if n['tag'] == 'RUS' else 'catholic')
     if p['id'] in parents:
         chars += [f'    {role} = {parents[p["id"]][role]}' for role in ('father','mother') if parents[p['id']][role]]
-    chars += (['    female = yes'] if n['tag'] == 'NED' else []) + [f'    rite = "{rite}"',f'    {born} = {{ birth = yes }}','}','']
+    chars += (['    female = yes'] if n['tag'] == 'NED' else []) + [f'    religion = {faith}',f'    {born} = {{ birth = yes }}','}','']
 for p in relatives:
     chars += [f"{p['id']} = {{", f'    name = "{p["name"]}"', f'    culture = "{p["culture"]}"']
     if p['dynasty']:
@@ -66,7 +66,8 @@ for p in relatives:
     if p['id'] in parents:
         chars += [f'    {role} = {parents[p["id"]][role]}' for role in ('father','mother') if parents[p['id']][role]]
     if p['sex'] == 'female': chars.append('    female = yes')
-    chars += [f'    rite = "{p["rite"] or "roman_rite"}"', f'    {p["birth"]} = {{ birth = yes }}']
+    relative_faith = {'roman_rite':'catholic','byzantine_rite':'orthodox'}.get(p['rite'], p['rite'] or 'catholic')
+    chars += [f'    religion = {relative_faith}', f'    {p["birth"]} = {{ birth = yes }}']
     if p['death']: chars.append(f'    {p["death"]} = {{ death = yes }}')
     chars += ['}', '']
 # Apply marriages to one spouse's history block, preserving reciprocal spouse links in CK3.
