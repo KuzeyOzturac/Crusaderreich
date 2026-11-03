@@ -59,7 +59,7 @@ c_abkhazia = {
 c_ablastha = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -87,7 +87,7 @@ c_abwab = {
 c_abydos = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -108,7 +108,7 @@ c_achaia = {
 c_acre = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -122,7 +122,7 @@ c_adrianopolis = {
 c_aeolis = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -186,7 +186,7 @@ c_ain_galakka = {
 c_aintab = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -207,7 +207,7 @@ c_ajaccio = {
 c_akhadid = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -228,7 +228,7 @@ c_akkel = {
 c_al-arid = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -249,28 +249,28 @@ c_al-gharbiya = {
 c_al-haditha = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_al-hasa = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_al_aqabah = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_al_jawf = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -340,14 +340,14 @@ c_alencon = {
 c_aleppo = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_alexandretta = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -452,7 +452,7 @@ c_amaya = {
 c_amida = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -473,7 +473,7 @@ c_amstetten = {
 c_anbar = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -564,7 +564,7 @@ c_ansbach = {
 c_antiocheia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -592,7 +592,7 @@ c_aosta = {
 c_apahunik = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -607,7 +607,7 @@ c_apulia = {
 c_aqiq = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -733,7 +733,7 @@ c_ashli = {
 c_asir = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -929,7 +929,7 @@ c_aytos = {
 c_az-dhahira = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -943,14 +943,14 @@ c_azov = {
 c_azysia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_baalbek = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -978,7 +978,7 @@ c_badajoz = {
 c_badaraya = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -1006,14 +1006,14 @@ c_baduspan = {
 c_baghdad = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_bagrewand = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -1062,14 +1062,14 @@ c_bakhmut = {
 c_bakriya = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_balqa = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -1189,7 +1189,7 @@ c_bartenstein = {
 c_basra = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -1210,14 +1210,14 @@ c_bastia = {
 c_batiha = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_batina = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -1273,7 +1273,7 @@ c_behabad = {
 c_beirut = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -1533,7 +1533,7 @@ c_birsk = {
 c_bisha = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -1554,7 +1554,7 @@ c_bitchu = {
 c_bithynia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -1841,7 +1841,7 @@ c_brunswick = {
 c_brysis = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -1946,7 +1946,7 @@ c_buzen = {
 c_byzantion = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -2087,7 +2087,7 @@ c_canavese = {
 c_cappadocia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -2116,7 +2116,7 @@ c_cardiganshire = {
 c_caria = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -2172,7 +2172,7 @@ c_cephalonia = {
 c_cerasus = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -2228,21 +2228,21 @@ c_chalons = {
 c_chandax = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_chania = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_charsianon = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -2326,7 +2326,7 @@ c_chilia = {
 c_chios = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -2340,7 +2340,7 @@ c_choklema = {
 c_chonae = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -2368,7 +2368,7 @@ c_cieszyn = {
 c_cilicia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -2424,7 +2424,7 @@ c_cologne = {
 c_colonea = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -2621,7 +2621,7 @@ c_dalarna = {
 c_damascus = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -2663,7 +2663,7 @@ c_darabjerd = {
 c_dausar = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -2747,7 +2747,7 @@ c_devon = {
 c_dhafra = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -2964,7 +2964,7 @@ c_dunbar = {
 c_duqm = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -2992,7 +2992,7 @@ c_duvan = {
 c_dvin = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -3034,7 +3034,7 @@ c_echizen = {
 c_edessa = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -3132,7 +3132,7 @@ c_euboea = {
 c_euchaita = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -3160,7 +3160,7 @@ c_faereyar = {
 c_falaj = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -3174,7 +3174,7 @@ c_falkenstein = {
 c_famagusta = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -3455,14 +3455,14 @@ c_galati = {
 c_galatia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_galatia_salutaris = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -3588,7 +3588,7 @@ c_ghat = {
 c_ghazza = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -3826,28 +3826,28 @@ c_gyor = {
 c_hadithat-ana = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_hadrianeia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_hadrianopolis = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_hail = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -3861,7 +3861,7 @@ c_hainaut = {
 c_hakkari = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -3903,7 +3903,7 @@ c_halych = {
 c_hama = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -3952,21 +3952,21 @@ c_harjadalen = {
 c_harran = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_harrat_rahat = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_hauran = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -3980,7 +3980,7 @@ c_havelberg = {
 c_hayk = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -3994,7 +3994,7 @@ c_hedmork = {
 c_helenopontus = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -4120,14 +4120,14 @@ c_holland = {
 c_homs = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_honorias = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -4183,7 +4183,7 @@ c_huesca = {
 c_hulwan = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -4295,7 +4295,7 @@ c_inverness = {
 c_ionia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -4316,21 +4316,21 @@ c_irahistan = {
 c_irbid = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_irbil = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_isauria = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -4358,7 +4358,7 @@ c_ishim = {
 c_iskaf = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -4449,7 +4449,7 @@ c_jafara = {
 c_jaffa = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -4491,7 +4491,7 @@ c_jersika = {
 c_jerusalem = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -4505,7 +4505,7 @@ c_jihlava = {
 c_jilat = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -4540,7 +4540,7 @@ c_julevadno = {
 c_julfar = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -4561,7 +4561,7 @@ c_juwain = {
 c_juwair = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -4624,7 +4624,7 @@ c_kairwan = {
 c_kaisereia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -4666,7 +4666,7 @@ c_kaliska = {
 c_kalliopolis = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -4729,7 +4729,7 @@ c_karasjohka = {
 c_karbala = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -4841,7 +4841,7 @@ c_kent = {
 c_kerak = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -4883,14 +4883,14 @@ c_kevrola = {
 c_khabur = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_khachen = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -4918,7 +4918,7 @@ c_khawr = {
 c_khaybar = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -5002,7 +5002,7 @@ c_kirillov = {
 c_kirkuk = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -5296,7 +5296,7 @@ c_kuchuk = {
 c_kufa = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -5331,7 +5331,7 @@ c_kuranko = {
 c_kurdistan = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -5366,7 +5366,7 @@ c_kyin = {
 c_kyzistra = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -5521,7 +5521,7 @@ c_leon = {
 c_lesbos = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -5717,7 +5717,7 @@ c_lower_dniepr = {
 c_lower_galatia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -5815,28 +5815,28 @@ c_lviv = {
 c_lycandus = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_lycaonia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_lycia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_lydia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -5857,14 +5857,14 @@ c_lyubim = {
 c_maab = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_maan = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -6040,7 +6040,7 @@ c_maragha = {
 c_marash = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -6117,7 +6117,7 @@ c_mayo = {
 c_mayyafariqin = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -6145,7 +6145,7 @@ c_meaux = {
 c_mecca = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -6173,7 +6173,7 @@ c_medelpad = {
 c_medina = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -6208,7 +6208,7 @@ c_melilla = {
 c_melitene = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -6264,7 +6264,7 @@ c_mesembria = {
 c_mesopotamia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -6475,7 +6475,7 @@ c_moskva = {
 c_mosul = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -6573,7 +6573,7 @@ c_musashi = {
 c_muscat = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -6587,7 +6587,7 @@ c_mustasaari = {
 c_mysia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -6693,7 +6693,7 @@ c_narva = {
 c_nasibin = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -6735,7 +6735,7 @@ c_navarra = {
 c_naxos = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -6763,7 +6763,7 @@ c_nedersticht = {
 c_negev = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -6826,7 +6826,7 @@ c_nicopolis = {
 c_nicosia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -6854,7 +6854,7 @@ c_nihawand = {
 c_nikaea = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -6868,7 +6868,7 @@ c_nikopolis = {
 c_ninive = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -6889,7 +6889,7 @@ c_nizhny_novgorod = {
 c_nizwa = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -7344,7 +7344,7 @@ c_oxfordshire = {
 c_pacatiana = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -7394,21 +7394,21 @@ c_pallas = {
 c_palmyra = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_pamphylia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_paphlagonia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -7534,14 +7534,14 @@ c_philippopolis = {
 c_philomelium = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_phrygia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -7583,7 +7583,7 @@ c_pisa = {
 c_pisidia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -7681,7 +7681,7 @@ c_pomorje = {
 c_pompeiopolis = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -7765,7 +7765,7 @@ c_provence = {
 c_prusa = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -7828,7 +7828,7 @@ c_putyvl = {
 c_qadisiya = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -7842,7 +7842,7 @@ c_qain = {
 c_qaryatan = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -7856,7 +7856,7 @@ c_qashtiliya = {
 c_qasim = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -7877,7 +7877,7 @@ c_qataa = {
 c_qatif = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -7891,7 +7891,7 @@ c_qazwin = {
 c_qinnasrin = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -7954,7 +7954,7 @@ c_ragusa = {
 c_rahba = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -7982,7 +7982,7 @@ c_raniriki = {
 c_raqqa = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -8081,7 +8081,7 @@ c_rhodopes = {
 c_rhodos = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -8222,7 +8222,7 @@ c_rusa = {
 c_rusafa = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -8271,7 +8271,7 @@ c_sacz = {
 c_safata = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -8377,7 +8377,7 @@ c_samar_VB = {
 c_samarra = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -8391,14 +8391,14 @@ c_samiran = {
 c_samman = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_samosata = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -8510,7 +8510,7 @@ c_satakunta = {
 c_satala = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -8587,7 +8587,7 @@ c_schweibus = {
 c_sebasteia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -8601,14 +8601,14 @@ c_sebezh = {
 c_seleucia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_selge = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -8685,7 +8685,7 @@ c_sfax = {
 c_shahrazur = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -8713,14 +8713,14 @@ c_shamir = {
 c_shaqiq = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_sharaf = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -8734,7 +8734,7 @@ c_sharkiya = {
 c_shayzar = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -8881,14 +8881,14 @@ c_sinai = {
 c_sinjar = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_sinope = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -8910,7 +8910,7 @@ c_siracusa = {
 c_sirhan = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -9253,7 +9253,7 @@ c_suakin = {
 c_subay = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -9274,7 +9274,7 @@ c_sudurland = {
 c_suenik = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -9288,7 +9288,7 @@ c_suffolk = {
 c_sukhna = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -9330,14 +9330,14 @@ c_suondavara = {
 c_suriya = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_surrah = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -9386,7 +9386,7 @@ c_svaneti = {
 c_syrrusafa = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -9477,7 +9477,7 @@ c_tabriz = {
 c_tabuk = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -9512,7 +9512,7 @@ c_tahert = {
 c_taif = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -9533,7 +9533,7 @@ c_takkeda = {
 c_takrit = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -9554,14 +9554,14 @@ c_talish = {
 c_tall_basma = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_tall_hamid = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -9652,7 +9652,7 @@ c_tarragona = {
 c_tarsos = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -9687,7 +9687,7 @@ c_tavasts = {
 c_tayma = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -9785,14 +9785,14 @@ c_teviotdale = {
 c_thalabiya = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_theodosiopolis = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -9841,21 +9841,21 @@ c_thouars = {
 c_thyatira = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_tib = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_tiberias = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -9876,7 +9876,7 @@ c_tigheci = {
 c_tihama = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -10086,7 +10086,7 @@ c_travunia = {
 c_trebizond = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -10121,7 +10121,7 @@ c_trier = {
 c_tripoli = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -10219,7 +10219,7 @@ c_turov = {
 c_turuberan = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -10268,7 +10268,7 @@ c_ubmejeiednuo = {
 c_ubulla = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -10331,14 +10331,14 @@ c_upland = {
 c_upper_khabur = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 c_uqayr = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -10415,7 +10415,7 @@ c_ustyug = {
 c_uwal = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -10464,7 +10464,7 @@ c_valois = {
 c_vanand = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -10506,7 +10506,7 @@ c_vas = {
 c_vaspurakan = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -10877,7 +10877,7 @@ c_wajda = {
 c_wajh = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -10891,7 +10891,7 @@ c_waldeck = {
 c_waqisa = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -10912,7 +10912,7 @@ c_warwickshire = {
 c_wasit = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -11066,7 +11066,7 @@ c_wurzburg = {
 c_yabrin = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -11080,7 +11080,7 @@ c_yalala = {
 c_yamama = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -11101,7 +11101,7 @@ c_yamato = {
 c_yanbu = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -11276,7 +11276,7 @@ c_zeeland = {
 c_zela = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -11409,7 +11409,7 @@ d_achaia = {
 d_aegean_islands = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -11430,7 +11430,7 @@ d_air = {
 d_al-hasa = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -11472,7 +11472,7 @@ d_albany = {
 d_aleppo = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -11528,14 +11528,14 @@ d_alwa = {
 d_amman = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 d_anatolia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -11570,7 +11570,7 @@ d_anjou = {
 d_antioch = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -11606,14 +11606,14 @@ d_armagnac = {
 d_armeniac = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 d_asir = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -11669,14 +11669,14 @@ d_badajoz = {
 d_baghdad = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 d_bahrain = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -11725,7 +11725,7 @@ d_bashkiria = {
 d_basra = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -11852,7 +11852,7 @@ d_brittany = {
 d_bucellaria = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -11930,7 +11930,7 @@ d_canterbury = {
 d_cappadocia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -11966,7 +11966,7 @@ d_cephalonia = {
 d_chaldia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -11980,7 +11980,7 @@ d_champagne = {
 d_charsianon = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -12008,14 +12008,14 @@ d_chudia = {
 d_cibyrrhaeot = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 d_cilicia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -12092,7 +12092,7 @@ d_currezia = {
 d_cyprus = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -12120,7 +12120,7 @@ d_dalmatia = {
 d_damascus = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -12155,21 +12155,21 @@ d_delta = {
 d_diyarbakr = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 d_diyarmudar = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 d_diyarrabia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -12246,7 +12246,7 @@ d_eastern_desert = {
 d_edessa = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -12260,7 +12260,7 @@ d_emilia = {
 d_ephese = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -12281,7 +12281,7 @@ d_esthonia = {
 d_euphrates = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -12428,7 +12428,7 @@ d_granada = {
 d_greater_armenia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -12526,7 +12526,7 @@ d_holstein = {
 d_homs = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -12590,7 +12590,7 @@ d_jamtland = {
 d_jawf = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -12751,7 +12751,7 @@ d_krain = {
 d_krete = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -12772,7 +12772,7 @@ d_kru = {
 d_kufa = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -12786,7 +12786,7 @@ d_kulyndy_steppe = {
 d_kurdistan = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -12842,7 +12842,7 @@ d_lausitz = {
 d_lebanon = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -13010,14 +13010,14 @@ d_meath = {
 d_mecca = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 d_medina = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -13031,7 +13031,7 @@ d_meissen = {
 d_mesopotamia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -13094,7 +13094,7 @@ d_mzab = {
 d_najd = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -13227,7 +13227,7 @@ d_oltenia = {
 d_oman = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -13241,14 +13241,14 @@ d_opolye = {
 d_opsikion = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 d_optimatoi = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -13297,28 +13297,28 @@ d_ostyaki = {
 d_oultrejourdain = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 d_palestine = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 d_palmyra = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 d_paphlagonia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -13508,7 +13508,7 @@ d_salzburg = {
 d_samarra = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -13543,7 +13543,7 @@ d_savo = {
 d_sebasteia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -13571,7 +13571,7 @@ d_shamir = {
 d_shammar = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -13699,7 +13699,7 @@ d_strymon = {
 d_sunni = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -13811,14 +13811,14 @@ d_thessaly = {
 d_thrace = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 d_thracesia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14000,7 +14000,7 @@ d_uraltau = {
 d_urdunn = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14042,7 +14042,7 @@ d_valois = {
 d_vaspurakan = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14154,7 +14154,7 @@ d_vuovdisamieana = {
 d_wasit = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14217,7 +14217,7 @@ d_wielkopolska = {
 d_yamama = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14249,19 +14249,19 @@ d_zab = {
     }
 }
 
+e_byzantium = {
+    1936.1.1 = {
+        holder = 9000055
+        liege = 0
+        government = clan_government
+    }
+}
+
 e_carpathia = {
     1936.1.1 = {
         holder = 9000009
         liege = 0
         government = feudal_government
-    }
-}
-
-e_cr_ottoman = {
-    1936.1.1 = {
-        holder = 9000055
-        liege = 0
-        government = clan_government
     }
 }
 
@@ -14306,7 +14306,7 @@ k_albania = {
 k_anatolia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14327,7 +14327,7 @@ k_aquitaine = {
 k_arabia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14341,7 +14341,7 @@ k_aragon = {
 k_armenia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14397,7 +14397,7 @@ k_bjarmaland = {
 k_blemmyia = {
     1936.1.1 = {
         holder = 9000058
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14498,7 +14498,7 @@ k_croatia = {
 k_cyprus = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14535,7 +14535,7 @@ k_east_francia = {
 k_egypt = {
     1936.1.1 = {
         holder = 9000058
-        liege = e_cr_ottoman
+        liege = e_byzantium
         government = clan_government
     }
 }
@@ -14636,14 +14636,14 @@ k_ireland = {
 k_jazira = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 k_jerusalem = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14657,14 +14657,14 @@ k_kanem = {
 k_karaman = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 k_krete = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14709,7 +14709,7 @@ k_mali = {
 k_mesopotamia = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14738,7 +14738,7 @@ k_navarra = {
 k_nikaea = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14760,7 +14760,7 @@ k_novgorod = {
 k_nubia = {
     1936.1.1 = {
         holder = 9000058
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14781,7 +14781,7 @@ k_opolye = {
 k_ottoman = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14811,7 +14811,7 @@ k_pomerania = {
 k_pontus = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14826,7 +14826,7 @@ k_portugal = {
 k_rum = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14923,7 +14923,7 @@ k_switzerland = {
 k_syria = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
@@ -14944,14 +14944,14 @@ k_thessalonika = {
 k_trebizond = {
     1936.1.1 = {
         holder = 9000055
-        liege = e_cr_ottoman
+        liege = e_byzantium
     }
 }
 
 k_tripolitania = {
     1936.1.1 = {
         holder = 9000059
-        liege = e_cr_ottoman
+        liege = e_byzantium
         government = clan_government
     }
 }

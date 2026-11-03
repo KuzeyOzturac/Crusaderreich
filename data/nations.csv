@@ -9,7 +9,7 @@ HUN,Kingdom of Hungary,Budapest,Habsburg monarchy,9000021,Joseph August,k_hungar
 POL,Kingdom of Poland,Warsaw,Hohenzollern monarchy,9000025,August Wilhelm von Hohenzollern,k_poland,Poland,
 UKR,Kingdom of Ukraine,Kyiv,Habsburg monarchy,9000022,Wilhelm Franz,k_ruthenia,Ukraine,
 RUS,Russian Empire,Moscow,Romanov monarchy,9000030,Vladimir Kirillovich Romanov,e_russia,Russia,
-OTT,Ottoman Empire,Constantinople,Sunni caliphate,9000055,Abdülmecid II,e_cr_ottoman,Ottomans,
+OTT,Ottoman Empire,Constantinople,Sunni caliphate,9000055,Abdülmecid II,e_byzantium,Ottomans,
 JAP,Empire of Japan,Tokyo,constitutional monarchy,9000056,Hirohito,k_yamato,Japan,
 COR,Kingdom of Corsica,Ajaccio,Napoleonic monarchy,9000019,"Louis, Prince Napoléon",k_cr_corsica,Corsica,
 GAL,Kingdom of Galicia-Lodomeria,Lviv,Habsburg monarchy,9000020,Karl Albrecht,k_galicia-volhynia,Galicia-Lodomeria,

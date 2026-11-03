@@ -12,7 +12,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900013
         dynasty_splendor_level = 1
         culture = german
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -25,7 +25,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900018
         dynasty_splendor_level = 1
         culture = french
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -38,7 +38,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900030
         dynasty_splendor_level = 1
         culture = english
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -51,7 +51,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900011
         dynasty_splendor_level = 1
         culture = german
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -64,7 +64,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900007
         dynasty_splendor_level = 1
         culture = italian
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -77,7 +77,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900011
         dynasty_splendor_level = 1
         culture = german
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -90,7 +90,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900011
         dynasty_splendor_level = 1
         culture = hungarian
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -103,7 +103,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900013
         dynasty_splendor_level = 1
         culture = german
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -116,7 +116,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900011
         dynasty_splendor_level = 1
         culture = russian
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -129,20 +129,20 @@ bm_crusaderreich_1936 = {
         dynasty = 9900021
         dynasty_splendor_level = 1
         culture = russian
-        religion = orthodox
+        religion = byzantine_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
     character = {
         name = "cr_bookmark_ott"
         history_id = 9000055
-        title = e_cr_ottoman
+        title = e_byzantium
         birth = 1868.5.29
         type = male
         dynasty = 9900019
         dynasty_splendor_level = 1
         culture = turkish
-        religion = maturidi
+        religion = hanafi
         government = clan_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -168,7 +168,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900004
         dynasty_splendor_level = 1
         culture = french
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -181,7 +181,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900011
         dynasty_splendor_level = 1
         culture = german
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -194,7 +194,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900011
         dynasty_splendor_level = 1
         culture = croatian
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -207,7 +207,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900029
         dynasty_splendor_level = 1
         culture = german
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -220,7 +220,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900013
         dynasty_splendor_level = 1
         culture = german
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -233,7 +233,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900013
         dynasty_splendor_level = 1
         culture = german
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -246,7 +246,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900027
         dynasty_splendor_level = 1
         culture = german
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -259,7 +259,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900012
         dynasty_splendor_level = 1
         culture = german
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -272,7 +272,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900016
         dynasty_splendor_level = 1
         culture = german
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -285,7 +285,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900011
         dynasty_splendor_level = 1
         culture = german
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -298,7 +298,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900022
         dynasty_splendor_level = 1
         culture = italian
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -311,7 +311,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900013
         dynasty_splendor_level = 1
         culture = german
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -324,7 +324,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900010
         dynasty_splendor_level = 1
         culture = danish
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -337,7 +337,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900010
         dynasty_splendor_level = 1
         culture = norwegian
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -350,7 +350,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900003
         dynasty_splendor_level = 1
         culture = swedish
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -363,7 +363,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900011
         dynasty_splendor_level = 1
         culture = german
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -376,7 +376,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900014
         dynasty_splendor_level = 1
         culture = vlach
-        religion = orthodox
+        religion = byzantine_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -389,7 +389,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900015
         dynasty_splendor_level = 1
         culture = serbian
-        religion = orthodox
+        religion = byzantine_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -402,7 +402,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900023
         dynasty_splendor_level = 1
         culture = bulgarian
-        religion = orthodox
+        religion = byzantine_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -415,7 +415,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900010
         dynasty_splendor_level = 1
         culture = greek
-        religion = orthodox
+        religion = byzantine_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -428,7 +428,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900005
         dynasty_splendor_level = 1
         culture = castilian
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -441,7 +441,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900008
         dynasty_splendor_level = 1
         culture = portuguese
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -454,7 +454,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900013
         dynasty_splendor_level = 1
         culture = german
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -467,7 +467,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900001
         dynasty_splendor_level = 1
         culture = maghrebi
-        religion = ashari
+        religion = maliki
         government = clan_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -480,7 +480,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900017
         dynasty_splendor_level = 1
         culture = dutch
-        religion = catholic
+        religion = roman_rite
         government = feudal_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -493,7 +493,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900002
         dynasty_splendor_level = 1
         culture = egyptian
-        religion = maturidi
+        religion = hanafi
         government = clan_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }
@@ -506,7 +506,7 @@ bm_crusaderreich_1936 = {
         dynasty = 9900025
         dynasty_splendor_level = 1
         culture = maghrebi
-        religion = maturidi
+        religion = hanafi
         government = clan_government
         difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
     }

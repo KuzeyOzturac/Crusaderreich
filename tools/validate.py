@@ -16,6 +16,7 @@ parents = rows('parents.csv')
 marriages = rows('marriages.csv')
 assignments = rows('title_assignments.csv')
 counties = rows('county_map.csv')
+faith_provinces = rows('faith_provinces.csv')
 complete_titles = rows('complete_titles.csv')
 tags = {row['tag'] for row in nations}
 assert len(tags) == len(nations)
@@ -29,6 +30,10 @@ assert all(row['spouse1'] in all_people and row['spouse2'] in all_people for row
 assert all(row['nation'] in tags for row in characters)
 assert all(row['nation'] in tags for row in assignments + counties)
 assert len({row['county'] for row in counties}) == len(counties)
+assert len({row['province'] for row in faith_provinces}) == len(faith_provinces)
+assert all(row['nation'] in ('OTT','EGY','TRI','PER') and row['rite'] == ('imami' if row['nation']=='PER' else 'hanafi') for row in faith_provinces)
+assert all(next(c['nation'] for c in counties if c['county']==row['county']) == row['nation'] for row in faith_provinces)
+assert all({row['county'] for row in faith_provinces if row['nation']==tag} == {row['county'] for row in counties if row['nation']==tag} for tag in ('EGY','TRI','PER'))
 assert len({row['ck3_title'] for row in assignments}) == len(assignments)
 expected_duchies = {'d_thessalonika':'BUL','d_strymon':'BUL','d_grodno':'LIT','d_latium':'PAP','d_spoleto':'PAP','d_ancona':'PAP','d_emilia':'ITA','d_romagna':'ITA','d_duortnoseatnu':'NOR','d_vuovdisamieana':'SWE','d_bar':'FRA','d_masuria':'GER','d_wielkopolska':'GER','d_courland':'UBD','d_latgalians':'UBD','d_friuli':'AUS','d_duklja':'CRB','d_thrace':'OTT','d_aegean_islands':'OTT','d_krete':'OTT','d_tripolitania':'TRI','d_syrte':'TRI','k_egypt':'EGY','k_nubia':'EGY','k_blemmyia':'EGY','d_karachev':'RUS','d_novosil':'RUS','d_don_valley':'UKR','d_tana':'UKR','d_azov':'UKR','d_skane':'SWE','d_upper_lorraine':'GER','d_guoldat':'FIN','k_jazira':'OTT'}
 complete_owner = {row['title']:row['nation'] for row in complete_titles}
@@ -40,6 +45,8 @@ print(f'{len(nations)} nations, {len(characters)} characters, {len(assignments)}
 bookmark = (root/'Crusaderreich/common/bookmarks/bookmarks/crusaderreich_1936.txt').read_text()
 character_history = (root/'Crusaderreich/history/characters/crusaderreich_1936.txt').read_text()
 title_history = (root/'Crusaderreich/history/titles/crusaderreich_1936.txt').read_text()
+province_history = (root/'Crusaderreich/history/provinces/crusaderreich_1936.txt').read_text()
+assert all(f'{row["province"]} = {{ 1936.1.1 = {{ rite = {row["rite"]} }} }} # {row["county"]}' in province_history for row in faith_provinces)
 for row in nations:
     if row['leader_id'] and row['ck3_region'] in {a['ck3_title'] for a in assignments} | {'e_germany','e_russia','e_carpathia', 'k_maghreb'}:
         person = next(c for c in characters if c['id'] == row['leader_id'])
@@ -94,13 +101,17 @@ assert 'government = feudal_government' in title_history.split('k_sicily = {', 1
 assert 'b_palermo = {\n    1936.1.1 = {\n        holder = 9000052\n        liege = c_palermo\n        government = feudal_government' in title_history
 assert character_history.count('9000063 = {') == 1
 assert all(f'{title} = {{\n    1936.1.1 = {{\n        holder = 9000063' in title_history for title in ('k_ireland','k_georgia'))
-assert next(c for c in characters if c['nation'] == 'OTT')['religion'] == 'maturidi'
-assert all(next(c for c in characters if c['nation'] == tag)['religion'] == 'maturidi' for tag in ('OTT','EGY','TRI'))
-assert 'rite =' not in character_history
+assert all(next(c for c in characters if c['nation'] == tag)['religion'] == 'hanafi' for tag in ('OTT','EGY','TRI'))
+assert 'religion =' not in character_history
+valid_rites = {'roman_rite','byzantine_rite','hanafi','shafii','maliki','imami','shinto'}
+assert set(re.findall(r'\brite = ([a-z_]+)', character_history + province_history)) <= valid_rites
+assert set(re.findall(r'\breligion = ([a-z_]+)', bookmark)) <= valid_rites
+assert not {'maturidi','ashari','catholic','orthodox'} & set(re.findall(r'\brite = ([a-z_]+)', character_history + province_history))
 for person_id in ('9000055','9000058','9000059'):
-    assert 'religion = maturidi' in character_history.split(f'{person_id} = {{',1)[1].split('\n}',1)[0]
+    assert 'rite = hanafi' in character_history.split(f'{person_id} = {{',1)[1].split('\n}',1)[0]
 assert '9000128 = {\n    name = "Ahmad Shah"\n    culture = "persian"' in character_history
-assert 'religion = imami' in character_history
+assert 'rite = imami' in character_history
+assert 'religion = hanafi' in bookmark and 'religion = imami' in bookmark
 assert 'k_armenia = {\n    1936.1.1 = {\n        holder = 9000055' in title_history
 assert 'k_persia = {\n    1936.1.1 = {\n        holder = 9000128' in title_history
 known_cultures = {'armenian','bulgarian','castilian','croatian','danish','dutch','egyptian','english','french','georgian','german','greek','hungarian','irish','italian','japanese','maghrebi','norwegian','persian','portuguese','russian','serbian','swabian','swedish','turkish','vlach'}
@@ -116,11 +127,10 @@ for row in marriages:
 for title in ('k_egypt','k_nubia','k_blemmyia','k_tripolitania'):
     assert f'{title} = {{\n    1936.1.1 = {{' in title_history
 assert 'd_sunni = {\n    1936.1.1 = {\n        holder = 9000055' in title_history
-assert 'e_cr_ottoman = {\n    1936.1.1 = {\n        holder = 9000055' in title_history
-assert 'e_cr_ottoman = { color = { 132 35 78 } capital = c_byzantion can_be_named_after_dynasty = no }' in custom_titles
-assert 'e_byzantium = {\n    1936.1.1 = {\n        holder = 9000055' not in title_history
-assert 'liege = e_cr_ottoman' in title_history.split('d_sunni = {',1)[1].split('}',1)[0]
-assert all('liege = e_cr_ottoman' in title_history.split(f'{title} = {{',1)[1].split('}',1)[0] for title in ('k_egypt','k_tripolitania'))
+assert 'e_byzantium = {\n    1936.1.1 = {\n        holder = 9000055' in title_history
+assert 'e_cr_ottoman' not in title_history + custom_titles
+assert 'liege = e_byzantium' in title_history.split('d_sunni = {',1)[1].split('}',1)[0]
+assert all('liege = e_byzantium' in title_history.split(f'{title} = {{',1)[1].split('}',1)[0] for title in ('k_egypt','k_tripolitania'))
 assert 'd_venice = {\n    1936.1.1 = {\n        holder = 9000050\n        liege = k_cr_italy' in title_history
 assert 'd_toscana = {\n    1936.1.1 = {\n        holder = 9000051\n        liege = k_cr_tuscany' in title_history
 print('Dynasty names, landed rulers, and 1936 realm hierarchy validated')

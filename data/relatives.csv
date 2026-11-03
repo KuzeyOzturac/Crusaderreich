@@ -59,6 +59,6 @@ id,name,birth,death,culture,dynasty,sex,rite
 9000122,Françoise,1844.8.14,1925.10.28,french,Orléans,female,roman_rite
 9000123,Henri,1908.7.5,,french,Orléans,male,roman_rite
 9000124,Isabelle,1878.5.7,,french,Orléans,female,roman_rite
-9000125,Muhammad Tawfiq,1852.11.15,1892.1.7,egyptian,Alawiyya,male,ashari
-9000126,Emina Ilhamy,1858.5.24,1931.6.19,egyptian,Alawiyya,female,ashari
-9000127,Muhammad al-Mahdi,1844.2.1,1902.6.1,maghrebi,Senussi,male,ashari
+9000125,Muhammad Tawfiq,1852.11.15,1892.1.7,egyptian,Alawiyya,male,hanafi
+9000126,Emina Ilhamy,1858.5.24,1931.6.19,egyptian,Alawiyya,female,hanafi
+9000127,Muhammad al-Mahdi,1844.2.1,1902.6.1,maghrebi,Senussi,male,hanafi

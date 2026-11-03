@@ -30,16 +30,16 @@ id,name,birth,death,culture,religion,nation,role,confidence
 9000044,Duarte II,1907.9.23,,portuguese,catholic,POR,head_of_state,scenario_reference
 9000045,Don-Kuban Council,,,russian,orthodox,DKU,map_proxy,map_proxy
 9000048,Azerbaijani Council,,,turkish,ashari,AZE,map_proxy,map_proxy
-9000049,Mohammed V,1909.8.10,,maghrebi,ashari,MOR,head_of_state,scenario_reference
+9000049,Mohammed V,1909.8.10,,maghrebi,maliki,MOR,head_of_state,scenario_reference
 9000050,Robert von Habsburg,1915.2.8,,german,catholic,ITA,head_of_state,user_defined
 9000051,Peter Ferdinand of Habsburg,1874.5.12,,german,catholic,TUS,head_of_state,user_defined
 9000052,Ferdinando III,1869.7.25,,italian,catholic,SIC,head_of_state,scenario_reference
 9000053,Pius XI,1857.5.31,,italian,catholic,PAP,map_proxy,map_proxy
 9000054,Victor Emmanuel III,1869.11.11,,italian,catholic,SRD,head_of_state,scenario_reference
-9000055,Abdülmecid II,1868.5.29,,turkish,maturidi,OTT,head_of_state,scenario_reference
+9000055,Abdülmecid II,1868.5.29,,turkish,hanafi,OTT,head_of_state,scenario_reference
 9000056,Hirohito,1901.4.29,,japanese,shinto,JAP,head_of_state,scenario_reference
 9000057,Wilhelmina,1880.8.31,,dutch,catholic,NED,head_of_state,historical
-9000058,Abbas II Alawiyya,1874.7.14,,egyptian,maturidi,EGY,head_of_state,user_defined
-9000059,Idris I Senussi,1889.3.12,,maghrebi,maturidi,TRI,head_of_state,user_defined
+9000058,Abbas II Alawiyya,1874.7.14,,egyptian,hanafi,EGY,head_of_state,user_defined
+9000059,Idris I Senussi,1889.3.12,,maghrebi,hanafi,TRI,head_of_state,user_defined
 9000063,Joachim von Hohenzollern,1890.12.17,,german,catholic,IRE,head_of_state,user_defined
 9000128,Ahmad Shah Qajar,1898.1.21,,persian,imami,PER,head_of_state,kaiserreich_reference

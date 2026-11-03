@@ -19,11 +19,18 @@ marriages = rows('marriages.csv')
 counties = rows('county_map.csv')
 assignments = rows('title_assignments.csv')
 complete_titles = rows('complete_titles.csv')
-custom_titles = {'e_cr_ottoman': ('c_byzantion', (132, 35, 78)), 'k_cr_corsica': ('c_ajaccio', (78, 67, 115)), 'k_cr_flanders_wallonia': ('c_brabant', (199, 166, 55)), 'k_cr_italy': ('c_lombardia', (64, 135, 91)), 'k_cr_tuscany': ('c_firenze', (139, 55, 55)), 'k_cr_papal_state': ('c_roma', (228, 210, 135))}
+faith_provinces = rows('faith_provinces.csv')
+custom_titles = {'k_cr_corsica': ('c_ajaccio', (78, 67, 115)), 'k_cr_flanders_wallonia': ('c_brabant', (199, 166, 55)), 'k_cr_italy': ('c_lombardia', (64, 135, 91)), 'k_cr_tuscany': ('c_firenze', (139, 55, 55)), 'k_cr_papal_state': ('c_roma', (228, 210, 135))}
 valid_title = {r['ck3_title'] for r in assignments} | {'e_germany', 'e_russia', 'e_carpathia', 'e_byzantium', 'k_maghreb', 'k_galicia-volhynia', 'k_sardinia', 'k_tripolitania'} | set(custom_titles)
 active = [n for n in nations if n['leader_id'] and n['ck3_region'] in valid_title]
 bookmarked = [n for n in active if people[n['leader_id']]['role'] == 'head_of_state' and 'republic' not in n['government'].lower() and 'theocracy' not in n['government'].lower()]
 # These are deliberately scenario defaults; exact identities and birth dates can be refined.
+def game_rite(value):
+    # CK3 1.20 game histories use rite IDs, including hanafi, roman_rite and imami.
+    # Older wiki examples use religion and obsolete faith IDs instead.
+    return {'catholic':'roman_rite','orthodox':'byzantine_rite','maturidi':'hanafi','ashari':'shafii'}.get(value, value or 'roman_rite')
+
+muslim_rites = {'hanafi','shafii','maliki','imami','ismaili','zayidi','ibadi'}
 culture = {'GER':'german','AUS':'german','GAL':'german','HUN':'hungarian','UKR':'russian','CRB':'croatian','FRA':'french','COR':'french','ENG':'english','POL':'german','FLW':'german','WHR':'german','LIT':'german','FIN':'german','RUS':'russian','UBD':'german','ALB':'german','SWI':'swabian','ICE':'norwegian','IRE':'irish','DEN':'danish','NOR':'norwegian','SWE':'swedish','BOH':'german','ROM':'vlach','SER':'serbian','BUL':'bulgarian','GRE':'greek','SPA':'castilian','POR':'portuguese','DKU':'russian','GEO':'georgian','AZE':'turkish','MOR':'maghrebi','ITA':'german','TUS':'german','SIC':'italian','PAP':'italian','SRD':'italian','OTT':'turkish','JAP':'japanese','NED':'dutch','EGY':'egyptian','TRI':'maghrebi','PER':'persian'}
 dynasty_name = {'GER':'Hohenzollern','POL':'Hohenzollern','FLW':'Hohenzollern','WHR':'Hohenzollern','AUS':'Habsburg','GAL':'Habsburg','HUN':'Habsburg','UKR':'Habsburg','CRB':'Habsburg','FRA':'Orléans','COR':'Bonaparte','ENG':'Windsor','RUS':'Romanov','LIT':'Urach','FIN':'Hesse-Kassel','UBD':'Mecklenburg-Schwerin','ALB':'Wied','BOH':'Habsburg','TUS':'Habsburg','ITA':'Habsburg','IRE':'Hohenzollern','GEO':'Hohenzollern','DEN':'Glücksburg','NOR':'Glücksburg','SWE':'Bernadotte','ROM':'Hohenzollern-Sigmaringen','SER':'Karađorđević','BUL':'Saxe-Coburg-Gotha','GRE':'Glücksburg','SPA':'Bourbon','POR':'Braganza','MOR':'Alaouite','SIC':'Bourbon-Two Sicilies','SRD':'Savoy','OTT':'Osman','JAP':'Yamato','NED':'Orange-Nassau','EGY':'Alawiyya','TRI':'Senussi','PER':'Qajar'}
 dynasty_ids = {name: 9900000 + index for index, name in enumerate(sorted(set(dynasty_name.values()) | {r['dynasty'] for r in relatives if r['dynasty']}), 1)}
@@ -42,7 +49,7 @@ for name, value in dynasty_ids.items():
 (mod/'common/dynasties/crusaderreich_dynasties.txt').write_text('\n'.join(dynasty_lines)+'\n')
 (mod/'common/landed_titles').mkdir(exist_ok=True)
 (mod/'common/landed_titles/crusaderreich_titles.txt').write_text('\n'.join(
-    f'{title} = {{ color = {{ {r} {g} {b} }} capital = {capital}' + (' can_be_named_after_dynasty = no' if title == 'e_cr_ottoman' else '') + ' }'
+    f'{title} = {{ color = {{ {r} {g} {b} }} capital = {capital} }}'
     for title, (capital, (r, g, b)) in custom_titles.items()
 )+'\n')
 chars = ['# Generated Crusaderreich 1936 rulers.']
@@ -55,10 +62,10 @@ for n in active:
     chars += [f"{p['id']} = {{",f'    name = "{given_name.get(n["tag"], p["name"])}"',f'    culture = "{p["culture"] or culture.get(n["tag"],"german")}"']
     if n['tag'] in dynasty_name:
         chars.append(f'    dynasty = {dynasty_ids[dynasty_name[n["tag"]]]}')
-    faith = p['religion'] or ('orthodox' if n['tag'] == 'RUS' else 'catholic')
+    faith = game_rite(p['religion'] or ('orthodox' if n['tag'] == 'RUS' else 'catholic'))
     if p['id'] in parents:
         chars += [f'    {role} = {parents[p["id"]][role]}' for role in ('father','mother') if parents[p['id']][role]]
-    chars += (['    female = yes'] if n['tag'] == 'NED' else []) + [f'    religion = {faith}',f'    {born} = {{ birth = yes }}','}','']
+    chars += (['    female = yes'] if n['tag'] == 'NED' else []) + [f'    rite = {faith}',f'    {born} = {{ birth = yes }}','}','']
 for p in relatives:
     chars += [f"{p['id']} = {{", f'    name = "{p["name"]}"', f'    culture = "{p["culture"]}"']
     if p['dynasty']:
@@ -66,8 +73,7 @@ for p in relatives:
     if p['id'] in parents:
         chars += [f'    {role} = {parents[p["id"]][role]}' for role in ('father','mother') if parents[p['id']][role]]
     if p['sex'] == 'female': chars.append('    female = yes')
-    relative_faith = {'roman_rite':'catholic','byzantine_rite':'orthodox'}.get(p['rite'], p['rite'] or 'catholic')
-    chars += [f'    religion = {relative_faith}', f'    {p["birth"]} = {{ birth = yes }}']
+    chars += [f'    rite = {game_rite(p["rite"])}', f'    {p["birth"]} = {{ birth = yes }}']
     if p['death']: chars.append(f'    {p["death"]} = {{ death = yes }}')
     chars += ['}', '']
 # Apply marriages to one spouse's history block, preserving reciprocal spouse links in CK3.
@@ -117,17 +123,23 @@ for title, holder in sorted(holders.items()):
             title_lines.append('        government = republic_government')
         elif 'theocracy' in nation['government'].lower():
             title_lines.append('        government = theocracy_government')
-        elif people[nation['leader_id']]['religion'] in ('ashari','maturidi','imami'):
+        elif game_rite(people[nation['leader_id']]['religion']) in muslim_rites:
             title_lines.append('        government = clan_government')
         else:
             title_lines.append('        government = feudal_government')
     title_lines += ['    }','}','']
 (mod/'history/titles/crusaderreich_1936.txt').write_text('\n'.join(title_lines))
+(mod/'history/provinces').mkdir(exist_ok=True)
+(mod/'history/provinces/crusaderreich_1936.txt').write_text('\n'.join(
+    ['# Capital barony faiths for Muslim-majority 1936 scenario counties.'] +
+    [f'{row["province"]} = {{ 1936.1.1 = {{ rite = {row["rite"]} }} }} # {row["county"]}' for row in faith_provinces]
+)+'\n')
 (mod/'common/bookmarks/groups/crusaderreich_groups.txt').write_text('bm_group_crusaderreich_1936 = {\n    default_start_date = 1936.1.1\n}\n')
 bookmark=['bm_crusaderreich_1936 = {','    start_date = 1936.1.1','    is_playable = yes','    group = bm_group_crusaderreich_1936','    weight = { value = 100 }']
 for n in bookmarked:
     p=people[n['leader_id']]
-    bookmark += ['    character = {',f'        name = "cr_bookmark_{n["tag"].lower()}"',f'        history_id = {p["id"]}',f'        title = {n["ck3_region"]}',f'        birth = {p["birth"] or "1885.1.1"}','        type = female' if n['tag'] == 'NED' else '        type = male',f'        dynasty = {dynasty_ids[dynasty_name[n["tag"]]]}','        dynasty_splendor_level = 1',f'        culture = {p["culture"] or culture.get(n["tag"],"german")}',f'        religion = {p["religion"] or ("orthodox" if n["tag"] == "RUS" else "catholic")}',f'        government = {"clan_government" if p["religion"] in ("ashari","maturidi","imami") else "feudal_government"}','        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"','    }']
+    rite = game_rite(p['religion'] or ('orthodox' if n['tag'] == 'RUS' else 'catholic'))
+    bookmark += ['    character = {',f'        name = "cr_bookmark_{n["tag"].lower()}"',f'        history_id = {p["id"]}',f'        title = {n["ck3_region"]}',f'        birth = {p["birth"] or "1885.1.1"}','        type = female' if n['tag'] == 'NED' else '        type = male',f'        dynasty = {dynasty_ids[dynasty_name[n["tag"]]]}','        dynasty_splendor_level = 1',f'        culture = {p["culture"] or culture.get(n["tag"],"german")}',f'        religion = {rite}',f'        government = {"clan_government" if rite in muslim_rites else "feudal_government"}','        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"','    }']
 bookmark += ['}','']
 (mod/'common/bookmarks/bookmarks/crusaderreich_1936.txt').write_text('\n'.join(bookmark))
 loc=['\ufeffl_english:',' bm_group_crusaderreich_1936:0 "Crusaderreich: 1936"',' bm_crusaderreich_1936:0 "The German Century"']

@@ -1,4 +1,3 @@
-e_cr_ottoman = { color = { 132 35 78 } capital = c_byzantion can_be_named_after_dynasty = no }
 k_cr_corsica = { color = { 78 67 115 } capital = c_ajaccio }
 k_cr_flanders_wallonia = { color = { 199 166 55 } capital = c_brabant }
 k_cr_italy = { color = { 64 135 91 } capital = c_lombardia }
