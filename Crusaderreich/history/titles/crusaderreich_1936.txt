@@ -1,4 +1,12 @@
 # Generated 1936 title holders for scenario-assigned titles.
+b_palermo = {
+    1936.1.1 = {
+        holder = 9000052
+        liege = c_palermo
+        government = feudal_government
+    }
+}
+
 c_aachen = {
     1936.1.1 = {
         holder = 9000001
@@ -36,7 +44,7 @@ c_abauj = {
 
 c_abkhazia = {
     1936.1.1 = {
-        holder = 9000046
+        holder = 9000063
         liege = k_georgia
     }
 }
@@ -78,7 +86,7 @@ c_abydos = {
 
 c_acampse = {
     1936.1.1 = {
-        holder = 9000046
+        holder = 9000063
         liege = k_georgia
     }
 }
@@ -143,12 +151,13 @@ c_agrigento = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
 c_ailech = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -563,6 +572,7 @@ c_apulia = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -729,7 +739,7 @@ c_atbara = {
 
 c_athlone = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -876,8 +886,8 @@ c_az-dhahira = {
 
 c_azov = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000022
+        liege = k_ruthenia
     }
 }
 
@@ -1039,6 +1049,7 @@ c_bari = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -1235,6 +1246,7 @@ c_benevento = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -1268,8 +1280,8 @@ c_berent = {
 
 c_berestye = {
     1936.1.1 = {
-        holder = 9000022
-        liege = k_ruthenia
+        holder = 9000028
+        liege = k_lithuania
     }
 }
 
@@ -1338,8 +1350,8 @@ c_beszterce = {
 
 c_bethen = {
     1936.1.1 = {
-        holder = 9000001
-        liege = e_germany
+        holder = 9000020
+        liege = k_galicia-volhynia
     }
 }
 
@@ -1464,8 +1476,8 @@ c_blankenburg = {
 
 c_blekinge = {
     1936.1.1 = {
-        holder = 9000035
-        liege = k_denmark
+        holder = 9000037
+        liege = k_sweden
     }
 }
 
@@ -1527,8 +1539,8 @@ c_bordeaux = {
 
 c_bornholm = {
     1936.1.1 = {
-        holder = 9000035
-        liege = k_denmark
+        holder = 9000037
+        liege = k_sweden
     }
 }
 
@@ -1632,7 +1644,7 @@ c_brecknockshire = {
 
 c_breifne = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -1921,6 +1933,7 @@ c_camarda = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -1977,6 +1990,7 @@ c_capua = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -2164,8 +2178,8 @@ c_cherso = {
 
 c_cherven = {
     1936.1.1 = {
-        holder = 9000020
-        liege = k_galicia-volhynia
+        holder = 9000022
+        liege = k_ruthenia
     }
 }
 
@@ -2241,8 +2255,8 @@ c_chulym = {
 
 c_cieszyn = {
     1936.1.1 = {
-        holder = 9000001
-        liege = e_germany
+        holder = 9000020
+        liege = k_galicia-volhynia
     }
 }
 
@@ -2325,7 +2339,7 @@ c_como = {
 
 c_connacht = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -2376,6 +2390,7 @@ c_cosenza = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -2577,7 +2592,7 @@ c_derna = {
 
 c_desmond = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -2717,8 +2732,8 @@ c_dorohoi = {
 
 c_dorohychyn = {
     1936.1.1 = {
-        holder = 9000022
-        liege = k_ruthenia
+        holder = 9000028
+        liege = k_lithuania
     }
 }
 
@@ -2773,7 +2788,7 @@ c_dresden = {
 
 c_dublin = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -2843,8 +2858,8 @@ c_dyrrachion = {
 
 c_east_kiilt = {
     1936.1.1 = {
-        holder = 9000030
-        liege = e_russia
+        holder = 9000029
+        liege = k_finland
     }
 }
 
@@ -2906,7 +2921,7 @@ c_elvas = {
 
 c_ennis = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -3160,6 +3175,7 @@ c_foggia = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -3494,8 +3510,8 @@ c_gola = {
 
 c_golden_hills = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000022
+        liege = k_ruthenia
     }
 }
 
@@ -3627,7 +3643,7 @@ c_gumuz = {
 
 c_guria = {
     1936.1.1 = {
-        holder = 9000046
+        holder = 9000063
         liege = k_georgia
     }
 }
@@ -3683,8 +3699,8 @@ c_halberstadt = {
 
 c_halland = {
     1936.1.1 = {
-        holder = 9000035
-        liege = k_denmark
+        holder = 9000037
+        liege = k_sweden
     }
 }
 
@@ -3809,7 +3825,7 @@ c_hereford = {
 
 c_hereti = {
     1936.1.1 = {
-        holder = 9000046
+        holder = 9000063
         liege = k_georgia
     }
 }
@@ -4271,8 +4287,8 @@ c_jimi = {
 
 c_jovvkuj = {
     1936.1.1 = {
-        holder = 9000030
-        liege = e_russia
+        holder = 9000029
+        liege = k_finland
     }
 }
 
@@ -4376,7 +4392,7 @@ c_kaiserslautern = {
 
 c_kakheti = {
     1936.1.1 = {
-        holder = 9000046
+        holder = 9000063
         liege = k_georgia
     }
 }
@@ -4453,8 +4469,8 @@ c_karabolam = {
 
 c_karachev = {
     1936.1.1 = {
-        holder = 9000022
-        liege = k_ruthenia
+        holder = 9000030
+        liege = e_russia
     }
 }
 
@@ -4495,7 +4511,7 @@ c_kartauzh = {
 
 c_kartli = {
     1936.1.1 = {
-        holder = 9000046
+        holder = 9000063
         liege = k_georgia
     }
 }
@@ -4537,8 +4553,8 @@ c_kazan = {
 
 c_kazanskaya = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000022
+        liege = k_ruthenia
     }
 }
 
@@ -4663,8 +4679,8 @@ c_khortytsia = {
 
 c_khumar = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000022
+        liege = k_ruthenia
     }
 }
 
@@ -4698,8 +4714,8 @@ c_kinda = {
 
 c_kintus = {
     1936.1.1 = {
-        holder = 9000030
-        liege = e_russia
+        holder = 9000029
+        liege = k_finland
     }
 }
 
@@ -4740,7 +4756,7 @@ c_kittila = {
 
 c_klarjeti = {
     1936.1.1 = {
-        holder = 9000046
+        holder = 9000063
         liege = k_georgia
     }
 }
@@ -4929,8 +4945,8 @@ c_koutajoki = {
 
 c_kozelsk = {
     1936.1.1 = {
-        holder = 9000022
-        liege = k_ruthenia
+        holder = 9000030
+        liege = e_russia
     }
 }
 
@@ -5048,8 +5064,8 @@ c_kursk = {
 
 c_kuzeytorg = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000022
+        liege = k_ruthenia
     }
 }
 
@@ -5162,6 +5178,7 @@ c_lecce = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -5188,7 +5205,7 @@ c_leicestershire = {
 
 c_leinster = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -5384,7 +5401,7 @@ c_lomzynska = {
 
 c_lori = {
     1936.1.1 = {
-        holder = 9000046
+        holder = 9000063
         liege = k_georgia
     }
 }
@@ -5426,8 +5443,8 @@ c_lubeck = {
 
 c_lubelska = {
     1936.1.1 = {
-        holder = 9000020
-        liege = k_galicia-volhynia
+        holder = 9000025
+        liege = k_poland
     }
 }
 
@@ -5659,6 +5676,7 @@ c_malta = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -5762,7 +5780,7 @@ c_mau = {
 
 c_mayo = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -5918,6 +5936,7 @@ c_messina = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -5930,8 +5949,8 @@ c_messukyla = {
 
 c_metz = {
     1936.1.1 = {
-        holder = 9000017
-        liege = k_france
+        holder = 9000001
+        liege = e_germany
     }
 }
 
@@ -5979,8 +5998,8 @@ c_millau = {
 
 c_millerovo = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000022
+        liege = k_ruthenia
     }
 }
 
@@ -6273,8 +6292,8 @@ c_namur = {
 
 c_nancy = {
     1936.1.1 = {
-        holder = 9000017
-        liege = k_france
+        holder = 9000001
+        liege = e_germany
     }
 }
 
@@ -6289,6 +6308,7 @@ c_napoli = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -6413,8 +6433,8 @@ c_neuchatel = {
 
 c_neufchateau = {
     1936.1.1 = {
-        holder = 9000017
-        liege = k_france
+        holder = 9000001
+        liege = e_germany
     }
 }
 
@@ -6595,8 +6615,8 @@ c_novogrudok = {
 
 c_novosil = {
     1936.1.1 = {
-        holder = 9000022
-        liege = k_ruthenia
+        holder = 9000030
+        liege = e_russia
     }
 }
 
@@ -6651,15 +6671,15 @@ c_odessa = {
 
 c_odishi = {
     1936.1.1 = {
-        holder = 9000046
+        holder = 9000063
         liege = k_georgia
     }
 }
 
 c_odoyev = {
     1936.1.1 = {
-        holder = 9000022
-        liege = k_ruthenia
+        holder = 9000030
+        liege = e_russia
     }
 }
 
@@ -6798,7 +6818,7 @@ c_orhei = {
 
 c_oriel = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -6826,7 +6846,7 @@ c_orleans = {
 
 c_ormond = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -6861,7 +6881,7 @@ c_osnabruck = {
 
 c_ossory = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -6975,6 +6995,7 @@ c_palermo = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -7407,8 +7428,8 @@ c_pula = {
 
 c_puttlingen = {
     1936.1.1 = {
-        holder = 9000017
-        liege = k_france
+        holder = 9000001
+        liege = e_germany
     }
 }
 
@@ -7505,8 +7526,8 @@ c_qusayr = {
 
 c_radomska = {
     1936.1.1 = {
-        holder = 9000020
-        liege = k_galicia-volhynia
+        holder = 9000025
+        liege = k_poland
     }
 }
 
@@ -7547,8 +7568,8 @@ c_rashka = {
 
 c_ratibor = {
     1936.1.1 = {
-        holder = 9000001
-        liege = e_germany
+        holder = 9000020
+        liege = k_galicia-volhynia
     }
 }
 
@@ -7577,6 +7598,7 @@ c_reggio_calabria = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -7675,6 +7697,7 @@ c_rossano = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -7757,8 +7780,8 @@ c_ryazan = {
 
 c_saarbrucken = {
     1936.1.1 = {
-        holder = 9000017
-        liege = k_france
+        holder = 9000001
+        liege = e_germany
     }
 }
 
@@ -7829,6 +7852,7 @@ c_salerno = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -7911,8 +7935,8 @@ c_sanda = {
 
 c_sandomierska = {
     1936.1.1 = {
-        holder = 9000020
-        liege = k_galicia-volhynia
+        holder = 9000025
+        liege = k_poland
     }
 }
 
@@ -7967,8 +7991,8 @@ c_sartlan = {
 
 c_sarysyn = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000022
+        liege = k_ruthenia
     }
 }
 
@@ -8142,8 +8166,8 @@ c_sevilla = {
 
 c_sevsk = {
     1936.1.1 = {
-        holder = 9000022
-        liege = k_ruthenia
+        holder = 9000030
+        liege = e_russia
     }
 }
 
@@ -8340,6 +8364,7 @@ c_siracusa = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -8380,8 +8405,8 @@ c_sjeltie = {
 
 c_skane = {
     1936.1.1 = {
-        holder = 9000035
-        liege = k_denmark
+        holder = 9000037
+        liege = k_sweden
     }
 }
 
@@ -8639,8 +8664,8 @@ c_stettin = {
 
 c_stezycka = {
     1936.1.1 = {
-        holder = 9000020
-        liege = k_galicia-volhynia
+        holder = 9000025
+        liege = k_poland
     }
 }
 
@@ -8807,7 +8832,7 @@ c_suzdal = {
 
 c_svaneti = {
     1936.1.1 = {
-        holder = 9000046
+        holder = 9000063
         liege = k_georgia
     }
 }
@@ -8989,8 +9014,8 @@ c_tamiso = {
 
 c_tana = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000022
+        liege = k_ruthenia
     }
 }
 
@@ -9024,7 +9049,7 @@ c_tango = {
 
 c_tao = {
     1936.1.1 = {
-        holder = 9000046
+        holder = 9000063
         liege = k_georgia
     }
 }
@@ -9108,7 +9133,7 @@ c_taza = {
 
 c_tbilisi = {
     1936.1.1 = {
-        holder = 9000046
+        holder = 9000063
         liege = k_georgia
     }
 }
@@ -9143,8 +9168,8 @@ c_temne = {
 
 c_ter = {
     1936.1.1 = {
-        holder = 9000030
-        liege = e_russia
+        holder = 9000029
+        liege = k_finland
     }
 }
 
@@ -9234,7 +9259,7 @@ c_thiers = {
 
 c_thomond = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -9325,8 +9350,8 @@ c_tlemcen = {
 
 c_tmutarakan = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000022
+        liege = k_ruthenia
     }
 }
 
@@ -9521,8 +9546,8 @@ c_treviso = {
 
 c_trier = {
     1936.1.1 = {
-        holder = 9000017
-        liege = k_france
+        holder = 9000001
+        liege = e_germany
     }
 }
 
@@ -9682,7 +9707,7 @@ c_ulm = {
 
 c_ulster = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -10746,7 +10771,7 @@ d_aarjetje = {
 
 d_abkhazia = {
     1936.1.1 = {
-        holder = 9000046
+        holder = 9000063
         liege = k_georgia
     }
 }
@@ -10930,6 +10955,7 @@ d_apulia = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -10998,8 +11024,8 @@ d_auvergne = {
 
 d_azov = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000022
+        liege = k_ruthenia
     }
 }
 
@@ -11126,6 +11152,7 @@ d_benevento = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -11252,6 +11279,7 @@ d_calabria = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -11287,6 +11315,7 @@ d_capua = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -11383,7 +11412,7 @@ d_coimbra = {
 
 d_connacht = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -11502,8 +11531,8 @@ d_dobrudja = {
 
 d_don_valley = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000022
+        liege = k_ruthenia
     }
 }
 
@@ -11691,7 +11720,7 @@ d_genoa = {
 
 d_georgia = {
     1936.1.1 = {
-        holder = 9000046
+        holder = 9000063
         liege = k_georgia
     }
 }
@@ -11747,8 +11776,8 @@ d_grodno = {
 
 d_guoldat = {
     1936.1.1 = {
-        holder = 9000030
-        liege = e_russia
+        holder = 9000029
+        liege = k_finland
     }
 }
 
@@ -11909,8 +11938,8 @@ d_kanem = {
 
 d_karachev = {
     1936.1.1 = {
-        holder = 9000022
-        liege = k_ruthenia
+        holder = 9000030
+        liege = e_russia
     }
 }
 
@@ -12084,7 +12113,7 @@ d_lebanon = {
 
 d_leinster = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -12238,7 +12267,7 @@ d_mazovia = {
 
 d_meath = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -12301,7 +12330,7 @@ d_moray = {
 
 d_munster = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -12434,8 +12463,8 @@ d_novgorod = {
 
 d_novosil = {
     1936.1.1 = {
-        holder = 9000022
-        liege = k_ruthenia
+        holder = 9000030
+        liege = e_russia
     }
 }
 
@@ -12716,6 +12745,7 @@ d_salerno = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -12815,6 +12845,7 @@ d_sicily = {
     1936.1.1 = {
         holder = 9000052
         liege = k_sicily
+        government = feudal_government
     }
 }
 
@@ -12834,8 +12865,8 @@ d_sjaelland = {
 
 d_skane = {
     1936.1.1 = {
-        holder = 9000035
-        liege = k_denmark
+        holder = 9000037
+        liege = k_sweden
     }
 }
 
@@ -12974,14 +13005,14 @@ d_tahert = {
 
 d_tana = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000022
+        liege = k_ruthenia
     }
 }
 
 d_tao-klarjeti = {
     1936.1.1 = {
-        holder = 9000046
+        holder = 9000063
         liege = k_georgia
     }
 }
@@ -13170,7 +13201,7 @@ d_tyrol = {
 
 d_ulster = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = k_ireland
     }
 }
@@ -13191,8 +13222,8 @@ d_upper_burgundy = {
 
 d_upper_lorraine = {
     1936.1.1 = {
-        holder = 9000017
-        liege = k_france
+        holder = 9000001
+        liege = e_germany
     }
 }
 
@@ -13796,9 +13827,9 @@ k_galicia-volhynia = {
 
 k_georgia = {
     1936.1.1 = {
-        holder = 9000046
+        holder = 9000063
         liege = 0
-        government = republic_government
+        government = feudal_government
     }
 }
 
@@ -13827,9 +13858,9 @@ k_hungary = {
 
 k_ireland = {
     1936.1.1 = {
-        holder = 9000034
+        holder = 9000063
         liege = 0
-        government = republic_government
+        government = feudal_government
     }
 }
 
@@ -13917,6 +13948,7 @@ k_naples = {
     1936.1.1 = {
         holder = 9000052
         liege = 0
+        government = feudal_government
     }
 }
 

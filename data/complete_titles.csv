@@ -36,7 +36,7 @@ d_asturias,SPA,2
 d_athens,GRE,3
 d_augsburg,GER,5
 d_auvergne,FRA,4
-d_azov,DKU,3
+d_azov,UKR,3
 d_bacs,HUN,3
 d_badajoz,SPA,5
 d_baghdad,OTT,5
@@ -85,7 +85,6 @@ d_chaldia,OTT,4
 d_champagne,FRA,7
 d_charsianon,OTT,3
 d_chernigov,UKR,5
-d_cherven_cities,GAL,3
 d_chudia,RUS,3
 d_cibyrrhaeot,OTT,3
 d_cilicia,OTT,4
@@ -108,7 +107,7 @@ d_dauphine,FRA,5
 d_deheubarth,ENG,5
 d_delta,EGY,4
 d_dobrudja,BUL,2
-d_don_valley,DKU,4
+d_don_valley,UKR,4
 d_duklja,CRB,3
 d_duortnoseatnu,NOR,5
 d_dyrrachion,ALB,5
@@ -143,7 +142,7 @@ d_gotland,SWE,1
 d_granada,SPA,4
 d_greater_armenia,ARM,6
 d_grodno,LIT,3
-d_guoldat,RUS,4
+d_guoldat,FIN,4
 d_gwynedd,ENG,5
 d_gyor,HUN,4
 d_halogaland,NOR,3
@@ -166,7 +165,7 @@ d_jylland,DEN,4
 d_kagha,COR,3
 d_kairouan,COR,3
 d_kanem,COR,2
-d_karachev,UKR,3
+d_karachev,RUS,3
 d_karelia,FIN,7
 d_kawar,COR,3
 d_kazan,RUS,5
@@ -193,7 +192,6 @@ d_lausitz,GER,5
 d_lebanon,OTT,2
 d_leinster,IRE,2
 d_leon,SPA,5
-d_lesser_poland,GAL,7
 d_levedia,UKR,3
 d_lithuanians,LIT,4
 d_livonia,UBD,3
@@ -241,7 +239,7 @@ d_north_saikaido,JAP,6
 d_northern_isles,NOR,3
 d_northumberland,ENG,3
 d_novgorod,RUS,5
-d_novosil,UKR,2
+d_novosil,RUS,2
 d_nyitra,HUN,9
 d_oltenia,ROM,4
 d_oman,OTT,6
@@ -298,7 +296,7 @@ d_sibir,RUS,4
 d_sicily,SIC,5
 d_sinai,EGY,3
 d_sjaelland,DEN,3
-d_skane,DEN,4
+d_skane,SWE,4
 d_slavonia,CRB,4
 d_slesvig,DEN,3
 d_smaland,SWE,6
@@ -317,7 +315,7 @@ d_syrte,TRI,3
 d_tadmekka,COR,2
 d_tafilalt,MOR,3
 d_tahert,COR,4
-d_tana,DKU,2
+d_tana,UKR,2
 d_tao-klarjeti,GEO,4
 d_tara,RUS,3
 d_temes,HUN,5
@@ -348,8 +346,7 @@ d_tyrol,AUS,3
 d_ulster,IRE,3
 d_ungvar,HUN,6
 d_upper_burgundy,FRA,3
-d_upper_lorraine,FRA,6
-d_upper_silesia,GER,6
+d_upper_lorraine,GER,6
 d_uraltau,RUS,4
 d_urdunn,OTT,3
 d_usora,CRB,4
@@ -370,7 +367,6 @@ d_viscaya,SPA,2
 d_visegrad,HUN,5
 d_vogulia,RUS,3
 d_volga_bulgaria,RUS,5
-d_volhynia,UKR,4
 d_vologda,RUS,4
 d_vuovdisamieana,SWE,4
 d_wasit,OTT,2
@@ -400,11 +396,9 @@ k_bohemia,BOH,14
 k_brittany,FRA,6
 k_bulgaria,BUL,24
 k_castille,SPA,7
-k_caucasus,DKU,14
 k_croatia,CRB,24
 k_cyprus,OTT,2
 k_dacia,ROM,12
-k_denmark,DEN,14
 k_egypt,EGY,28
 k_england,ENG,40
 k_esthonia,UBD,7
@@ -429,9 +423,9 @@ k_nubia,EGY,23
 k_ob,RUS,31
 k_opolye,RUS,11
 k_pomerania,GER,20
+k_pontic_steppe,UKR,21
 k_pontus,OTT,13
 k_portugal,POR,6
-k_ruthenia,UKR,23
 k_sahara,COR,15
 k_saxony,GER,20
 k_scotland,ENG,26

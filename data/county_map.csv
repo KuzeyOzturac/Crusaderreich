@@ -124,7 +124,7 @@ c_aydhab,EGY,k_blemmyia
 c_ayrshire,ENG,k_scotland
 c_aytos,BUL,k_bulgaria
 c_az-dhahira,OTT,k_arabia
-c_azov,DKU,k_caucasus
+c_azov,UKR,d_azov
 c_azysia,OTT,k_pontus
 c_baalbek,OTT,k_syria
 c_babruysk,WHR,k_white_rus
@@ -180,7 +180,7 @@ c_beograd,SER,k_serbia
 c_berchtesgaden,GER,k_bavaria
 c_bereg,HUN,k_hungary
 c_berent,GER,k_pomerania
-c_berestye,UKR,d_volhynia
+c_berestye,LIT,c_berestye
 c_bergh,GER,e_germany
 c_berkshire,ENG,k_england
 c_berlin,GER,k_pomerania
@@ -190,7 +190,7 @@ c_berry,FRA,k_france
 c_besancon,FRA,d_upper_burgundy
 c_besinada,DKU,k_caucasus
 c_beszterce,HUN,k_hungary
-c_bethen,GER,d_upper_silesia
+c_bethen,GAL,c_bethen
 c_bezichi,RUS,k_novgorod
 c_beziers,FRA,k_aquitaine
 c_bigorre,FRA,k_aquitaine
@@ -208,7 +208,7 @@ c_bithynia,OTT,k_nikaea
 c_biton,SWE,c_biton
 c_bizen,JAP,k_yamato
 c_blankenburg,GER,k_east_francia
-c_blekinge,DEN,k_denmark
+c_blekinge,SWE,d_skane
 c_blois,FRA,k_france
 c_bodele,COR,k_sahara
 c_bodrog,HUN,k_hungary
@@ -217,7 +217,7 @@ c_boleslav,BOH,k_bohemia
 c_bolghar,RUS,k_volga_bulgaria
 c_bologna,ITA,d_romagna
 c_bordeaux,FRA,k_aquitaine
-c_bornholm,DEN,k_denmark
+c_bornholm,SWE,d_skane
 c_bornu,COR,k_kanem
 c_borsod,HUN,k_hungary
 c_bothin,NOR,k_norway
@@ -308,7 +308,7 @@ c_chelabinsk,RUS,k_bashkiria
 c_cherkassy,UKR,d_yedisan
 c_chernigov,UKR,k_ruthenia
 c_cherso,CRB,k_croatia
-c_cherven,GAL,d_cherven_cities
+c_cherven,UKR,c_cherven
 c_cheshire,ENG,k_england
 c_chich,RUS,e_siberia
 c_chikugo,JAP,k_tsukushi
@@ -319,7 +319,7 @@ c_choklema,RUS,e_russia
 c_chonae,OTT,k_nikaea
 c_chornobyl,UKR,k_ruthenia
 c_chulym,RUS,e_siberia
-c_cieszyn,GER,d_upper_silesia
+c_cieszyn,GAL,c_cieszyn
 c_cilicia,OTT,k_anatolia
 c_clermont,FRA,k_france
 c_clermont_sur_allier,FRA,k_aquitaine
@@ -387,7 +387,7 @@ c_dolgujar,RUS,e_siberia
 c_dongola,EGY,k_nubia
 c_donjikraji,CRB,k_croatia
 c_dorohoi,GAL,d_bukovina
-c_dorohychyn,UKR,d_volhynia
+c_dorohychyn,LIT,c_dorohychyn
 c_dorostorum,BUL,k_bulgaria
 c_dorpat,UBD,k_esthonia
 c_dorset,ENG,k_england
@@ -405,7 +405,7 @@ c_durne,GER,k_east_francia
 c_duvan,RUS,k_bashkiria
 c_dvin,ARM,k_armenia
 c_dyrrachion,ALB,d_dyrrachion
-c_east_kiilt,RUS,d_guoldat
+c_east_kiilt,FIN,d_guoldat
 c_east_riding,ENG,k_england
 c_echigo,JAP,k_azuma
 c_echizen,JAP,k_azuma
@@ -498,7 +498,7 @@ c_gloucestershire,ENG,k_england
 c_gnezdovo,WHR,k_white_rus
 c_gnieznienska,GER,d_wielkopolska
 c_gola,COR,k_guinea
-c_golden_hills,DKU,d_don_valley
+c_golden_hills,UKR,d_don_valley
 c_gorlitz,GER,d_meissen
 c_gorz,AUS,d_friuli
 c_gostyninska,POL,k_poland
@@ -525,7 +525,7 @@ c_hadrianopolis,OTT,k_nikaea
 c_hail,OTT,k_arabia
 c_hainaut,FLW,d_brabant
 c_halberstadt,GER,k_east_francia
-c_halland,DEN,k_denmark
+c_halland,SWE,d_skane
 c_hallstatt,GER,k_bavaria
 c_halsingland,SWE,k_sweden
 c_halych,GAL,d_halych
@@ -609,7 +609,7 @@ c_jerusalem,OTT,k_jerusalem
 c_jihlava,BOH,k_bohemia
 c_jilat,OTT,k_arabia
 c_jimi,COR,k_kanem
-c_jovvkuj,RUS,d_guoldat
+c_jovvkuj,FIN,d_guoldat
 c_julevadno,SWE,d_vuovdisamieana
 c_julfar,OTT,k_arabia
 c_juterbog,GER,d_lausitz
@@ -635,7 +635,7 @@ c_kanem,COR,k_kanem
 c_kankan,COR,k_mali
 c_karabash,RUS,k_bashkiria
 c_karabolam,RUS,k_volga_bulgaria
-c_karachev,UKR,k_ruthenia
+c_karachev,RUS,d_karachev
 c_karasjohka,NOR,c_karasjohka
 c_karbala,OTT,k_mesopotamia
 c_kargopol,RUS,e_russia
@@ -647,7 +647,7 @@ c_kassel,GER,k_east_francia
 c_katagum,COR,k_kanem
 c_kawachi,JAP,k_yamato
 c_kazan,RUS,k_volga_bulgaria
-c_kazanskaya,DKU,d_don_valley
+c_kazanskaya,UKR,d_don_valley
 c_kazanskoye,RUS,e_siberia
 c_kazusa,JAP,k_azuma
 c_kazym,RUS,e_siberia
@@ -665,12 +665,12 @@ c_khaybar,OTT,k_arabia
 c_kherson,UKR,d_kizilyedisan
 c_kholmogory,RUS,e_russia
 c_khortytsia,UKR,d_red_levedia
-c_khumar,DKU,k_caucasus
+c_khumar,UKR,d_azov
 c_kiev,UKR,k_ruthenia
 c_kii,JAP,k_yamato
 c_kiia,RUS,e_siberia
 c_kinda,SWE,k_sweden
-c_kintus,RUS,d_guoldat
+c_kintus,FIN,d_guoldat
 c_kirillov,RUS,e_russia
 c_kirkuk,OTT,k_mesopotamia
 c_kisi,COR,k_mali
@@ -703,7 +703,7 @@ c_korosten,UKR,k_ruthenia
 c_korsun,UKR,k_ruthenia
 c_koshuki,RUS,e_siberia
 c_koutajoki,FIN,d_giemajohka
-c_kozelsk,UKR,k_ruthenia
+c_kozelsk,RUS,d_karachev
 c_kozuke,JAP,k_azuma
 c_krajna,GER,d_wielkopolska
 c_krakowska,GAL,c_krakowska
@@ -720,7 +720,7 @@ c_kumertau,RUS,k_volga_bulgaria
 c_kuranko,COR,k_mali
 c_kurgus,EGY,k_nubia
 c_kursk,UKR,k_ruthenia
-c_kuzeytorg,DKU,d_tana
+c_kuzeytorg,UKR,d_tana
 c_kyin,RUS,e_siberia
 c_kyzistra,OTT,k_anatolia
 c_la_marche,FRA,k_aquitaine
@@ -774,7 +774,7 @@ c_lower_dniepr,UKR,d_kizilyedisan
 c_lower_galatia,OTT,k_anatolia
 c_lozova,UKR,d_levedia
 c_lubeck,GER,k_saxony
-c_lubelska,GAL,d_lesser_poland
+c_lubelska,POL,c_lubelska
 c_lubusz,GER,d_wielkopolska
 c_lucca,TUS,d_toscana
 c_luki,RUS,k_novgorod
@@ -846,14 +846,14 @@ c_mesopotamia,ARM,k_armenia
 c_messenia,GRE,k_hellas
 c_messina,SIC,k_sicily
 c_messukyla,FIN,k_finland
-c_metz,FRA,d_upper_lorraine
+c_metz,GER,d_upper_lorraine
 c_metzovo,GRE,k_epirus
 c_miastko,GER,k_pomerania
 c_middlesex,ENG,k_england
 c_mikawa,JAP,k_azuma
 c_miliez,GER,d_lower_silesia
 c_millau,FRA,k_aquitaine
-c_millerovo,DKU,d_don_valley
+c_millerovo,UKR,d_don_valley
 c_mimasaka,JAP,k_yamato
 c_minden,GER,k_saxony
 c_mino,JAP,k_azuma
@@ -895,7 +895,7 @@ c_najera,SPA,k_navarra
 c_nalu,COR,k_guinea
 c_namdalfylki,NOR,k_norway
 c_namur,GER,d_luxembourg
-c_nancy,FRA,d_upper_lorraine
+c_nancy,GER,d_upper_lorraine
 c_nantes,FRA,k_brittany
 c_napoli,SIC,k_sicily
 c_naqis,EGY,k_blemmyia
@@ -915,7 +915,7 @@ c_negev,OTT,k_jerusalem
 c_neopatras,GRE,k_thessalonika
 c_neramkary,RUS,e_siberia
 c_neuchatel,SWI,d_transjurania
-c_neufchateau,FRA,d_upper_lorraine
+c_neufchateau,GER,d_upper_lorraine
 c_nevers,FRA,k_france
 c_niani,COR,k_mali
 c_nice,FRA,d_provence
@@ -941,7 +941,7 @@ c_novara,SRD,d_piedmonte
 c_novgorod,RUS,k_novgorod
 c_novgorod_seversky,UKR,k_ruthenia
 c_novogrudok,LIT,d_grodno
-c_novosil,UKR,k_ruthenia
+c_novosil,RUS,d_novosil
 c_nuon,COR,k_guinea
 c_nurnberg,GER,k_east_francia
 c_nyitra,HUN,k_hungary
@@ -950,7 +950,7 @@ c_nysa,GER,d_upper_silesia
 c_ob,RUS,e_siberia
 c_odessa,UKR,d_kizilyedisan
 c_odishi,GEO,k_georgia
-c_odoyev,UKR,k_ruthenia
+c_odoyev,RUS,d_novosil
 c_ohrid,BUL,k_bulgaria
 c_oki,JAP,k_yamato
 c_oland,SWE,k_sweden
@@ -1057,7 +1057,7 @@ c_pskov,RUS,k_novgorod
 c_pudozh,RUS,e_russia
 c_puigcerda,SPA,k_aragon
 c_pula,AUS,d_istria
-c_puttlingen,FRA,d_upper_lorraine
+c_puttlingen,GER,d_upper_lorraine
 c_putyvl,UKR,k_ruthenia
 c_qadisiya,OTT,k_mesopotamia
 c_qaryatan,OTT,k_syria
@@ -1071,13 +1071,13 @@ c_quercy,FRA,k_aquitaine
 c_qurta,EGY,k_nubia
 c_qus,EGY,k_egypt
 c_qusayr,EGY,k_egypt
-c_radomska,GAL,d_lesser_poland
+c_radomska,POL,c_radomska
 c_ragusa,CRB,k_croatia
 c_rama,CRB,k_croatia
 c_raniriki,NOR,k_norway
 c_raseiniai,LIT,k_lithuania
 c_rashka,SER,k_serbia
-c_ratibor,GER,d_upper_silesia
+c_ratibor,GAL,c_ratibor
 c_ravenna,ITA,d_romagna
 c_ravensburg,GER,k_bavaria
 c_regensburg,GER,k_bavaria
@@ -1107,7 +1107,7 @@ c_ruppin,GER,k_pomerania
 c_rusa,RUS,k_novgorod
 c_rusafa,OTT,k_mesopotamia
 c_ryazan,RUS,k_opolye
-c_saarbrucken,FRA,d_upper_lorraine
+c_saarbrucken,GER,d_upper_lorraine
 c_sable,FRA,k_france
 c_sacz,GAL,d_lesser_poland
 c_safata,OTT,k_mesopotamia
@@ -1129,7 +1129,7 @@ c_samman,OTT,k_arabia
 c_samosata,OTT,k_syria
 c_sancerre,FRA,k_france
 c_sanda,COR,k_guinea
-c_sandomierska,GAL,d_lesser_poland
+c_sandomierska,POL,c_sandomierska
 c_sankt_gallen,SWI,d_currezia
 c_sankt_polten,AUS,d_osterreich
 c_santiago,SPA,k_spanish_galicia
@@ -1137,7 +1137,7 @@ c_sanuki,JAP,k_yamato
 c_saris,HUN,k_hungary
 c_sarkel,DKU,k_caucasus
 c_sartlan,RUS,e_siberia
-c_sarysyn,DKU,d_don_valley
+c_sarysyn,UKR,d_don_valley
 c_satakunta,FIN,k_finland
 c_satala,OTT,k_pontus
 c_satfura,COR,d_tunis
@@ -1162,7 +1162,7 @@ c_settsu,JAP,k_yamato
 c_sevede,SWE,k_sweden
 c_severin,ROM,k_dacia
 c_sevilla,SPA,k_andalusia
-c_sevsk,UKR,k_ruthenia
+c_sevsk,RUS,d_karachev
 c_sfax,COR,k_africa
 c_shaki,AZE,d_shirvan
 c_shamir,EGY,k_nubia
@@ -1196,7 +1196,7 @@ c_siun,RUS,k_volga_bulgaria
 c_siwa,EGY,k_egypt
 c_sjaelland,DEN,k_denmark
 c_sjeltie,SWE,d_aarjetje
-c_skane,DEN,k_denmark
+c_skane,SWE,d_skane
 c_skara,SWE,k_sweden
 c_skolt,FIN,d_giemajohka
 c_skopje,BUL,k_bulgaria
@@ -1233,7 +1233,7 @@ c_staffordshire,ENG,k_england
 c_starodub,UKR,k_ruthenia
 c_stendal,GER,k_saxony
 c_stettin,GER,k_pomerania
-c_stezycka,GAL,d_lesser_poland
+c_stezycka,POL,c_stezycka
 c_stoenesti,ROM,k_moldavia
 c_strassburg,GER,d_alsace
 c_strathearn,ENG,k_scotland
@@ -1283,7 +1283,7 @@ c_talava,UBD,d_latgalians
 c_tall_hamid,OTT,k_anatolia
 c_tamasna,MOR,d_marrakesh
 c_tamiso,COR,k_guinea
-c_tana,DKU,d_tana
+c_tana,UKR,d_tana
 c_tanas,COR,d_alger
 c_tanba,JAP,k_yamato
 c_tangiers,MOR,d_rif
@@ -1305,7 +1305,7 @@ c_tecklenburg,GER,k_saxony
 c_telemark,NOR,k_norway
 c_temes,HUN,k_hungary
 c_temne,COR,k_guinea
-c_ter,RUS,d_guoldat
+c_ter,FIN,d_guoldat
 c_teramo,PAP,d_spoleto
 c_terebovl,GAL,d_halych
 c_terektai,RUS,e_siberia
@@ -1331,7 +1331,7 @@ c_timbi,COR,k_mali
 c_tinmallal,MOR,d_marrakesh
 c_tivoli,PAP,d_latium
 c_tlemcen,COR,d_tlemcen
-c_tmutarakan,DKU,k_caucasus
+c_tmutarakan,UKR,d_azov
 c_tobol,RUS,e_siberia
 c_tobruk,EGY,k_egypt
 c_toledo,SPA,k_andalusia
@@ -1359,7 +1359,7 @@ c_trebizond,OTT,k_pontus
 c_trenscen,HUN,k_hungary
 c_trent,ITA,d_lombardia
 c_treviso,ITA,d_verona
-c_trier,FRA,d_upper_lorraine
+c_trier,GER,d_upper_lorraine
 c_tripoli,OTT,k_syria
 c_tripolitana,TRI,d_tripolitania
 c_troyes,FRA,k_france

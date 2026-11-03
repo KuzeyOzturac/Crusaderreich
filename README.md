@@ -20,6 +20,8 @@ The current adaptation gives Bohemia to Albrecht Franz von Habsburg, Tuscany to 
 
 Run `python3 tools/validate.py` for data consistency. To rebuild the map from CK3's landed-title files, run `python3 tools/build_map.py /path/to/game/common/landed_titles`, then `python3 tools/generate_scenario.py`. Both generators write only inside the mod repository.
 
+The latest border pass transfers the specified Silesian, Polish, Lithuanian, Ukrainian, Russian, Scandinavian, and Lorraine counties and duchies. Joachim von Hohenzollern, a son of Wilhelm II, holds both Ireland and Georgia in this alternate history. Ferdinando's Sicilian titles and Palermo castle use feudal government. The Ottoman ruler uses CK3's Maturidi Sunni faith, the closest built-in representation of Hanafi Sunni practice, and holds the Sunni caliphate title. These changes require an in-game check after starting a new 1936 campaign.
+
 ## References
 
 The 1936 European layout was compared with the [Kaiserreich map supplied by the user](https://i.redd.it/qd9pz84qxji41.png) and [Kaiserreich's public starting-state files](https://github.com/Kaiserreich/Kaiserreich-4) at commit `699a5d0f49236e5033fa619f02a2078e93b84f5c`. CK3 file formats were checked against the user's game-data archive and the public [CK3 modding wiki mirror](https://github.com/jesec/ck3-modding-wiki). Those reference files are not copied into the mod.

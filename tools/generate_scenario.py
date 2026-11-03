@@ -25,9 +25,9 @@ active = [n for n in nations if n['leader_id'] and n['ck3_region'] in valid_titl
 bookmarked = [n for n in active if people[n['leader_id']]['role'] == 'head_of_state' and 'republic' not in n['government'].lower() and 'theocracy' not in n['government'].lower()]
 # These are deliberately scenario defaults; exact identities and birth dates can be refined.
 culture = {'GER':'german','AUS':'german','GAL':'german','HUN':'hungarian','UKR':'russian','CRB':'croatian','FRA':'french','COR':'french','ENG':'english','POL':'german','FLW':'german','WHR':'german','LIT':'german','FIN':'german','RUS':'russian','UBD':'german','ALB':'german','SWI':'swabian','ICE':'norwegian','IRE':'irish','DEN':'danish','NOR':'norwegian','SWE':'swedish','BOH':'german','ROM':'vlach','SER':'serbian','BUL':'bulgarian','GRE':'greek','SPA':'castilian','POR':'portuguese','DKU':'russian','GEO':'georgian','ARM':'armenian','AZE':'turkish','MOR':'maghrebi','ITA':'german','TUS':'german','SIC':'italian','PAP':'italian','SRD':'italian','OTT':'turkish','JAP':'japanese','NED':'dutch','EGY':'egyptian','TRI':'maghrebi'}
-dynasty_name = {'GER':'Hohenzollern','POL':'Hohenzollern','FLW':'Hohenzollern','WHR':'Hohenzollern','AUS':'Habsburg','GAL':'Habsburg','HUN':'Habsburg','UKR':'Habsburg','CRB':'Habsburg','FRA':'Orléans','COR':'Bonaparte','ENG':'Windsor','RUS':'Romanov','LIT':'Urach','FIN':'Hesse-Kassel','UBD':'Mecklenburg-Schwerin','ALB':'Wied','BOH':'Habsburg','TUS':'Habsburg','ITA':'Habsburg','IRE':'Collins','DEN':'Glücksburg','NOR':'Glücksburg','SWE':'Bernadotte','ROM':'Hohenzollern-Sigmaringen','SER':'Karađorđević','BUL':'Saxe-Coburg-Gotha','GRE':'Glücksburg','SPA':'Bourbon','POR':'Braganza','MOR':'Alaouite','SIC':'Bourbon-Two Sicilies','SRD':'Savoy','OTT':'Osman','JAP':'Yamato','NED':'Orange-Nassau','EGY':'Alawiyya','TRI':'Senussi'}
+dynasty_name = {'GER':'Hohenzollern','POL':'Hohenzollern','FLW':'Hohenzollern','WHR':'Hohenzollern','AUS':'Habsburg','GAL':'Habsburg','HUN':'Habsburg','UKR':'Habsburg','CRB':'Habsburg','FRA':'Orléans','COR':'Bonaparte','ENG':'Windsor','RUS':'Romanov','LIT':'Urach','FIN':'Hesse-Kassel','UBD':'Mecklenburg-Schwerin','ALB':'Wied','BOH':'Habsburg','TUS':'Habsburg','ITA':'Habsburg','IRE':'Hohenzollern','GEO':'Hohenzollern','DEN':'Glücksburg','NOR':'Glücksburg','SWE':'Bernadotte','ROM':'Hohenzollern-Sigmaringen','SER':'Karađorđević','BUL':'Saxe-Coburg-Gotha','GRE':'Glücksburg','SPA':'Bourbon','POR':'Braganza','MOR':'Alaouite','SIC':'Bourbon-Two Sicilies','SRD':'Savoy','OTT':'Osman','JAP':'Yamato','NED':'Orange-Nassau','EGY':'Alawiyya','TRI':'Senussi'}
 dynasty_ids = {name: 9900000 + index for index, name in enumerate(sorted(set(dynasty_name.values()) | {r['dynasty'] for r in relatives if r['dynasty']}), 1)}
-given_name = {'GER':'Wilhelm II','FRA':'Jean','ENG':'George V','AUS':'Karl I','HUN':'Joseph August','POL':'August Wilhelm','UKR':'Wilhelm Franz','RUS':'Vladimir Kirillovich','COR':'Louis','GAL':'Karl Albrecht','CRB':'Leopold Salvator','ALB':'Wilhelm','FLW':'Adalbert','WHR':'Oskar','LIT':'Karl Gero','FIN':'Friedrich Karl','UBD':'Adolf Friedrich','SWI':'Federal Council','BOH':'Albrecht Franz','TUS':'Peter Ferdinand','ITA':'Robert','IRE':'Michael','DEN':'Christian X','NOR':'Haakon VII','SWE':'Gustaf V','ROM':'Carol II','SER':'Peter II','BUL':'Boris III','GRE':'George II','SPA':'Alfonso XIII','POR':'Duarte II','MOR':'Mohammed V','SIC':'Ferdinando III','SRD':'Victor Emmanuel III','OTT':'Abdülmecid II','JAP':'Hirohito','NED':'Wilhelmina','EGY':'Abbas II','TRI':'Idris I'}
+given_name = {'GER':'Wilhelm II','FRA':'Jean','ENG':'George V','AUS':'Karl I','HUN':'Joseph August','POL':'August Wilhelm','UKR':'Wilhelm Franz','RUS':'Vladimir Kirillovich','COR':'Louis','GAL':'Karl Albrecht','CRB':'Leopold Salvator','ALB':'Wilhelm','FLW':'Adalbert','WHR':'Oskar','LIT':'Karl Gero','FIN':'Friedrich Karl','UBD':'Adolf Friedrich','SWI':'Federal Council','BOH':'Albrecht Franz','TUS':'Peter Ferdinand','ITA':'Robert','IRE':'Joachim','GEO':'Joachim','DEN':'Christian X','NOR':'Haakon VII','SWE':'Gustaf V','ROM':'Carol II','SER':'Peter II','BUL':'Boris III','GRE':'George II','SPA':'Alfonso XIII','POR':'Duarte II','MOR':'Mohammed V','SIC':'Ferdinando III','SRD':'Victor Emmanuel III','OTT':'Abdülmecid II','JAP':'Hirohito','NED':'Wilhelmina','EGY':'Abbas II','TRI':'Idris I'}
 dynasty_key = {name: 'dynn_cr_' + ''.join(c for c in unicodedata.normalize('NFKD', name.lower().replace('ß', 'ss')) if c.isascii() and (c.isalnum() or c == '-')).replace('-', '_') for name in dynasty_ids}
 dynasty_culture = {'Alaouite':'maghrebi','Alawiyya':'egyptian','Bernadotte':'swedish','Bonaparte':'french','Bourbon':'castilian','Bourbon-Two Sicilies':'italian','Braganza':'portuguese','Collins':'irish','Glücksburg':'danish','Habsburg':'german','Hesse-Kassel':'german','Hohenzollern':'german','Hohenzollern-Sigmaringen':'german','Karađorđević':'serbian','Mecklenburg-Schwerin':'german','Orange-Nassau':'dutch','Orléans':'french','Osman':'turkish','Romanov':'russian','Savoy':'italian','Saxe-Coburg-Gotha':'german','Senussi':'maghrebi','Urach':'german','Wied':'german','Windsor':'english','Yamato':'japanese'}
 for relative in relatives:
@@ -46,13 +46,16 @@ for name, value in dynasty_ids.items():
     for title, (capital, (r, g, b)) in custom_titles.items()
 )+'\n')
 chars = ['# Generated Crusaderreich 1936 rulers.']
+seen_people = set()
 for n in active:
     p = people[n['leader_id']]
+    if p['id'] in seen_people: continue
+    seen_people.add(p['id'])
     born = p['birth'] or '1885.1.1'
     chars += [f"{p['id']} = {{",f'    name = "{given_name.get(n["tag"], p["name"])}"',f'    culture = "{p["culture"] or culture.get(n["tag"],"german")}"']
     if n['tag'] in dynasty_name:
         chars.append(f'    dynasty = {dynasty_ids[dynasty_name[n["tag"]]]}')
-    rite = {'orthodox':'byzantine_rite','ashari':'ashari','shinto':'shinto'}.get(p['religion'], 'roman_rite')
+    rite = {'orthodox':'byzantine_rite','ashari':'ashari','maturidi':'maturidi','shinto':'shinto'}.get(p['religion'], 'roman_rite')
     if p['id'] in parents:
         chars += [f'    {role} = {parents[p["id"]][role]}' for role in ('father','mother') if parents[p['id']][role]]
     chars += (['    female = yes'] if n['tag'] == 'NED' else []) + [f'    rite = "{rite}"',f'    {born} = {{ birth = yes }}','}','']
@@ -76,36 +79,44 @@ for marriage in marriages:
 (mod/'history/characters/crusaderreich_1936.txt').write_text('\n'.join(chars))
 # Date entries in separate mod history files override the medieval holder at the bookmark.
 holders = {}
+holder_nations = {}
+def assign_holder(title, nation):
+    holders[title] = nation['leader_id']
+    holder_nations[title] = nation
 for n in active:
-    holders[n['ck3_region']] = n['leader_id']
+    assign_holder(n['ck3_region'], n)
 for assignment in assignments:
     n = next((n for n in active if n['tag'] == assignment['nation']), None)
     rank = {'c': 0, 'd': 1, 'k': 2, 'e': 3}
     if n and rank[assignment['ck3_title'][0]] <= rank[n['ck3_region'][0]]:
-        holders[assignment['ck3_title']] = n['leader_id']
+        assign_holder(assignment['ck3_title'], n)
 for item in complete_titles:
     n = next((n for n in active if n['tag'] == item['nation']), None)
     if n and rank[item['title'][0]] < rank[n['ck3_region'][0]]:
-        holders[item['title']] = n['leader_id']
+        assign_holder(item['title'], n)
 for c in counties:
     n = next((n for n in active if n['tag'] == c['nation']), None)
-    if n: holders[c['county']] = n['leader_id']
+    if n: assign_holder(c['county'], n)
+sicily = next(n for n in active if n['tag'] == 'SIC')
+assign_holder('b_palermo', sicily)
 title_lines=['# Generated 1936 title holders for scenario-assigned titles.']
 for title, holder in sorted(holders.items()):
-    nation = next(n for n in active if n['leader_id'] == holder)
-    if title == nation['ck3_region']:
+    nation = holder_nations[title]
+    if title == 'b_palermo':
+        liege = 'c_palermo'
+    elif title == nation['ck3_region']:
         liege = next(n['ck3_region'] for n in active if n['tag'] == nation['liege_tag']) if nation['liege_tag'] else '0'
     elif rank[title[0]] >= rank[nation['ck3_region'][0]]:
         liege = next(n['ck3_region'] for n in active if n['tag'] == nation['liege_tag']) if nation['liege_tag'] else '0'
     else:
         liege = nation['ck3_region']
     title_lines += [f'{title} = {{','    1936.1.1 = {',f'        holder = {holder}',f'        liege = {liege}']
-    if title == nation['ck3_region']:
+    if title == nation['ck3_region'] or nation['tag'] == 'SIC':
         if 'republic' in nation['government'].lower():
             title_lines.append('        government = republic_government')
         elif 'theocracy' in nation['government'].lower():
             title_lines.append('        government = theocracy_government')
-        elif people[nation['leader_id']]['religion'] == 'ashari':
+        elif people[nation['leader_id']]['religion'] in ('ashari','maturidi'):
             title_lines.append('        government = clan_government')
         else:
             title_lines.append('        government = feudal_government')
@@ -115,7 +126,7 @@ for title, holder in sorted(holders.items()):
 bookmark=['bm_crusaderreich_1936 = {','    start_date = 1936.1.1','    is_playable = yes','    group = bm_group_crusaderreich_1936','    weight = { value = 100 }']
 for n in bookmarked:
     p=people[n['leader_id']]
-    bookmark += ['    character = {',f'        name = "cr_bookmark_{n["tag"].lower()}"',f'        history_id = {p["id"]}',f'        title = {n["ck3_region"]}',f'        birth = {p["birth"] or "1885.1.1"}','        type = female' if n['tag'] == 'NED' else '        type = male',f'        dynasty = {dynasty_ids[dynasty_name[n["tag"]]]}','        dynasty_splendor_level = 1',f'        culture = {p["culture"] or culture.get(n["tag"],"german")}',f'        religion = {p["religion"] or ("orthodox" if n["tag"] == "RUS" else "catholic")}',f'        government = {"clan_government" if p["religion"] == "ashari" else "feudal_government"}','        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"','    }']
+    bookmark += ['    character = {',f'        name = "cr_bookmark_{n["tag"].lower()}"',f'        history_id = {p["id"]}',f'        title = {n["ck3_region"]}',f'        birth = {p["birth"] or "1885.1.1"}','        type = female' if n['tag'] == 'NED' else '        type = male',f'        dynasty = {dynasty_ids[dynasty_name[n["tag"]]]}','        dynasty_splendor_level = 1',f'        culture = {p["culture"] or culture.get(n["tag"],"german")}',f'        religion = {p["religion"] or ("orthodox" if n["tag"] == "RUS" else "catholic")}',f'        government = {"clan_government" if p["religion"] in ("ashari","maturidi") else "feudal_government"}','        difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"','    }']
 bookmark += ['}','']
 (mod/'common/bookmarks/bookmarks/crusaderreich_1936.txt').write_text('\n'.join(bookmark))
 loc=['\ufeffl_english:',' bm_group_crusaderreich_1936:0 "Crusaderreich: 1936"',' bm_crusaderreich_1936:0 "The German Century"']

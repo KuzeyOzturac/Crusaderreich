@@ -6,27 +6,26 @@
 9900006 = { name = dynn_cr_bourbon_parma culture = german }
 9900007 = { name = dynn_cr_bourbon_twosicilies culture = italian }
 9900008 = { name = dynn_cr_braganza culture = portuguese prefix = dynnp_cr_de }
-9900009 = { name = dynn_cr_collins culture = irish }
-9900010 = { name = dynn_cr_croy culture = german }
-9900011 = { name = dynn_cr_glucksburg culture = danish }
-9900012 = { name = dynn_cr_habsburg culture = german prefix = dynnp_cr_von }
-9900013 = { name = dynn_cr_hesse_kassel culture = german prefix = dynnp_cr_von }
-9900014 = { name = dynn_cr_hohenzollern culture = german prefix = dynnp_cr_von }
-9900015 = { name = dynn_cr_hohenzollern_sigmaringen culture = german prefix = dynnp_cr_von }
-9900016 = { name = dynn_cr_karaorevic culture = serbian }
-9900017 = { name = dynn_cr_mecklenburg_schwerin culture = german prefix = dynnp_cr_von }
-9900018 = { name = dynn_cr_orange_nassau culture = dutch }
-9900019 = { name = dynn_cr_orleans culture = french prefix = dynnp_cr_d }
-9900020 = { name = dynn_cr_osman culture = turkish }
-9900021 = { name = dynn_cr_romanov culture = russian }
-9900022 = { name = dynn_cr_savoy culture = italian }
-9900023 = { name = dynn_cr_saxe_coburg_gotha culture = german }
-9900024 = { name = dynn_cr_schwarzburg_rudolstadt culture = german }
-9900025 = { name = dynn_cr_senussi culture = maghrebi }
-9900026 = { name = dynn_cr_teck culture = english }
-9900027 = { name = dynn_cr_urach culture = german prefix = dynnp_cr_von }
-9900028 = { name = dynn_cr_wettin culture = german }
-9900029 = { name = dynn_cr_wied culture = german prefix = dynnp_cr_zu }
-9900030 = { name = dynn_cr_windsor culture = english }
-9900031 = { name = dynn_cr_wittelsbach culture = german }
-9900032 = { name = dynn_cr_yamato culture = japanese }
+9900009 = { name = dynn_cr_croy culture = german }
+9900010 = { name = dynn_cr_glucksburg culture = danish }
+9900011 = { name = dynn_cr_habsburg culture = german prefix = dynnp_cr_von }
+9900012 = { name = dynn_cr_hesse_kassel culture = german prefix = dynnp_cr_von }
+9900013 = { name = dynn_cr_hohenzollern culture = german prefix = dynnp_cr_von }
+9900014 = { name = dynn_cr_hohenzollern_sigmaringen culture = german prefix = dynnp_cr_von }
+9900015 = { name = dynn_cr_karaorevic culture = serbian }
+9900016 = { name = dynn_cr_mecklenburg_schwerin culture = german prefix = dynnp_cr_von }
+9900017 = { name = dynn_cr_orange_nassau culture = dutch }
+9900018 = { name = dynn_cr_orleans culture = french prefix = dynnp_cr_d }
+9900019 = { name = dynn_cr_osman culture = turkish }
+9900020 = { name = dynn_cr_romanov culture = russian }
+9900021 = { name = dynn_cr_savoy culture = italian }
+9900022 = { name = dynn_cr_saxe_coburg_gotha culture = german }
+9900023 = { name = dynn_cr_schwarzburg_rudolstadt culture = german }
+9900024 = { name = dynn_cr_senussi culture = maghrebi }
+9900025 = { name = dynn_cr_teck culture = english }
+9900026 = { name = dynn_cr_urach culture = german prefix = dynnp_cr_von }
+9900027 = { name = dynn_cr_wettin culture = german }
+9900028 = { name = dynn_cr_wied culture = german prefix = dynnp_cr_zu }
+9900029 = { name = dynn_cr_windsor culture = english }
+9900030 = { name = dynn_cr_wittelsbach culture = german }
+9900031 = { name = dynn_cr_yamato culture = japanese }

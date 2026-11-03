@@ -42,7 +42,7 @@ d_lower_silesia,GER,Kaiserreich German Lower Silesia
 d_alsace,GER,Kaiserreich German Alsace-Lorraine
 d_luxembourg,GER,Kaiserreich German Luxembourg
 k_brittany,FRA,Kaiserreich French Brittany
-d_upper_lorraine,FRA,Kaiserreich French Lorraine
+d_upper_lorraine,GER,1936 transfer requested by user
 d_halych,GAL,Galician Lviv and Stanislawow core
 d_bukovina,GAL,Galician Cernauti and Suceava
 c_krakowska,GAL,Kaiserreich Galicia controls Krakow
@@ -121,8 +121,8 @@ d_yedisan,UKR,1936 map region; verify border counties in game
 d_kizilyedisan,UKR,1936 map region; verify border counties in game
 d_levedia,UKR,1936 map region; verify border counties in game
 d_red_levedia,UKR,1936 map region; verify border counties in game
-d_don_valley,DKU,1936 map region; verify border counties in game
-d_tana,DKU,1936 map region; verify border counties in game
+d_don_valley,UKR,1936 transfer requested by user
+d_tana,UKR,1936 transfer requested by user
 k_frisia,NED,1936 map region; verify border counties in game
 k_nikaea,OTT,1936 map region; verify border counties in game
 k_pontus,OTT,1936 map region; verify border counties in game
@@ -144,7 +144,7 @@ d_giemajohka,FIN,Fill unassigned CK3 European county; inspect 1936 border in gam
 c_kittila,SWE,Entire Vasterbotten duchy assigned to Sweden by user
 c_torne,SWE,Entire Vasterbotten duchy assigned to Sweden by user
 c_rounala,NOR,Entire Finnmork duchy assigned to Norway by user
-d_guoldat,RUS,Fill unassigned CK3 European county; inspect 1936 border in game
+d_guoldat,FIN,1936 transfer requested by user
 d_cherven_cities,GAL,Fill unassigned CK3 European county; inspect 1936 border in game
 d_venice,ITA,Fill unassigned CK3 European county; inspect 1936 border in game
 d_istria,AUS,Fill unassigned CK3 European county; inspect 1936 border in game
@@ -180,3 +180,17 @@ k_nubia,EGY,Crusaderreich territory specified by user
 k_blemmyia,EGY,Crusaderreich territory specified by user
 d_sunni,OTT,Sunni caliphate held by the Ottoman ruler
 c_viterbo,PAP,Complete Papal Latium
+c_bethen,GAL,1936 transfer requested by user
+c_ratibor,GAL,1936 transfer requested by user
+c_cieszyn,GAL,1936 transfer requested by user
+c_sandomierska,POL,1936 transfer requested by user
+c_radomska,POL,1936 transfer requested by user
+c_stezycka,POL,1936 transfer requested by user
+c_lubelska,POL,1936 transfer requested by user
+c_cherven,UKR,1936 transfer requested by user
+c_berestye,LIT,1936 transfer requested by user
+c_dorohychyn,LIT,1936 transfer requested by user
+d_karachev,RUS,1936 transfer requested by user
+d_novosil,RUS,1936 transfer requested by user
+d_azov,UKR,1936 transfer requested by user
+d_skane,SWE,1936 transfer requested by user
