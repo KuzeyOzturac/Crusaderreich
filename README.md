@@ -12,7 +12,7 @@ Inspect Germany, France, Austria, Poland, Ukraine, Russia, Italy, Iberia, Scandi
 
 - `data/nations.csv` and `data/characters.csv` record monarchs, governments, and explicitly marked temporary representatives. The user-defined rulers take precedence over Kaiserreich's base politics.
 - `data/title_assignments.csv` maps CK3 titles to scenario states. Broad empire regions fill geography; specific titles override them at disputed borders.
-- `data/county_map.csv` maps 1,623 CK3 counties to states. All counties in the supplied CK3 **European** geographical region now have an assignment. This is coverage, not proof that every border is exact.
+- `data/county_map.csv` maps 1,627 CK3 counties to states. All counties in the supplied CK3 **European** geographical region now have an assignment. This is coverage, not proof that every border is exact.
 - `data/complete_titles.csv` lists duchies and kingdoms whose counties all belong to one scenario state; those titles receive the matching holder in the generated 1936 history.
 - `data/relatives.csv`, `data/parents.csv`, and `data/marriages.csv` define close royal families, including Wilhelm II's children and the Habsburg, Windsor, and other ruling lines. `Crusaderreich/history` defines dated characters and title holders. Lower titles point to their country crown; Egypt and Tripolitania are Ottoman vassals. `Crusaderreich/common/landed_titles` adds crowns needed for Corsica, Flanders-Wallonia, and the divided Italian states. `Crusaderreich/common/dynasties` uses localized dynasty names and prefixes so surnames render correctly.
 
@@ -25,6 +25,8 @@ The latest border pass transfers the specified Silesian, Polish, Lithuanian, Ukr
 All counties in CK3's Armenian kingdom are now Ottoman. Persia is playable under Ahmad Shah Qajar with Persian culture and Imami faith. Its 67 assigned counties cover the Iranian core of the CK3 Persian and Daylamite kingdoms, plus Iranian Khorasan, Sistan, and Baluchistan border counties. CK3's medieval counties only approximate the historical 1936 international boundary; Afghanistan, Turkmenistan, Pakistan, Iraq, and the Republic of Azerbaijan are not absorbed wholesale into Persia.
 
 The Ottoman Sultan again holds CK3's Eastern Roman Empire title and the Sunni caliphate title. The Sultan, Abbas II of Egypt, and Idris I of Tripolitania use the Hanafi rite; Ahmad Shah Qajar uses the Imami rite. CK3 1.20's supplied character histories use `rite = hanafi` and `rite = imami`, while its bookmarks use `religion = hanafi` and `religion = imami`. Earlier builds used obsolete or wrong rite IDs, then incorrectly changed character history to `religion =`; this caused unintended faiths. The mod also sets dated county-capital rites in Muslim-majority Ottoman territory and in Egypt, Tripolitania, and Persia. Christian parts of the Ottoman realm keep their existing county rites. The Ottoman-Persian borderlands in CK3's Jazira kingdom belong to the Ottomans.
+
+The Kalmyk Khanate holds Khazaria and Itil under Danzan Tundutov. The North Caucasian Emirate holds Ciscaucasia and Alania under Uzun-Hajji of Salta; CK3's `alan` culture approximates his northeastern Caucasian Avar background. Both survive to the alternate 1936 start despite their earlier deaths in actual history. Morocco holds all of Tlemcen. The Don-Kuban placeholder was removed after its last counties were reassigned. Their recorded birth years use January 1 placeholders where an exact date was not established.
 
 ## References
 

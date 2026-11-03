@@ -9,7 +9,7 @@ d_al-hasa,OTT,4
 d_al-said,EGY,5
 d_al-wahat,EGY,4
 d_ala_tau,RUS,8
-d_alania,DKU,4
+d_alania,SAL,4
 d_albany,ENG,6
 d_aleppo,OTT,4
 d_alexandria,EGY,3
@@ -88,7 +88,7 @@ d_chernigov,UKR,5
 d_chudia,RUS,3
 d_cibyrrhaeot,OTT,3
 d_cilicia,OTT,4
-d_ciscaucasia,DKU,4
+d_ciscaucasia,SAL,4
 d_coimbra,POR,4
 d_connacht,IRE,3
 d_cordoba,SPA,4
@@ -166,6 +166,7 @@ d_iceland,ICE,4
 d_isfahan,PER,4
 d_ishim,RUS,2
 d_istria,AUS,1
+d_itil,KAL,4
 d_jabal_kufs,PER,3
 d_jalmat,RUS,3
 d_jamtland,NOR,4
@@ -182,7 +183,7 @@ d_kawar,COR,3
 d_kazan,RUS,5
 d_kazym,RUS,3
 d_kermanshah,PER,3
-d_khazaria,DKU,3
+d_khazaria,KAL,3
 d_khuzestan,PER,6
 d_kiev,UKR,6
 d_kinai,JAP,4
@@ -345,7 +346,7 @@ d_thrace,OTT,3
 d_thracesia,OTT,4
 d_thuringia,GER,5
 d_tibesti,COR,3
-d_tlemcen,COR,4
+d_tlemcen,MOR,4
 d_tokaido,JAP,5
 d_toledo,SPA,6
 d_toro,COR,5
@@ -457,7 +458,6 @@ k_sorbia,GER,13
 k_spanish_galicia,SPA,5
 k_sweden,SWE,25
 k_syria,OTT,22
-k_tahert,COR,19
 k_tsukushi,JAP,10
 k_valencia,SPA,11
 k_venice,ITA,2

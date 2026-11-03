@@ -3,3 +3,5 @@ k_cr_flanders_wallonia = { color = { 199 166 55 } capital = c_brabant }
 k_cr_italy = { color = { 64 135 91 } capital = c_lombardia }
 k_cr_tuscany = { color = { 139 55 55 } capital = c_firenze }
 k_cr_papal_state = { color = { 228 210 135 } capital = c_roma }
+k_cr_kalmykia = { color = { 110 150 175 } capital = c_astrakhan }
+k_cr_north_caucasus = { color = { 65 120 105 } capital = c_derbent }

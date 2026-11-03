@@ -28,7 +28,6 @@ id,name,birth,death,culture,religion,nation,role,confidence
 9000042,George II,1890.7.19,,greek,orthodox,GRE,head_of_state,scenario_reference
 9000043,Alfonso XIII,1886.5.17,,castilian,catholic,SPA,head_of_state,scenario_reference
 9000044,Duarte II,1907.9.23,,portuguese,catholic,POR,head_of_state,scenario_reference
-9000045,Don-Kuban Council,,,russian,orthodox,DKU,map_proxy,map_proxy
 9000048,Azerbaijani Council,,,turkish,ashari,AZE,map_proxy,map_proxy
 9000049,Mohammed V,1909.8.10,,maghrebi,maliki,MOR,head_of_state,scenario_reference
 9000050,Robert von Habsburg,1915.2.8,,german,catholic,ITA,head_of_state,user_defined
@@ -43,3 +42,5 @@ id,name,birth,death,culture,religion,nation,role,confidence
 9000059,Idris I Senussi,1889.3.12,,maghrebi,hanafi,TRI,head_of_state,user_defined
 9000063,Joachim von Hohenzollern,1890.12.17,,german,catholic,IRE,head_of_state,user_defined
 9000128,Ahmad Shah Qajar,1898.1.21,,persian,imami,PER,head_of_state,kaiserreich_reference
+9000131,Danzan Tundutov,1888.1.1,,oirat,vajrayana,KAL,head_of_state,user_defined
+9000132,Uzun-Hajji of Salta,1848.1.1,,alan,shafii,SAL,head_of_state,user_defined

@@ -74,7 +74,7 @@ c_anglesey,ENG,k_wales
 c_angouleme,FRA,k_aquitaine
 c_angus,ENG,k_scotland
 c_anjou,FRA,k_france
-c_anket,DKU,k_caucasus
+c_anket,SAL,d_ciscaucasia
 c_annaba,COR,k_africa
 c_annandale,ENG,k_scotland
 c_ansbach,GER,k_east_francia
@@ -104,7 +104,7 @@ c_ashir,COR,k_tahert
 c_ashli,RUS,k_volga_bulgaria
 c_asir,OTT,k_arabia
 c_astorga,SPA,k_spanish_galicia
-c_astrakhan,DKU,k_caucasus
+c_astrakhan,KAL,d_khazaria
 c_asturias_de_oviedo,SPA,k_leon
 c_asturias_de_santillana,SPA,k_castille
 c_aswan,EGY,k_egypt
@@ -183,7 +183,7 @@ c_beirut,OTT,k_syria
 c_beja,POR,d_beja
 c_bejaia,COR,d_bejaia
 c_bekes,HUN,k_hungary
-c_beksima,DKU,k_caucasus
+c_beksima,KAL,d_khazaria
 c_belebey,RUS,k_volga_bulgaria
 c_bellac,FRA,k_aquitaine
 c_belogorje,RUS,e_siberia
@@ -203,7 +203,7 @@ c_bern,SWI,d_transjurania
 c_beroe,BUL,k_bulgaria
 c_berry,FRA,k_france
 c_besancon,FRA,d_upper_burgundy
-c_besinada,DKU,k_caucasus
+c_besinada,SAL,d_alania
 c_beszterce,HUN,k_hungary
 c_bethen,GAL,c_bethen
 c_bezichi,RUS,k_novgorod
@@ -276,7 +276,7 @@ c_buthrotum,GRE,k_epirus
 c_buzau,ROM,k_dacia
 c_buzen,JAP,k_tsukushi
 c_byzantion,OTT,c_byzantion
-c_cabardinia,DKU,k_caucasus
+c_cabardinia,SAL,d_alania
 c_cabra,SPA,k_andalusia
 c_caceres,SPA,k_badajoz
 c_cadiz,SPA,k_andalusia
@@ -383,7 +383,7 @@ c_debar,ALB,d_dyrrachion
 c_demetrias,GRE,k_thessalonika
 c_denbighshire,ENG,k_wales
 c_denia,SPA,k_valencia
-c_derbent,DKU,k_caucasus
+c_derbent,SAL,d_ciscaucasia
 c_derby,ENG,k_england
 c_derna,EGY,k_egypt
 c_desmond,IRE,k_ireland
@@ -597,7 +597,7 @@ c_huesca,SPA,k_aragon
 c_hulwan,OTT,k_mesopotamia
 c_huntingdonshire,ENG,k_england
 c_hunyad,HUN,k_hungary
-c_hunyan,COR,d_tlemcen
+c_hunyan,MOR,d_tlemcen
 c_hvosno,SER,k_serbia
 c_hyuga,JAP,k_tsukushi
 c_iasi,ROM,k_moldavia
@@ -624,6 +624,7 @@ c_isle_of_man,ENG,k_scotland
 c_isle_of_wight,ENG,k_england
 c_issoudun,FRA,k_france
 c_istakhr,PER,k_persia
+c_itil,KAL,d_itil
 c_iviza,SPA,k_valencia
 c_iwami,JAP,k_yamato
 c_iyo,JAP,k_yamato
@@ -842,7 +843,7 @@ c_madeira,MOR,k_maghreb
 c_madrid,SPA,k_andalusia
 c_mafaza,PER,k_persia
 c_magdeburg,GER,k_east_francia
-c_maghas,DKU,k_caucasus
+c_maghas,SAL,d_alania
 c_mahdiya,COR,d_tunis
 c_maine,FRA,k_france
 c_mainz,GER,k_east_francia
@@ -1021,7 +1022,7 @@ c_onega_BJA,RUS,e_russia
 c_onsthia,RUS,e_russia
 c_opava,BOH,k_bohemia
 c_opole,GER,d_upper_silesia
-c_orania,COR,d_tlemcen
+c_orania,MOR,d_tlemcen
 c_orava,HUN,k_hungary
 c_orbetello,TUS,d_toscana
 c_orhei,ROM,k_moldavia
@@ -1189,11 +1190,11 @@ c_salerno,SIC,k_sicily
 c_salinis,FIN,k_finland
 c_salzburg,GER,k_bavaria
 c_samaiqan,PER,d_nishapur
-c_samander,DKU,k_caucasus
+c_samander,SAL,d_ciscaucasia
 c_samar,UKR,d_levedia
 c_samar_VB,RUS,k_volga_bulgaria
 c_samarra,OTT,k_mesopotamia
-c_samiran,DKU,k_caucasus
+c_samiran,SAL,d_ciscaucasia
 c_samman,OTT,k_arabia
 c_samosata,OTT,k_syria
 c_sancerre,FRA,k_france
@@ -1204,10 +1205,11 @@ c_sankt_gallen,SWI,d_currezia
 c_sankt_polten,AUS,d_osterreich
 c_santiago,SPA,k_spanish_galicia
 c_sanuki,JAP,k_yamato
+c_saqsin,KAL,d_itil
 c_sarakhs,PER,c_sarakhs
 c_sardan,PER,k_persia
 c_saris,HUN,k_hungary
-c_sarkel,DKU,k_caucasus
+c_sarkel,KAL,d_khazaria
 c_sartlan,RUS,e_siberia
 c_sarysyn,UKR,d_don_valley
 c_satakunta,FIN,k_finland
@@ -1411,7 +1413,7 @@ c_tikhvin,RUS,k_novgorod
 c_timbi,COR,k_mali
 c_tinmallal,MOR,d_marrakesh
 c_tivoli,PAP,d_latium
-c_tlemcen,COR,d_tlemcen
+c_tlemcen,MOR,d_tlemcen
 c_tmutarakan,UKR,d_azov
 c_tobol,RUS,e_siberia
 c_tobruk,EGY,k_egypt
@@ -1465,6 +1467,7 @@ c_ubmejeiednuo,SWE,d_aarjetje
 c_ubulla,OTT,k_mesopotamia
 c_ufa,RUS,k_bashkiria
 c_uiska,RUS,k_bashkiria
+c_ukek,KAL,d_itil
 c_ulm,GER,k_east_francia
 c_ulster,IRE,k_ireland
 c_uman,UKR,d_yedisan
@@ -1484,6 +1487,7 @@ c_ushytsia,UKR,k_ruthenia
 c_usora,CRB,k_croatia
 c_ustyug,RUS,e_russia
 c_uwal,OTT,k_arabia
+c_uzen,KAL,d_itil
 c_vaihingen,GER,k_east_francia
 c_valdai,RUS,k_novgorod
 c_valencia,SPA,k_valencia
@@ -1548,7 +1552,7 @@ c_vyangi,RUS,k_novgorod
 c_waddan,TRI,d_syrte
 c_wadi_amur,EGY,k_blemmyia
 c_wadi_el-milk,EGY,k_nubia
-c_wajda,COR,d_tlemcen
+c_wajda,MOR,d_tlemcen
 c_wajh,OTT,k_arabia
 c_waldeck,GER,k_saxony
 c_waqisa,OTT,k_mesopotamia
@@ -1612,7 +1616,7 @@ c_zemigalians,UBD,d_courland
 c_zemplen,HUN,k_hungary
 c_zherkovo,BUL,k_bulgaria
 c_zhytomyr,UKR,k_ruthenia
-c_zichia,DKU,k_caucasus
+c_zichia,SAL,d_alania
 c_zirkuh,PER,c_zirkuh
 c_ziz,MOR,d_tafilalt
 c_zlatibor,SER,k_serbia

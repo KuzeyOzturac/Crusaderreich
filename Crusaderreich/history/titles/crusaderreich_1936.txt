@@ -535,8 +535,8 @@ c_anjou = {
 
 c_anket = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000132
+        liege = k_cr_north_caucasus
     }
 }
 
@@ -746,8 +746,8 @@ c_astorga = {
 
 c_astrakhan = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000131
+        liege = k_cr_kalmykia
     }
 }
 
@@ -1300,8 +1300,8 @@ c_bekes = {
 
 c_beksima = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000131
+        liege = k_cr_kalmykia
     }
 }
 
@@ -1441,8 +1441,8 @@ c_besancon = {
 
 c_besinada = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000132
+        liege = k_cr_north_caucasus
     }
 }
 
@@ -1952,8 +1952,8 @@ c_byzantion = {
 
 c_cabardinia = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000132
+        liege = k_cr_north_caucasus
     }
 }
 
@@ -2704,8 +2704,8 @@ c_denia = {
 
 c_derbent = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000132
+        liege = k_cr_north_caucasus
     }
 }
 
@@ -4203,8 +4203,8 @@ c_hunyad = {
 
 c_hunyan = {
     1936.1.1 = {
-        holder = 9000019
-        liege = k_cr_corsica
+        holder = 9000049
+        liege = k_maghreb
     }
 }
 
@@ -4387,6 +4387,13 @@ c_istakhr = {
     1936.1.1 = {
         holder = 9000128
         liege = k_persia
+    }
+}
+
+c_itil = {
+    1936.1.1 = {
+        holder = 9000131
+        liege = k_cr_kalmykia
     }
 }
 
@@ -5919,8 +5926,8 @@ c_magdeburg = {
 
 c_maghas = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000132
+        liege = k_cr_north_caucasus
     }
 }
 
@@ -7175,8 +7182,8 @@ c_opole = {
 
 c_orania = {
     1936.1.1 = {
-        holder = 9000019
-        liege = k_cr_corsica
+        holder = 9000049
+        liege = k_maghreb
     }
 }
 
@@ -8355,8 +8362,8 @@ c_samaiqan = {
 
 c_samander = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000132
+        liege = k_cr_north_caucasus
     }
 }
 
@@ -8383,8 +8390,8 @@ c_samarra = {
 
 c_samiran = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000132
+        liege = k_cr_north_caucasus
     }
 }
 
@@ -8458,6 +8465,13 @@ c_sanuki = {
     }
 }
 
+c_saqsin = {
+    1936.1.1 = {
+        holder = 9000131
+        liege = k_cr_kalmykia
+    }
+}
+
 c_sarakhs = {
     1936.1.1 = {
         holder = 9000128
@@ -8481,8 +8495,8 @@ c_saris = {
 
 c_sarkel = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000131
+        liege = k_cr_kalmykia
     }
 }
 
@@ -9910,8 +9924,8 @@ c_tivoli = {
 
 c_tlemcen = {
     1936.1.1 = {
-        holder = 9000019
-        liege = k_cr_corsica
+        holder = 9000049
+        liege = k_maghreb
     }
 }
 
@@ -10286,6 +10300,13 @@ c_uiska = {
     }
 }
 
+c_ukek = {
+    1936.1.1 = {
+        holder = 9000131
+        liege = k_cr_kalmykia
+    }
+}
+
 c_ulm = {
     1936.1.1 = {
         holder = 9000001
@@ -10416,6 +10437,13 @@ c_uwal = {
     1936.1.1 = {
         holder = 9000055
         liege = e_byzantium
+    }
+}
+
+c_uzen = {
+    1936.1.1 = {
+        holder = 9000131
+        liege = k_cr_kalmykia
     }
 }
 
@@ -10869,8 +10897,8 @@ c_wadi_el-milk = {
 
 c_wajda = {
     1936.1.1 = {
-        holder = 9000019
-        liege = k_cr_corsica
+        holder = 9000049
+        liege = k_maghreb
     }
 }
 
@@ -11317,8 +11345,8 @@ c_zhytomyr = {
 
 c_zichia = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000132
+        liege = k_cr_north_caucasus
     }
 }
 
@@ -11457,8 +11485,8 @@ d_ala_tau = {
 
 d_alania = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000132
+        liege = k_cr_north_caucasus
     }
 }
 
@@ -12021,8 +12049,8 @@ d_cilicia = {
 
 d_ciscaucasia = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000132
+        liege = k_cr_north_caucasus
     }
 }
 
@@ -12566,6 +12594,13 @@ d_istria = {
     }
 }
 
+d_itil = {
+    1936.1.1 = {
+        holder = 9000131
+        liege = k_cr_kalmykia
+    }
+}
+
 d_jabal_kufs = {
     1936.1.1 = {
         holder = 9000128
@@ -12680,8 +12715,8 @@ d_kermanshah = {
 
 d_khazaria = {
     1936.1.1 = {
-        holder = 9000045
-        liege = k_caucasus
+        holder = 9000131
+        liege = k_cr_kalmykia
     }
 }
 
@@ -13838,8 +13873,8 @@ d_tibesti = {
 
 d_tlemcen = {
     1936.1.1 = {
-        holder = 9000019
-        liege = k_cr_corsica
+        holder = 9000049
+        liege = k_maghreb
     }
 }
 
@@ -14439,14 +14474,6 @@ k_castille = {
     }
 }
 
-k_caucasus = {
-    1936.1.1 = {
-        holder = 9000045
-        liege = 0
-        government = republic_government
-    }
-}
-
 k_cr_corsica = {
     1936.1.1 = {
         holder = 9000019
@@ -14468,6 +14495,22 @@ k_cr_italy = {
         holder = 9000050
         liege = 0
         government = feudal_government
+    }
+}
+
+k_cr_kalmykia = {
+    1936.1.1 = {
+        holder = 9000131
+        liege = 0
+        government = feudal_government
+    }
+}
+
+k_cr_north_caucasus = {
+    1936.1.1 = {
+        holder = 9000132
+        liege = 0
+        government = clan_government
     }
 }
 

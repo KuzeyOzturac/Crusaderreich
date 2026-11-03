@@ -50,7 +50,7 @@ d_volhynia,UKR,Kaiserreich Ukraine controls Volhynia
 d_crimea,UKR,Kaiserreich Ukraine controls Crimea
 d_alger,COR,Corsican French African Algeria
 d_bejaia,COR,Corsican French African Algeria
-d_tlemcen,COR,Corsican French African Oran
+d_tlemcen,MOR,Transfer requested by user
 d_tunis,COR,Corsican French African Tunisia
 d_dyrrachion,ALB,Albanian Durrës and surrounding counties; k_albania is titular
 d_osterreich,AUS,Austrian Vienna and Lower Austria
@@ -103,7 +103,6 @@ k_asturias,SPA,Scenario region inferred from supplied 1936 map
 k_leon,SPA,Scenario region inferred from supplied 1936 map
 k_spanish_galicia,SPA,Scenario region inferred from supplied 1936 map
 k_portugal,POR,Scenario region inferred from supplied 1936 map
-k_caucasus,DKU,Scenario region inferred from supplied 1936 map
 k_georgia,GEO,Scenario region inferred from supplied 1936 map
 d_shirvan,AZE,Scenario region inferred from supplied 1936 map
 d_marrakesh,MOR,Scenario region inferred from supplied 1936 map
@@ -210,3 +209,7 @@ c_sarakhs,PER,1936 Iranian border county
 c_sanij,PER,1936 Iranian border county
 c_khawr,PER,1936 Iranian border county
 k_jazira,OTT,Fill Ottoman-Persian borderlands
+d_khazaria,KAL,Transfer requested by user
+d_itil,KAL,Transfer requested by user
+d_ciscaucasia,SAL,Transfer requested by user
+d_alania,SAL,Transfer requested by user

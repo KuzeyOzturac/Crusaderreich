@@ -19,14 +19,16 @@
 9900019 = { name = dynn_cr_osman culture = turkish }
 9900020 = { name = dynn_cr_qajar culture = persian }
 9900021 = { name = dynn_cr_romanov culture = russian }
-9900022 = { name = dynn_cr_savoy culture = italian }
-9900023 = { name = dynn_cr_saxe_coburg_gotha culture = german }
-9900024 = { name = dynn_cr_schwarzburg_rudolstadt culture = german }
-9900025 = { name = dynn_cr_senussi culture = maghrebi }
-9900026 = { name = dynn_cr_teck culture = english }
-9900027 = { name = dynn_cr_urach culture = german prefix = dynnp_cr_von }
-9900028 = { name = dynn_cr_wettin culture = german }
-9900029 = { name = dynn_cr_wied culture = german prefix = dynnp_cr_zu }
-9900030 = { name = dynn_cr_windsor culture = english }
-9900031 = { name = dynn_cr_wittelsbach culture = german }
-9900032 = { name = dynn_cr_yamato culture = japanese }
+9900022 = { name = dynn_cr_salta culture = alan prefix = dynnp_cr_of }
+9900023 = { name = dynn_cr_savoy culture = italian }
+9900024 = { name = dynn_cr_saxe_coburg_gotha culture = german }
+9900025 = { name = dynn_cr_schwarzburg_rudolstadt culture = german }
+9900026 = { name = dynn_cr_senussi culture = maghrebi }
+9900027 = { name = dynn_cr_teck culture = english }
+9900028 = { name = dynn_cr_tundutov culture = oirat }
+9900029 = { name = dynn_cr_urach culture = german prefix = dynnp_cr_von }
+9900030 = { name = dynn_cr_wettin culture = german }
+9900031 = { name = dynn_cr_wied culture = german prefix = dynnp_cr_zu }
+9900032 = { name = dynn_cr_windsor culture = english }
+9900033 = { name = dynn_cr_wittelsbach culture = german }
+9900034 = { name = dynn_cr_yamato culture = japanese }
