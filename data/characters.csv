@@ -4,18 +4,18 @@ id,name,birth,death,culture,religion,nation,role,confidence
 9000017,Jean d’Orléans,1874.9.4,,,,FRA,head_of_state,user_defined
 9000018,George V Windsor,1865.6.3,,,,ENG,head_of_state,user_defined
 9000021,Joseph August,1872.8.9,,,,HUN,head_of_state,user_defined
-9000025,August Wilhelm von Hohenzollern,,,,,POL,head_of_state,user_defined
-9000022,Wilhelm Franz,,,,,UKR,head_of_state,user_defined
+9000025,August Wilhelm von Hohenzollern,1887.1.29,,,,POL,head_of_state,user_defined
+9000022,Wilhelm Franz,1895.2.10,,,,UKR,head_of_state,user_defined
 9000030,Vladimir Kirillovich Romanov,1917.8.30,,,,RUS,head_of_state,user_defined
 9000019,"Louis, Prince Napoléon",1914.1.23,,,,COR,head_of_state,user_defined
-9000020,Karl Albrecht,,,,,GAL,head_of_state,user_defined
-9000023,Leopold Salvator,,,,,CRB,head_of_state,user_defined
-9000024,Wilhelm zu Wied,,,,,ALB,head_of_state,user_defined
-9000026,Adalbert von Hohenzollern,,,,,FLW,head_of_state,user_defined
-9000027,Oskar von Hohenzollern,,,,,WHR,head_of_state,user_defined
-9000028,Karl Gero von Urach,,,,,LIT,head_of_state,user_defined
-9000029,Friedrich Karl von Hesse-Kassel,,,,,FIN,head_of_state,user_defined
-9000031,Adolf Friedrich von Mecklenburg-Schwerin,,,,,UBD,head_of_state,user_defined
+9000020,Karl Albrecht,1888.12.18,,,,GAL,head_of_state,user_defined
+9000023,Leopold Salvator,1863.10.15,,,,CRB,head_of_state,user_defined
+9000024,Wilhelm zu Wied,1876.3.26,,,,ALB,head_of_state,user_defined
+9000026,Adalbert von Hohenzollern,1884.7.14,,,,FLW,head_of_state,user_defined
+9000027,Oskar von Hohenzollern,1888.7.27,,,,WHR,head_of_state,user_defined
+9000028,Karl Gero von Urach,1899.8.19,,,,LIT,head_of_state,user_defined
+9000029,Friedrich Karl von Hesse-Kassel,1868.5.1,,,,FIN,head_of_state,user_defined
+9000031,Adolf Friedrich von Mecklenburg-Schwerin,1873.10.10,,,,UBD,head_of_state,user_defined
 9000032,Swiss Federal Council,,,swabian,catholic,SWI,collective_government,kaiserreich_reference
 9000033,Icelandic Council,,,norwegian,catholic,ICE,map_proxy,map_proxy
 9000034,Michael Collins,1890.10.16,,irish,catholic,IRE,head_of_state,scenario_reference
@@ -34,11 +34,13 @@ id,name,birth,death,culture,religion,nation,role,confidence
 9000047,Armenian Council,,,armenian,orthodox,ARM,map_proxy,map_proxy
 9000048,Azerbaijani Council,,,turkish,ashari,AZE,map_proxy,map_proxy
 9000049,Mohammed V,1909.8.10,,maghrebi,ashari,MOR,head_of_state,scenario_reference
-9000050,Italian Republican Council,,,italian,catholic,ITA,map_proxy,map_proxy
+9000050,Robert von Habsburg,1915.2.8,,german,catholic,ITA,head_of_state,user_defined
 9000051,Peter Ferdinand of Habsburg,1874.5.12,,german,catholic,TUS,head_of_state,user_defined
-9000052,Ferdinando III,,,italian,catholic,SIC,head_of_state,scenario_reference
+9000052,Ferdinando III,1869.7.25,,italian,catholic,SIC,head_of_state,scenario_reference
 9000053,Pius XI,1857.5.31,,italian,catholic,PAP,map_proxy,map_proxy
 9000054,Victor Emmanuel III,1869.11.11,,italian,catholic,SRD,head_of_state,scenario_reference
 9000055,Abdülmecid II,1868.5.29,,turkish,ashari,OTT,head_of_state,scenario_reference
 9000056,Hirohito,1901.4.29,,japanese,shinto,JAP,head_of_state,scenario_reference
 9000057,Wilhelmina,1880.8.31,,dutch,catholic,NED,head_of_state,historical
+9000058,Abbas II Alawiyya,1874.7.14,,egyptian,ashari,EGY,head_of_state,user_defined
+9000059,Idris I Senussi,1889.3.12,,maghrebi,ashari,TRI,head_of_state,user_defined

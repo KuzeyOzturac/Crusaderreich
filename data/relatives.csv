@@ -1,0 +1,65 @@
+id,name,birth,death,culture,dynasty,sex,rite
+9000060,Augusta Victoria,1858.10.22,1921.4.11,german,Hohenzollern,female,roman_rite
+9000061,Wilhelm,1882.5.6,,german,Hohenzollern,male,roman_rite
+9000062,Eitel Friedrich,1883.7.7,,german,Hohenzollern,male,roman_rite
+9000063,Joachim,1890.12.17,1920.7.18,german,Hohenzollern,male,roman_rite
+9000064,Viktoria Luise,1892.9.13,,german,Hohenzollern,female,roman_rite
+9000065,Friedrich III,1831.10.18,1888.6.15,german,Hohenzollern,male,roman_rite
+9000066,Victoria,1840.11.21,1901.8.5,english,Windsor,female,roman_rite
+9000067,Zita,1892.5.9,,german,Bourbon-Parma,female,roman_rite
+9000068,Otto,1912.11.20,,german,Habsburg,male,roman_rite
+9000069,Adelheid,1914.1.3,,german,Habsburg,female,roman_rite
+9000070,Felix,1916.5.31,,german,Habsburg,male,roman_rite
+9000071,Karl Ludwig,1918.3.10,,german,Habsburg,male,roman_rite
+9000072,Rudolf,1919.9.5,,german,Habsburg,male,roman_rite
+9000073,Charlotte,1921.3.1,,german,Habsburg,female,roman_rite
+9000074,Elisabeth,1922.5.31,,german,Habsburg,female,roman_rite
+9000075,Otto Franz,1865.4.21,1906.11.1,german,Habsburg,male,roman_rite
+9000076,Maria Josepha,1867.5.31,,german,Wettin,female,roman_rite
+9000077,Karl Stephan,1860.9.5,,german,Habsburg,male,roman_rite
+9000078,Maria Theresa,1862.7.2,,german,Habsburg,female,roman_rite
+9000079,Mary,1867.5.26,,english,Teck,female,roman_rite
+9000080,Edward,1894.6.23,,english,Windsor,male,roman_rite
+9000081,Albert,1895.12.14,,english,Windsor,male,roman_rite
+9000082,Henry,1900.3.31,,english,Windsor,male,roman_rite
+9000083,George,1902.12.20,,english,Windsor,male,roman_rite
+9000084,Mary,1897.4.25,,english,Windsor,female,roman_rite
+9000085,Edward VII,1841.11.9,1910.5.6,english,Windsor,male,roman_rite
+9000086,Alexandra,1844.12.1,1925.11.20,danish,Glücksburg,female,roman_rite
+9000087,Kirill,1876.10.12,,russian,Romanov,male,roman_rite
+9000088,Victoria Melita,1876.11.25,,russian,Romanov,female,roman_rite
+9000089,Victor,1862.7.18,1926.5.3,french,Bonaparte,male,roman_rite
+9000090,Clémentine,1872.7.30,,french,Bonaparte,female,roman_rite
+9000091,Ferdinand IV,1835.6.10,1908.1.17,german,Habsburg,male,roman_rite
+9000092,Alice,1849.12.27,1935.11.16,german,Bourbon-Parma,female,roman_rite
+9000093,Friedrich,1856.6.4,1936.12.30,german,Habsburg,male,roman_rite
+9000094,Isabella,1856.2.27,,german,Croy,female,roman_rite
+9000095,Karl Salvator,1839.4.30,1892.1.18,german,Habsburg,male,roman_rite
+9000096,Maria Immacolata,1844.4.14,1899.2.18,german,Bourbon-Two Sicilies,female,roman_rite
+9000097,Joseph Karl,1833.3.2,1905.6.13,hungarian,Habsburg,male,roman_rite
+9000098,Clotilde,1846.7.8,1927.6.3,german,Saxe-Coburg-Gotha,female,roman_rite
+9000099,Friedrich Franz II,1823.2.28,1883.4.15,german,Mecklenburg-Schwerin,male,roman_rite
+9000100,Marie,1850.1.29,1922.4.22,german,Schwarzburg-Rudolstadt,female,roman_rite
+9000101,Wilhelm,1864.3.3,1928.3.24,german,Urach,male,roman_rite
+9000102,Amalie,1865.12.24,1912.5.26,german,Wittelsbach,female,roman_rite
+9000103,Wilhelm,1845.8.22,1907.10.22,german,Wied,male,roman_rite
+9000104,Marie,1841.7.5,1910.6.22,dutch,Orange-Nassau,female,roman_rite
+9000105,Friedrich Wilhelm,1820.11.26,1884.10.14,german,Hesse-Kassel,male,roman_rite
+9000106,Anna,1836.5.17,1918.6.12,german,Hohenzollern,female,roman_rite
+9000107,Margaret,1872.4.22,,german,Hohenzollern,female,roman_rite
+9000109,Ferdinand I,1865.8.24,1927.7.20,vlach,Hohenzollern-Sigmaringen,male,roman_rite
+9000110,Marie,1875.10.29,,vlach,Windsor,female,roman_rite
+9000111,Umberto I,1844.3.14,1900.7.29,italian,Savoy,male,roman_rite
+9000112,Margherita,1851.11.20,1926.1.4,italian,Savoy,female,roman_rite
+9000113,Alfonso,1841.3.28,1934.5.26,italian,Bourbon-Two Sicilies,male,roman_rite
+9000114,Maria Antonia,1851.3.16,1938.9.12,italian,Bourbon-Two Sicilies,female,roman_rite
+9000118,Abdülaziz,1830.2.9,1876.6.4,turkish,Osman,male,roman_rite
+9000119,Yoshihito,1879.8.31,1926.12.25,japanese,Yamato,male,shinto
+9000120,Sadako,1884.6.25,,japanese,Yamato,female,shinto
+9000121,Robert,1840.11.9,1910.12.5,french,Orléans,male,roman_rite
+9000122,Françoise,1844.8.14,1925.10.28,french,Orléans,female,roman_rite
+9000123,Henri,1908.7.5,,french,Orléans,male,roman_rite
+9000124,Isabelle,1878.5.7,,french,Orléans,female,roman_rite
+9000125,Muhammad Tawfiq,1852.11.15,1892.1.7,egyptian,Alawiyya,male,ashari
+9000126,Emina Ilhamy,1858.5.24,1931.6.19,egyptian,Alawiyya,female,ashari
+9000127,Muhammad al-Mahdi,1844.2.1,1902.6.1,maghrebi,Senussi,male,ashari

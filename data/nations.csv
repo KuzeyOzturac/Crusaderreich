@@ -1,44 +1,46 @@
-tag,name,capital,government,leader_id,leader,ck3_region,title_name
-GER,German Empire,Berlin,constitutional monarchy,9000001,Wilhelm II,e_germany,Germany
-FRA,Kingdom of France,Paris,Orleanist monarchy,9000017,Jean d’Orléans,k_france,France
-ENG,Kingdom of Great Britain,London,monarchy,9000018,George V Windsor,k_england,Great Britain
-ITA,Italian Republic,Milan,republic,9000050,Italian Republican Council,k_cr_italian_republic,Italy
-SIC,Kingdom of Two Sicilies,Naples,monarchy,9000052,Ferdinando III,k_sicily,Two Sicilies
-AUS,Austrian Empire,Vienna,Habsburg monarchy,9000009,Karl I,e_carpathia,Austria
-HUN,Kingdom of Hungary,Budapest,Habsburg monarchy,9000021,Joseph August,k_hungary,Hungary
-POL,Kingdom of Poland,Warsaw,Hohenzollern monarchy,9000025,August Wilhelm von Hohenzollern,k_poland,Poland
-UKR,Kingdom of Ukraine,Kyiv,Habsburg monarchy,9000022,Wilhelm Franz,k_ruthenia,Ukraine
-RUS,Russian Empire,Moscow,Romanov monarchy,9000030,Vladimir Kirillovich Romanov,e_russia,Russia
-OTT,Ottoman Empire,Constantinople,monarchy,9000055,Abdülmecid II,k_ottoman,Ottomans
-JAP,Empire of Japan,Tokyo,constitutional monarchy,9000056,Hirohito,k_yamato,Japan
-COR,Kingdom of Corsica,Ajaccio,Napoleonic monarchy,9000019,"Louis, Prince Napoléon",k_cr_corsica,Corsica
-GAL,Kingdom of Galicia-Lodomeria,Lviv,Habsburg monarchy,9000020,Karl Albrecht,k_galicia-volhynia,Galicia-Lodomeria
-CRB,Kingdom of Croatia and Bosnia,Zagreb,Habsburg monarchy,9000023,Leopold Salvator,k_croatia,Croatia and Bosnia
-ALB,Principality of Albania,Tirana,monarchy,9000024,Wilhelm zu Wied,k_albania,Albania
-FLW,Kingdom of Flanders-Wallonia,Brussels,Hohenzollern monarchy,9000026,Adalbert von Hohenzollern,k_cr_flanders_wallonia,Flanders-Wallonia
-WHR,Kingdom of White Ruthenia,Minsk,Hohenzollern monarchy,9000027,Oskar von Hohenzollern,k_white_rus,White Ruthenia
-LIT,Kingdom of Lithuania,Vilnius,monarchy,9000028,Karl Gero von Urach,k_lithuania,Lithuania
-FIN,Kingdom of Finland,Helsinki,monarchy,9000029,Friedrich Karl von Hesse-Kassel,k_finland,Finland
-UBD,United Baltic Duchy,Riga,monarchy,9000031,Adolf Friedrich von Mecklenburg-Schwerin,k_livonia,United Baltic
-TUS,Tuscany,Florence,Habsburg monarchy,9000051,Peter Ferdinand of Habsburg,k_cr_tuscany,Tuscany
-SWI,Swiss Confederation,Bern,federal republic,9000032,Swiss Federal Council,k_switzerland,Switzerland
-PAP,Papal State,Rome,theocracy,9000053,Pius XI,k_cr_papal_state,Papal State
-SRD,Kingdom of Sardinia,Cagliari,monarchy,9000054,Victor Emmanuel III,k_sardinia,Sardinia
-ICE,Iceland,Reykjavik,republic,9000033,Icelandic Council,d_iceland,Iceland
-IRE,Irish Republic,Dublin,republic,9000034,Michael Collins,k_ireland,Ireland
-DEN,Kingdom of Denmark,Copenhagen,monarchy,9000035,Christian X,k_denmark,Denmark
-NOR,Kingdom of Norway,Oslo,monarchy,9000036,Haakon VII,k_norway,Norway
-SWE,Kingdom of Sweden,Stockholm,monarchy,9000037,Gustaf V,k_sweden,Sweden
-BOH,Kingdom of Bohemia,Prague,monarchy,9000038,Albrecht Franz von Habsburg,k_bohemia,Bohemia
-ROM,Kingdom of Romania,Bucharest,monarchy,9000039,Carol II,k_dacia,Romania
-SER,Kingdom of Serbia,Belgrade,monarchy,9000040,Peter II,k_serbia,Serbia
-BUL,Kingdom of Bulgaria,Sofia,monarchy,9000041,Boris III,k_bulgaria,Bulgaria
-GRE,Kingdom of Greece,Athens,monarchy,9000042,George II,k_hellas,Greece
-SPA,Kingdom of Spain,Madrid,monarchy,9000043,Alfonso XIII,k_castille,Spain
-POR,Kingdom of Portugal,Lisbon,monarchy,9000044,Duarte II,k_portugal,Portugal
-DKU,Don-Kuban Union,Ekaterinodar,republic,9000045,Don-Kuban Council,k_caucasus,Don-Kuban
-GEO,Georgian Republic,Tbilisi,republic,9000046,Georgian Council,k_georgia,Georgia
-ARM,Republic of Armenia,Yerevan,republic,9000047,Armenian Council,k_armenia,Armenia
-AZE,Azerbaijan,Baku,republic,9000048,Azerbaijani Council,d_shirvan,Azerbaijan
-MOR,Kingdom of Morocco,Rabat,monarchy,9000049,Mohammed V,k_maghreb,Morocco
-NED,Kingdom of the Netherlands,Amsterdam,monarchy,9000057,Wilhelmina,k_frisia,Netherlands
+tag,name,capital,government,leader_id,leader,ck3_region,title_name,liege_tag
+GER,German Empire,Berlin,constitutional monarchy,9000001,Wilhelm II,e_germany,Germany,
+FRA,Kingdom of France,Paris,Orleanist monarchy,9000017,Jean d’Orléans,k_france,France,
+ENG,Kingdom of Great Britain,London,monarchy,9000018,George V Windsor,k_england,Great Britain,
+ITA,Kingdom of Italy,Milan,Habsburg monarchy,9000050,Robert von Habsburg,k_cr_italy,Italy,
+SIC,Kingdom of Two Sicilies,Naples,monarchy,9000052,Ferdinando III,k_sicily,Two Sicilies,
+AUS,Austrian Empire,Vienna,Habsburg monarchy,9000009,Karl I,e_carpathia,Austria,
+HUN,Kingdom of Hungary,Budapest,Habsburg monarchy,9000021,Joseph August,k_hungary,Hungary,
+POL,Kingdom of Poland,Warsaw,Hohenzollern monarchy,9000025,August Wilhelm von Hohenzollern,k_poland,Poland,
+UKR,Kingdom of Ukraine,Kyiv,Habsburg monarchy,9000022,Wilhelm Franz,k_ruthenia,Ukraine,
+RUS,Russian Empire,Moscow,Romanov monarchy,9000030,Vladimir Kirillovich Romanov,e_russia,Russia,
+OTT,Ottoman Empire,Constantinople,Sunni caliphate,9000055,Abdülmecid II,e_byzantium,Ottomans,
+JAP,Empire of Japan,Tokyo,constitutional monarchy,9000056,Hirohito,k_yamato,Japan,
+COR,Kingdom of Corsica,Ajaccio,Napoleonic monarchy,9000019,"Louis, Prince Napoléon",k_cr_corsica,Corsica,
+GAL,Kingdom of Galicia-Lodomeria,Lviv,Habsburg monarchy,9000020,Karl Albrecht,k_galicia-volhynia,Galicia-Lodomeria,
+CRB,Croatia,Zagreb,Habsburg monarchy,9000023,Leopold Salvator,k_croatia,Croatia,
+ALB,Principality of Albania,Tirana,monarchy,9000024,Wilhelm zu Wied,k_albania,Albania,
+FLW,Kingdom of Flanders-Wallonia,Brussels,Hohenzollern monarchy,9000026,Adalbert von Hohenzollern,k_cr_flanders_wallonia,Flanders-Wallonia,
+WHR,Kingdom of White Ruthenia,Minsk,Hohenzollern monarchy,9000027,Oskar von Hohenzollern,k_white_rus,White Ruthenia,
+LIT,Kingdom of Lithuania,Vilnius,monarchy,9000028,Karl Gero von Urach,k_lithuania,Lithuania,
+FIN,Kingdom of Finland,Helsinki,monarchy,9000029,Friedrich Karl von Hesse-Kassel,k_finland,Finland,
+UBD,United Baltic Duchy,Riga,monarchy,9000031,Adolf Friedrich von Mecklenburg-Schwerin,k_livonia,United Baltic Duchy,
+TUS,Tuscany,Florence,Habsburg monarchy,9000051,Peter Ferdinand of Habsburg,k_cr_tuscany,Tuscany,
+SWI,Swiss Confederation,Bern,federal republic,9000032,Swiss Federal Council,k_switzerland,Switzerland,
+PAP,Papal State,Rome,theocracy,9000053,Pius XI,k_cr_papal_state,Papal State,
+SRD,Kingdom of Sardinia,Cagliari,monarchy,9000054,Victor Emmanuel III,k_sardinia,Sardinia,
+ICE,Iceland,Reykjavik,republic,9000033,Icelandic Council,d_iceland,Iceland,
+IRE,Irish Republic,Dublin,republic,9000034,Michael Collins,k_ireland,Ireland,
+DEN,Kingdom of Denmark,Copenhagen,monarchy,9000035,Christian X,k_denmark,Denmark,
+NOR,Kingdom of Norway,Oslo,monarchy,9000036,Haakon VII,k_norway,Norway,
+SWE,Kingdom of Sweden,Stockholm,monarchy,9000037,Gustaf V,k_sweden,Sweden,
+BOH,Kingdom of Bohemia,Prague,monarchy,9000038,Albrecht Franz von Habsburg,k_bohemia,Bohemia,
+ROM,Kingdom of Romania,Bucharest,monarchy,9000039,Carol II,k_dacia,Romania,
+SER,Kingdom of Serbia,Belgrade,monarchy,9000040,Peter II,k_serbia,Serbia,
+BUL,Kingdom of Bulgaria,Sofia,monarchy,9000041,Boris III,k_bulgaria,Bulgaria,
+GRE,Kingdom of Greece,Athens,monarchy,9000042,George II,k_hellas,Greece,
+SPA,Kingdom of Spain,Madrid,monarchy,9000043,Alfonso XIII,k_castille,Spain,
+POR,Kingdom of Portugal,Lisbon,monarchy,9000044,Duarte II,k_portugal,Portugal,
+DKU,Don-Kuban Union,Ekaterinodar,republic,9000045,Don-Kuban Council,k_caucasus,Don-Kuban,
+GEO,Georgian Republic,Tbilisi,republic,9000046,Georgian Council,k_georgia,Georgia,
+ARM,Republic of Armenia,Yerevan,republic,9000047,Armenian Council,k_armenia,Armenia,
+AZE,Azerbaijan,Baku,republic,9000048,Azerbaijani Council,d_shirvan,Azerbaijan,
+MOR,Kingdom of Morocco,Rabat,monarchy,9000049,Mohammed V,k_maghreb,Morocco,
+NED,Kingdom of the Netherlands,Amsterdam,monarchy,9000057,Wilhelmina,k_frisia,Netherlands,
+EGY,Kingdom of Egypt,Cairo,Ottoman vassal monarchy,9000058,Abbas II Alawiyya,k_egypt,Egypt,OTT
+TRI,Kingdom of Tripolitania,Tripoli,Ottoman vassal monarchy,9000059,Idris I Senussi,k_tripolitania,Tripolitania,OTT

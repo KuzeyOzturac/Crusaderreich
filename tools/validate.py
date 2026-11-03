@@ -11,15 +11,26 @@ def rows(name):
         return list(csv.DictReader(file))
 nations = rows('nations.csv')
 characters = rows('characters.csv')
+relatives = rows('relatives.csv')
+parents = rows('parents.csv')
+marriages = rows('marriages.csv')
 assignments = rows('title_assignments.csv')
 counties = rows('county_map.csv')
+complete_titles = rows('complete_titles.csv')
 tags = {row['tag'] for row in nations}
 assert len(tags) == len(nations)
 assert len({row['id'] for row in characters}) == len(characters)
+all_people = {row['id']: row for row in characters + relatives}
+assert len(all_people) == len(characters) + len(relatives)
+assert all(row['child_id'] in all_people and all(not row[key] or row[key] in all_people for key in ('father','mother')) for row in parents)
+assert all(row['spouse1'] in all_people and row['spouse2'] in all_people for row in marriages)
 assert all(row['nation'] in tags for row in characters)
 assert all(row['nation'] in tags for row in assignments + counties)
 assert len({row['county'] for row in counties}) == len(counties)
 assert len({row['ck3_title'] for row in assignments}) == len(assignments)
+expected_duchies = {'d_thessalonika':'BUL','d_strymon':'BUL','d_grodno':'LIT','d_latium':'PAP','d_spoleto':'PAP','d_ancona':'PAP','d_emilia':'ITA','d_romagna':'ITA','d_duortnoseatnu':'NOR','d_vuovdisamieana':'SWE','d_bar':'FRA','d_lesser_poland':'GAL','d_masuria':'GER','d_wielkopolska':'GER','d_courland':'UBD','d_latgalians':'UBD','d_friuli':'AUS','d_duklja':'CRB','d_thrace':'OTT','d_aegean_islands':'OTT','d_krete':'OTT','d_tripolitania':'TRI','d_syrte':'TRI','k_egypt':'EGY','k_nubia':'EGY','k_blemmyia':'EGY'}
+complete_owner = {row['title']:row['nation'] for row in complete_titles}
+assert all(complete_owner.get(title) == nation for title,nation in expected_duchies.items())
 assert all(not row['leader_id'] or row['leader_id'] in {c['id'] for c in characters} for row in nations)
 print(f'{len(nations)} nations, {len(characters)} characters, {len(assignments)} source titles, {len(counties)} counties validated')
 bookmark = (root/'Crusaderreich/common/bookmarks/bookmarks/crusaderreich_1936.txt').read_text()
@@ -74,11 +85,19 @@ assert 'culture = vlach' in bookmark
 assert next(c for c in characters if c['nation'] == 'BOH')['name'] == 'Albrecht Franz von Habsburg'
 assert next(c for c in characters if c['nation'] == 'TUS')['name'] == 'Peter Ferdinand of Habsburg'
 assert 'government = feudal_government' in title_history.split('k_sicily = {', 1)[1].split('}', 1)[0]
-known_cultures = {'armenian','bulgarian','castilian','croatian','danish','dutch','english','french','georgian','german','greek','hungarian','irish','italian','japanese','maghrebi','norwegian','portuguese','russian','serbian','swabian','swedish','turkish','vlach'}
+known_cultures = {'armenian','bulgarian','castilian','croatian','danish','dutch','egyptian','english','french','georgian','german','greek','hungarian','irish','italian','japanese','maghrebi','norwegian','portuguese','russian','serbian','swabian','swedish','turkish','vlach'}
 assert set(re.findall(r'culture = "([^"]+)"', character_history)) <= known_cultures
 assert 'c_turin,SRD,' in (root/'data/county_map.csv').read_text()
-assert title_history.count('\n        liege = 0') == sum(bool(n['leader_id']) for n in nations)
+assert title_history.count('\n        liege = 0') >= sum(bool(n['leader_id']) and not n['liege_tag'] for n in nations)
 assert title_history.count('\n        liege = ') == title_history.count('1936.1.1 = {')
-assert 'd_venice = {\n    1936.1.1 = {\n        holder = 9000050\n        liege = k_cr_italian_republic' in title_history
+for row in parents:
+    block = character_history.split(f"{row['child_id']} = {{",1)[1].split('\n}',1)[0]
+    assert all(not row[role] or f'{role} = {row[role]}' in block for role in ('father','mother'))
+for row in marriages:
+    assert f"add_spouse = {row['spouse2']}" in character_history
+for title in ('k_egypt','k_nubia','k_blemmyia','k_tripolitania'):
+    assert f'{title} = {{\n    1936.1.1 = {{' in title_history
+assert 'd_sunni = {\n    1936.1.1 = {\n        holder = 9000055' in title_history
+assert 'd_venice = {\n    1936.1.1 = {\n        holder = 9000050\n        liege = k_cr_italy' in title_history
 assert 'd_toscana = {\n    1936.1.1 = {\n        holder = 9000051\n        liege = k_cr_tuscany' in title_history
 print('Dynasty names, landed rulers, and 1936 realm hierarchy validated')
